@@ -252,6 +252,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1611354173/ei/3
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/IWJTGHt.jpg" group-title="Infantil",Gloob sd
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/gloob.m3u8?mu3zAQc9HC3GbwJq=5ZmIv0H1djE-Ezg-mj5tMw&3U1G7qaTxrPbalZnEx=1611370901
 
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/IWJTGHt.jpg" group-title="Infantil",Gloob sd
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/gloob_04f1241e_e81ba88b52be52cf0ae82a75d46e88a4b4a50473/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTQzLjIwMi40Ny4yMjQiO2k6MTtzOjgyOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMC4xNjsgcnY6ODQuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84NC4wIjtpOjI7aToxNjExMzU3ODc1O30%3D
+
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ng07wOL.png" group-title="Infantil",Zoo Moo Kids sd
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/zoomoo.m3u8?mu3zAQc9HC3GbwJq=gev2UNd1HQcdDjOJ_WZ2dg&3U1G7qaTxrPbalZnEx=1611371304
 
