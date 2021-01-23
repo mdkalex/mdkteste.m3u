@@ -1,7 +1,7 @@
 ################################################################################# TV Aberta
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globosp_cfe21c68_7f5da01685d5d2a1b55d8ebe798913fc14b7f6f0/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTQzLjIwMi40Ny4yMjQiO2k6MTtzOjgyOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMC4xNjsgcnY6ODQuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84NC4wIjtpOjI7aToxNjExNDAxODcwO30%3D
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO SP
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globosp_cfe21c68_7f5da01685d5d2a1b55d8ebe798913fc14b7f6f0/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTQzLjIwMi40Ny4yMjQiO2k6MTtzOjgyOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMC4xNjsgcnY6ODQuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84NC4wIjtpOjI7aToxNjExNDAyMjQzO30%3D
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO RJ HD
 http://s1brazil.ddns.net:25461/charleievangelista@me.com/799ed06d9ead40a55ff63ef625df5c89abd272ea0c8bf923f09be2e681e8f3bf603fec2b76f198c33544f877837fa904c93a8b459a0dd2d2f113b382f91aaa5f/2851
@@ -207,15 +207,6 @@ https://5c483b9d1019c.streamlock.net/8078/8078/chunklist.m3u8
 
 ################################################################################# Infantil
 
-#EXTINF:-1 tvg-logo="https://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="Infantil",3ABN KIDS
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2mPv1Tm.png" group-title="Infantil",Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XSgdkdj.jpeg" group-title="Infantil",Tv Destak
-http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/me7Ae0Q.png" group-title="Infantil",Retrô Cartoon
 http://stmv1.srvif.com:1935/retrotv/retrotv/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -257,6 +248,15 @@ https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fu
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://gps.pezquiza.com/wp-content/uploads/2019/12/canal-peppa-pig-brasil.jpg" group-title="Infantil",Peppa Pig Canal
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1611354173/ei/3fsKYOHqHo6IxQT5-pi4DQ/ip/143.202.47.224/id/ZuuMDHa2gT4.4/source/yt_live_broadcast/requiressl/yes/tx/23977104/txs/23977102%2C23977103%2C23977104%2C23977105%2C23977106/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAM5offvvUdyOKZiguThwsrZRuEH6laVdYxd_akIuuOIlAiAvUdAW3hWSkVVOtGoIZMOopU18EFKRNSqu7ZpVqgb9mg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/IWJTGHt.jpg" group-title="Infantil",Gloob sd
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/gloob.m3u8?mu3zAQc9HC3GbwJq=5ZmIv0H1djE-Ezg-mj5tMw&3U1G7qaTxrPbalZnEx=1611370901
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/IWJTGHt.jpg" group-title="Infantil",Gloob sd
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/gloob_04f1241e_e81ba88b52be52cf0ae82a75d46e88a4b4a50473/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTQzLjIwMi40Ny4yMjQiO2k6MTtzOjgyOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMC4xNjsgcnY6ODQuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84NC4wIjtpOjI7aToxNjExMzU3ODc1O30%3D
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ng07wOL.png" group-title="Infantil",Zoo Moo Kids sd
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/zoomoo.m3u8?mu3zAQc9HC3GbwJq=gev2UNd1HQcdDjOJ_WZ2dg&3U1G7qaTxrPbalZnEx=1611371304
 
 ################################################################################ Esportes
 
@@ -448,6 +448,9 @@ https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L61CJkFk/images.jpg" group-title="DOCUMENTARIOS", History Lab
 https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEntvna.jpg" group-title="DOCUMENTARIOS",  Discovery Channel 
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=_2NaXc7BcQQZPgzUqY0KOQ&3U1G7qaTxrPbalZnEx=1611376008
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2AmwZmm.jpg" group-title="DOCUMENTARIOS", Discovery Channel HD
 http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryChannelHD&login=Povsman&key=Bb9r2bM
 
@@ -457,7 +460,13 @@ http://srvx.io:80/0165466866/fireurl.co/90571
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BOEIiiG.png" group-title="DOCUMENTARIOS", Discovery TLC SD (MX)
 http://hidraplay.tv:80/tlleklnk/Gw3h655Hfy/34820
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/animalplanet.m3u8?mu3zAQc9HC3GbwJq=_SarDQuHlZIoxiV9z7Otng&3U1G7qaTxrPbalZnEx=1611376289
+
 ################################################################################# Canais Variedade
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Db7V3Ug.png" group-title="Variedade e Músicas,VIVA
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/viva.m3u8?mu3zAQc9HC3GbwJq=ieH9gCtOn4TnGOdaTM2AQA&3U1G7qaTxrPbalZnEx=1611375609
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NKXnETl.jpg" group-title="Variedade e Músicas",Yeeah!
 http://srv3.zcast.com.br:1935/yeeaah/yeeaah/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -506,10 +515,10 @@ https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/11495.mp4
 https://jwwge18508endzd.belugacdn.link/-f-i-l-m-e-s-/dub/12110.mp4
 
 #EXTINF:-1 tvg-logo="https://gfilmes.net/wp-content/uploads/2019/02/enkQRpdhnvHEnO66j4UJ9szrUtS-185x278.jpg" group-title="Filmes",Os Vingadores 2012
-https://fvs.io/redirector?token=aEo2VWw1WWZDd2JBUjlqS3dEOTNhM3huVHdLU21iMmhSa2ZjazlZT3RaMVgrVlA1QVpOTlZ0VmJCeXFRTUxxQjdsQU00Z1Z4L3VNREZveDdyZnVobGZJSWFpTjU2ZmUzVzlmSHBWTVlkQVV3RjBuU0tXZzlVTGtzNnZkMXlsdVdpUThubFNxaDhWN3M0dkIzYW9RcGoxdWoydUZsM2xxdTFRZz06ck8wcmQzSE8zN3JFeW95UHBUVSsyZz09
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/OSVGDRS.mp4
 
-#EXTINF:-1 tvg-logo="https://gfilmes.net/wp-content/uploads/2019/02/ztRXtaFkIZ4fQdDvKtt6MP5VBYZ-185x278.jpg" group-title="Filmes",Vingadores: Era de Ultron 2015
-https://fvs.io/redirector?token=S3pYc2FaU213UEU1ZksvQ0ppdjQ3UUpMaUZhcTJ2QzFmZHM5OS9HdUpzeVJZUi9GcHlVd2V5bUp4bksvNmFkMkFVd0E0a21mWlZ1N2U3UmNmOGtkK25DK2xqVGhyQkhaM3gxdGhmWmNGckJySXlGSmFzbCtmOEs2T2EzdWh3enIxSlJzclloN0RyN04yT2VGcE1qK1hYK3dtbDZHcDdMS0pwYz06USsvVGV1eFEzU0EwL28zNDNtSUt3Zz09
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qnfWcss.jpg" group-title="Filmes",Vingadores: Era de Ultron 2015
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/VNGDRSEDURON.mp4
 
 #EXTINF:-1 tvg-logo="https://gfilmes.net/wp-content/uploads/2019/02/rkHe0BfOo1f5N2q6rxgdYac7Zf6-185x278.jpg" group-title="Filmes",Vingadores: Guerra Infinita 2018
 https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/299536.mp4
@@ -536,12 +545,12 @@ https://fvs.io/redirector?token=dFR2OE1tUENSU1llamt1N1pBZ2g3ZnVVMWhpQ1RUZFFic045
 https://streamtape.com/get_video?id=plZlDa2mDXfrd4G&expires=1611420858&ip=F0EPKRSRDy9XKxR&token=IKb6GU_rmKd4&stream=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lirF0jg.jpg" group-title="Filmes",Táxi - Velocidade nas Ruas 1998
-https://ams.astr.live/getNew.php?q=hd&f=QVVPZ1l4RVZZS0F1cUlWaHAyU2hZekl4TEpFY0wyOWZNSUxobkt1dUlOPT0=&id=QXdENA==&token=Qkdxdk16SXVaVFIzTDJBdkJKUmtBSlJqWm14alp6WmxBR3gyWkpWakJHTj0=
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/TAX1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BHMAnw0.jpg" group-title="Filmes",Taxi - 2004
 https://fvs.io/redirector?token=ZDRwNThOOG55MmVWODhTekFBbk9OT3ROMW9kbWYrVDlSdkxGTDg3aUpWT1pGZlM0Z05rTGltajF5cGJ1YWJaYzhPV3VtU25Fcy83V3J0NnVjVlBrTEVZN2JGUGJ3MEowUFJmNzV0RGJDQ3JlbU53eStrcHkycUdSc3JUb2VkdElmdHZWOG9YaEhyUXl0a1RWemRKS1hRcXo3a1U3cTB0YUEwYXo6NUpqcjRTMDZnd1NNd25zZDhrUFNmdz09
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHMAnw0.jpg" group-title="Filmes",Taxi 2 - 2000
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l2bHY96.jpg" group-title="Filmes",Taxi 2 - 2000
 https://fvs.io/redirector?token=SnpjZkFhcUVlcTlpQnR3c0lwQ0ZTQm5QTzFPQkhtdkpNd3p0Y2xWZU02SFprTHlLVHYydENYT2p3MWlEQ0N6eGRtdkpWQ0dzUmhoVENQNndSUXZxZmMwZ3luNDg0dmxlcnRQRXpnT0ZGUnN2UmhJR3dIeXhpQ3ovMTZpSDI4dkdLRkRRR3lHenFqeFV1YU5nTjFlRm5aY280cXZQSjdVd0pYY1E6eWZhMVRLYkVUTGlpaVdNM0d4aDNwZz09
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QBrsBQi.jpg" group-title="Filmes",Taxi 3 - 2003
@@ -559,10 +568,10 @@ https://s3.us-west-1.wasabisys.com/m.abrirvideo.cf/-f-i-l-m-e-s-/dub/434355.mp4
 https://s3.us-west-1.wasabisys.com/m.abrirvideo.cf/-f-i-l-m-e-s-/dub/10160.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yc4vNVg/5ce42d9704a18.jpg" group-title="Filmes Infatins",Luccas Neto em: Uma Babá Muito Esquisita 2019
-https://fvs.io/redirector?token=YkF4WnpITW5obm0zWkpvQWozbENMd29URGs0d3JEQ0hBemswWDVhVlNxZEo0RFJiVS9oRk5JWk5YOUk2NVJFNi90eWNHQndlNVM3MCtSUklCUVN3MlVYbytrT0trL1JwTldzdUF4K001Y2xUdEsvVGJrU2dFQjRWM0s0L3dYSXpqSUR1VEVzUWhQYldHZXdOMTRsK01XWDUxUTJvRVE9PTpaNEVSQWhmdmlxTVJjWUFTbnVyYkRnPT0
+https://t6h7n3h2.stackpathcdn.com/RCFServer2/ondemand/LUCSNTOEMUMBABMTESQCDA.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rs0SSYxm/048079879-240x320.jpg" group-title="Filmes Infatins",Luccas Neto Em: Acampamento de Férias 2019
-https://s750.clipwatching.com/hls/zx5xt7qtkn2txcne4y6cte5y3xt72ejusxypugvrcoilppauui5waw3a75ia/index-v1-a1.m3u8
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/LCSNTOEMACMPMTDFRS.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRBRKtwr/v6v-LY8-As-RIvk-EO86i1qk-X2-Ifu-St.jpg" group-title="Filmes Infatins",Luccas Neto em: Dia das Crianças 2019
 https://www52.uptostream.com/375l8fm2344/720/0/video.mp4
@@ -583,7 +592,7 @@ http://redir.videezy.gq/newsthg/filmcucu/lccasntoomapadtsouro.mp4
 https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/LCSNTEMUMNTLMTATRPLHDO.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/USUViQl.jpg" Fgroup-title="Filmes Infatins",Luccas Neto Em: Acampamento de Ferias 3 2020
-https://s33.aparat.cam/hls/aoqo7lsa42r5fwfuhyzba6yzkzpgcpnkbrlevd734nygtvrpokhkviofqi5a/index-v1-a1.m3u8
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/LCSNTOEMACMPMTDFRS3.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uEf4saq.jpg" Fgroup-title="Filmes Infatins",LEGO: The Adventures of Clutch Powers 2010
 https://www289.ff-01.com/token=YzLkbumPMb5lUIfIz47nQw/1611345443/143.202.0.0/139/3/7c/39b418a3704a758abd6b34ba2e95a7c3-360p.mp4
@@ -592,4 +601,28 @@ https://www289.ff-01.com/token=YzLkbumPMb5lUIfIz47nQw/1611345443/143.202.0.0/139
 https://jwwge18508endzd.belugacdn.link/-f-i-l-m-e-s-/dub/150540.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6lkVFzR.jpg" Fgroup-title="Filmes Infatins",Wheely - Velozes e Divertidos 2018
-https://fvs.io/redirector?token=cDFHYThza1NyTzc5ZE84QU9TREtzN3A1RDRsczZSdUxGWHBuMko1WFdTSWZTRk9pamJmVzhjeDZFamc5UDlKNERZSjNBWDNjemcvMkIyajhmTW1WdEJNNVVXdytuSS9PWGcwREhyeUFmSHh6VmtFRWg5NE9nSEdISFAvVS9scDZuR2V1aUhsY2xudWQvdndWTUZMZ2Y0U3NVSlp3TzJPVVA5RlU6aC9WazZqbDdGb1FrdjdjMTB3VWROdz09
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WHLYVLZEDVTDS.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZR5O2D.jpg" Fgroup-title="Filmes Infatins",Sing – Quem Canta Seus Males Espanta 2016
+https://jwwge18508endzd.belugacdn.link/-f-i-l-m-e-s-/dub/335797.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zbn0kYd.jpg" Fgroup-title="Filmes Infatins",Rango 2011
+https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/44896.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hdZjGiu.jpg" Fgroup-title="Filmes Infatins",O Homem das Cavernas 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/OHMNDSCVNS.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XgKJCzx.jpg" Fgroup-title="Filmes Infatins",Megamente 2010
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/MGMNTE.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBRnw81.jpg" Fgroup-title="Filmes Infatins",O Segredo dos Animais Ep.01 - 2006
+https://t6h7n3h2.stackpathcdn.com/RCServer15/ondemand/OSGRDSANMST01EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBRnw81.jpg" Fgroup-title="Filmes Infatins",O Segredo dos Animais Ep.02 - A Fuga do Celeiro
+https://t6h7n3h2.stackpathcdn.com/RCServer15/ondemand/OSGRDSANMST01EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q4UY4xc.jpg" Fgroup-title="Filmes Infatins",Trolls: Vamos Festejar - 2017 
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/TRLSVMSFSTJR.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W3fRlzt.jpg" Fgroup-title="Filmes Infatins",Trolls 2 - 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/TRLS2.mp4
