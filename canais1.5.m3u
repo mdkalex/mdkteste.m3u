@@ -448,6 +448,9 @@ https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L61CJkFk/images.jpg" group-title="DOCUMENTARIOS", History Lab
 https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEntvna.jpg" group-title="DOCUMENTARIOS",  Discovery Channel 
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=_2NaXc7BcQQZPgzUqY0KOQ&3U1G7qaTxrPbalZnEx=1611376008
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2AmwZmm.jpg" group-title="DOCUMENTARIOS", Discovery Channel HD
 http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryChannelHD&login=Povsman&key=Bb9r2bM
 
@@ -456,6 +459,9 @@ http://srvx.io:80/0165466866/fireurl.co/90571
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BOEIiiG.png" group-title="DOCUMENTARIOS", Discovery TLC SD (MX)
 http://hidraplay.tv:80/tlleklnk/Gw3h655Hfy/34820
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/animalplanet.m3u8?mu3zAQc9HC3GbwJq=_SarDQuHlZIoxiV9z7Otng&3U1G7qaTxrPbalZnEx=1611376289
 
 ################################################################################# Canais Variedade
 
