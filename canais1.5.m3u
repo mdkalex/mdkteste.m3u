@@ -173,8 +173,10 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV Oeste MA
 https://5d2c98775bafe.streamlock.net/8104/8104/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV Liberdade
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta", CBTV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
@@ -183,8 +185,10 @@ http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",Tv Capital 777
 http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV Santa Cecilia
 http://flash1.crossdigital.com.br/2063/2063/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV Digital Birigui
 http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist.m3u8
 
@@ -193,6 +197,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV Diario do Sertao
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta", Rede Metropole
 http://177.130.81.30/hls/metropole.m3u8
 
@@ -691,6 +696,15 @@ https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/TRLSVMSFSTJR.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W3fRlzt.jpg" group-title="Filmes Infatins",Trolls 2 - 2020
 https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/TRLS2.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AAWOMzo.jpg" group-title="Filmes Infatins",Yellowbird: O Pequeno Herói - 2014
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/YELWBRDOPQNOHROI.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9zl8u5h.jpg" group-title="Filmes Infatins",Vombate ao Combate - 2020 
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/VMBTAOCMBT.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MeCl2K5.jpg" group-title="Filmes Infatins",Bob Esponja: O Incrível Resgate - 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/BOBESPJOINCRVLRSGTE.mp4
+
 ######################################  Filmes de Natal  ########################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1TUHKQL.jpg" group-title="Filmes de Natal",Missão Presente de Natal - 2020
@@ -698,4 +712,3 @@ https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/MSAOPSNTDNTL.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1jBD7dn.jpg" group-title="Filmes de Natal",Tudo Bem no Natal Que Vem - 2020
 https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/TDBMNONTLQVM.mp4
-
