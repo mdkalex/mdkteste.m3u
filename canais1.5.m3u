@@ -506,7 +506,16 @@ http://strm112.1.fm/loveclassics_mobile_mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas", Alpha SP
 https://ice.fabricahost.com.br/alphafm1017?compat=1
 
-######################################  Filmes Marvel Studios  ########################################
+############################################################  Filmes Marvel Studios  ############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JLh0B4x.jpg" group-title="Filmes Marvel Studios",Homem de Ferro - 2008
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HMNDEFRO01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vByQTT7.jpg" group-title="Filmes Marvel Studios",Homem de Ferro 2 - 2010
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HMNDEFRO02.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GZVb9dZ.jpg" group-title="Filmes Marvel Studios",Homem de Ferro 3 - 2013
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HMNDEFRO03.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YxPkaHS.jpg" group-title="Filmes Marvel Studios",Os Vingadores 2012
 https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/OSVGDRS.mp4
