@@ -173,8 +173,10 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV Oeste MA
 https://5d2c98775bafe.streamlock.net/8104/8104/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV Liberdade
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta", CBTV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
@@ -183,8 +185,10 @@ http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",Tv Capital 777
 http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV Santa Cecilia
 http://flash1.crossdigital.com.br/2063/2063/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV Digital Birigui
 http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist.m3u8
 
@@ -193,6 +197,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV Diario do Sertao
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta", Rede Metropole
 http://177.130.81.30/hls/metropole.m3u8
 
@@ -506,6 +511,29 @@ http://strm112.1.fm/loveclassics_mobile_mp3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas", Alpha SP
 https://ice.fabricahost.com.br/alphafm1017?compat=1
 
+############################################################  Filmes Marvel Studios  ############################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JLh0B4x.jpg" group-title="Filmes Marvel Studios",Homem de Ferro - 2008
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HMNDEFRO01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vByQTT7.jpg" group-title="Filmes Marvel Studios",Homem de Ferro 2 - 2010
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HMNDEFRO02.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GZVb9dZ.jpg" group-title="Filmes Marvel Studios",Homem de Ferro 3 - 2013
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HMNDEFRO03.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YxPkaHS.jpg" group-title="Filmes Marvel Studios",Os Vingadores 2012
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/OSVGDRS.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qnfWcss.jpg" group-title="Filmes Marvel Studios",Vingadores: Era de Ultron 2015
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/VNGDRSEDURON.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wcr49OZ.jpg" group-title="Filmes Marvel Studios",Vingadores: Guerra Infinita 2018
+https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/299536.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5NwsbN9.jpg" group-title="Filmes Marvel Studios",Vingadores: Ultimato 2019
+https://guerraempreendimento.xyz/-f-i-l-m-e-s-/dub/299534.mp4
+
 ######################################  Filmes DC Comics  ########################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4zoJPFC.jpg" group-title="Filmes DC Comics",O Homem de Aço - 2013
@@ -525,23 +553,11 @@ https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/MLHRMRVLHA1984.mp4
 
 ######################################  Filmes  ########################################
 
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/96/28/47/20457373.jpg" group-title="Filmes",Chamas da Vingançam
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cEXhQfo.jpg" group-title="Filmes",Chamas da Vingançam
 https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/11495.mp4
 
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/93/17/70/20240111.jpg" group-title="Filmes",Drácula: Morto, mas Feliz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yyiXz3y.jpg" group-title="Filmes",Drácula: Morto, mas Feliz
 https://jwwge18508endzd.belugacdn.link/-f-i-l-m-e-s-/dub/12110.mp4
-
-#EXTINF:-1 tvg-logo="https://gfilmes.net/wp-content/uploads/2019/02/enkQRpdhnvHEnO66j4UJ9szrUtS-185x278.jpg" group-title="Filmes",Os Vingadores 2012
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/OSVGDRS.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qnfWcss.jpg" group-title="Filmes",Vingadores: Era de Ultron 2015
-https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/VNGDRSEDURON.mp4
-
-#EXTINF:-1 tvg-logo="https://gfilmes.net/wp-content/uploads/2019/02/rkHe0BfOo1f5N2q6rxgdYac7Zf6-185x278.jpg" group-title="Filmes",Vingadores: Guerra Infinita 2018
-https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/299536.mp4
-
-#EXTINF:-1 tvg-logo="https://gfilmes.net/wp-content/uploads/2019/10/q6725aR8Zs4IwGMXzZT8aC8lh41-185x278.jpg" group-title="Filmes",Vingadores: Ultimato 2019
-https://guerraempreendimento.xyz/-f-i-l-m-e-s-/dub/299534.mp4
 
 ##EXTINF:-1 tvg-logo="https://i.imgur.com/sybVTfM.jpg" group-title="Filmes",O Mundo Perdido: Jurassic Park - 1997
 https://s3.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/JurassicPark2/dub/video.json/index-v1-a1.m3u8
@@ -591,7 +607,25 @@ https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/PAIEMDBRO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BdMKG8Q.jpg" group-title="Filmes",O Dia Depois de Amanhã - 2004
 https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/ODIADPSDAMNHA.mp4
 
-######################################  Filmes Infatins  ########################################
+#EXTINF:-1 tvg-logo="hhttps://i.imgur.com/KwM9ZDN.jpg" group-title="Filmes",Zathura: Uma Aventura Espacial - 2005
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/ZTHRUMAVNTESPCL.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/penBkSG.jpg" group-title="Filmes",Zoom: Academia de Super-Heróis - 2006
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/ZOMACDMDSPRHRS.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mfNbfiq.jpg" group-title="Filmes",Wing Chun: Uma Luta Milenar - 1994
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WNGCHNUMLTMLNR.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CHlIz8n.jpg" group-title="Filmes",Z: A Cidade Perdida - 2016
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/ZCDSPRDA.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnf4Ixn.jpg" group-title="Filmes",Warcraft: O Primeiro Encontro de Dois Mundos - 2016
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WARCRFT.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EC8lUee.jpg" group-title="Filmes",Waterworld: O Segredo das Águas - 1995
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WATRWRLD.mp4
+
+#######################################################################################################  Filmes Infatins  ########################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yEVZy5U.jpg" group-title="Filmes Infatins",Soul: Uma Aventura com Alma - 2020
 https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/SOLUMAVTRCMALM.mp4
@@ -611,61 +645,76 @@ https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/LCSNTOEMACMPMTDFRS.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRBRKtwr/v6v-LY8-As-RIvk-EO86i1qk-X2-Ifu-St.jpg" group-title="Filmes Infatins",Luccas Neto em: Dia das Crianças 2019
 https://www52.uptostream.com/375l8fm2344/720/0/video.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/h4Zgy4Q6/qvb-G8-HGZADCUBh-Zyy8f029-Kvi-KW.jpg" Fgroup-title="Filmes Infatins",Luccas Neto em: O Fim do Natal 2019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/h4Zgy4Q6/qvb-G8-HGZADCUBh-Zyy8f029-Kvi-KW.jpg" group-title="Filmes Infatins",Luccas Neto em: O Fim do Natal 2019
 https://www1667.ff-04.com/token=JT2DBIwFEx4XdU9T-271sw/1611422721/143.202.0.0/105/3/50/046dc84c39b53b2c808e24921116c503-720p.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqqSyySD/v-Yg-Za09-ICw-AB2-Tkon-Mf-XRT4-Dj8-E.jpg" Fgroup-title="Filmes Infatins",Luccas Neto em: Acampamento de Férias 2 2020
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqqSyySD/v-Yg-Za09-ICw-AB2-Tkon-Mf-XRT4-Dj8-E.jpg" group-title="Filmes Infatins",Luccas Neto em: Acampamento de Férias 2 2020
 https://t6h7n3h2.stackpathcdn.com//RCFServer3/ondemand/LCSNTOEMACMPMTDFRS2.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d6zwF3N/gg-VEV9z7k3-Fd2-Dqn-Di-Sud-VCg-CU3.jpg" Fgroup-title="Filmes Infatins",Luccas Neto Em: O Hotel Mágico 2020
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d6zwF3N/gg-VEV9z7k3-Fd2-Dqn-Di-Sud-VCg-CU3.jpg" group-title="Filmes Infatins",Luccas Neto Em: O Hotel Mágico 2020
 https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/LCSNTOEMOHTLMGCO.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6uvr8oD.jpg" Fgroup-title="Filmes Infatins",Luccas Neto em: O Mapa do Tesouro 2020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6uvr8oD.jpg" group-title="Filmes Infatins",Luccas Neto em: O Mapa do Tesouro 2020
 http://redir.videezy.gq/newsthg/filmcucu/lccasntoomapadtsouro.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oRnf6mW.jpg" Fgroup-title="Filmes Infatins",Luccas Neto em: Um Natal Muito Atrapalhado 2020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oRnf6mW.jpg" group-title="Filmes Infatins",Luccas Neto em: Um Natal Muito Atrapalhado 2020
 https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/LCSNTEMUMNTLMTATRPLHDO.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/USUViQl.jpg" Fgroup-title="Filmes Infatins",Luccas Neto Em: Acampamento de Ferias 3 2020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/USUViQl.jpg" group-title="Filmes Infatins",Luccas Neto Em: Acampamento de Ferias 3 2020
 https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/LCSNTOEMACMPMTDFRS3.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x9X929G.jpg" Fgroup-title="Filmes Infatins",LEGO DC: Shazam – Magia e Monstros 2020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x9X929G.jpg" group-title="Filmes Infatins",LEGO DC: Shazam – Magia e Monstros 2020
 https://s2.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/LegoDCShazamMagiaEMonstros/dub/video.json/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RT6dVjY.jpg" Fgroup-title="Filmes Infatins",Divertida Mente - 2015
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RT6dVjY.jpg" group-title="Filmes Infatins",Divertida Mente - 2015
 https://jwwge18508endzd.belugacdn.link/-f-i-l-m-e-s-/dub/150540.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6lkVFzR.jpg" Fgroup-title="Filmes Infatins",Wheely - Velozes e Divertidos 2018
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6lkVFzR.jpg" group-title="Filmes Infatins",Wheely - Velozes e Divertidos 2018
 https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WHLYVLZEDVTDS.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZR5O2D.jpg" Fgroup-title="Filmes Infatins",Sing – Quem Canta Seus Males Espanta 2016
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZR5O2D.jpg" group-title="Filmes Infatins",Sing – Quem Canta Seus Males Espanta 2016
 https://jwwge18508endzd.belugacdn.link/-f-i-l-m-e-s-/dub/335797.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zbn0kYd.jpg" Fgroup-title="Filmes Infatins",Rango 2011
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zbn0kYd.jpg" group-title="Filmes Infatins",Rango 2011
 https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/44896.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hdZjGiu.jpg" Fgroup-title="Filmes Infatins",O Homem das Cavernas 2018
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hdZjGiu.jpg" group-title="Filmes Infatins",O Homem das Cavernas 2018
 https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/OHMNDSCVNS.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XgKJCzx.jpg" Fgroup-title="Filmes Infatins",Megamente 2010
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XgKJCzx.jpg" group-title="Filmes Infatins",Megamente 2010
 https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/MGMNTE.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBRnw81.jpg" Fgroup-title="Filmes Infatins",O Segredo dos Animais Ep.01 - 2006
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBRnw81.jpg" group-title="Filmes Infatins",O Segredo dos Animais Ep.01 - 2006
 https://t6h7n3h2.stackpathcdn.com/RCServer15/ondemand/OSGRDSANMST01EP01.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBRnw81.jpg" Fgroup-title="Filmes Infatins",O Segredo dos Animais Ep.02 - A Fuga do Celeiro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBRnw81.jpg" group-title="Filmes Infatins",O Segredo dos Animais Ep.02 - A Fuga do Celeiro
 https://t6h7n3h2.stackpathcdn.com/RCServer15/ondemand/OSGRDSANMST01EP02.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q4UY4xc.jpg" Fgroup-title="Filmes Infatins",Trolls: Vamos Festejar - 2017 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q4UY4xc.jpg" group-title="Filmes Infatins",Trolls: Vamos Festejar - 2017 
 https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/TRLSVMSFSTJR.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W3fRlzt.jpg" Fgroup-title="Filmes Infatins",Trolls 2 - 2020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W3fRlzt.jpg" group-title="Filmes Infatins",Trolls 2 - 2020
 https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/TRLS2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AAWOMzo.jpg" group-title="Filmes Infatins",Yellowbird: O Pequeno Herói - 2014
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/YELWBRDOPQNOHROI.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9zl8u5h.jpg" group-title="Filmes Infatins",Vombate ao Combate - 2020 
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/VMBTAOCMBT.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MeCl2K5.jpg" group-title="Filmes Infatins",Bob Esponja: O Incrível Resgate - 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/BOBESPJOINCRVLRSGTE.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KxBMZXl.jpg" group-title="Filmes Infatins",Pets Unidos! - 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/PETSUNDS.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9vl2m.jpg" group-title="Filmes Infatins",A Caminho da Lua - 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/ACMNHDLUA.mp4
 
 ######################################  Filmes de Natal  ########################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1TUHKQL.jpg" Fgroup-title="Filmes de Natal",Missão Presente de Natal - 2020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1TUHKQL.jpg" group-title="Filmes de Natal",Missão Presente de Natal - 2020
 https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/MSAOPSNTDNTL.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1jBD7dn.jpg" Fgroup-title="Filmes de Natal",Tudo Bem no Natal Que Vem - 2020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jBD7dn.jpg" group-title="Filmes de Natal",Tudo Bem no Natal Que Vem - 2020
 https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/TDBMNONTLQVM.mp4
