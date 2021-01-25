@@ -15,7 +15,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d0007
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Pluto CINE",Pluto TV Cine Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=72&deviceId=5f12111c9e6c2c00078ef3bb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-
+################################################################################# Canais Pluto ##################################################################
 
 ################################################################################# TV Aberta
 
@@ -270,20 +270,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Pluto TV Kids - site
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=721&deviceId=5f1214a637c6fd00079c652f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-##EXTINF:-1 tvg-id="Boomerang" tvg-logo="https://i.imgur.com/EfpymdB.png" group-title="Infantil",Boomerang
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/boomerang.m3u8?mu3zAQc9HC3GbwJq=9UIuuCDI8Vcz17rxzQWJyA&3U1G7qaTxrPbalZnEx=1611419934
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Nick Clássico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5f12151794c1800007a8ae63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-##EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://i.imgur.com/DQAE1cW.png" group-title="Infantil",Tooncast
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tooncast.m3u8?mu3zAQc9HC3GbwJq=62FkLIRj_iMjqBvdRrdpSg&3U1G7qaTxrPbalZnEx=1611418123
-
-#EXTINF:-1 tvg-id="Gloob" tvg-logo="https://i.imgur.com/IWJTGHt.jpg" group-title="Infantil",Gloob 1
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/gloob.m3u8?mu3zAQc9HC3GbwJq=4ElStF4IUsR0LsqPuzAt_g&3U1G7qaTxrPbalZnEx=1611593522
-
-##EXTINF:-1 tvg-id="Gloob" tvg-logo="https://i.imgur.com/IWJTGHt.jpg" group-title="Infantil",Gloob 2
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/gloob.m3u8?mu3zAQc9HC3GbwJq=4ElStF4IUsR0LsqPuzAt_g&3U1G7qaTxrPbalZnEx=1611593522
-
-##EXTINF:-1 tvg-id="Zoo Moo" tvg-logo="https://i.imgur.com/ng07wOL.png" group-title="Infantil",Zoo Moo Kids sd
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/zoomoo.m3u8?mu3zAQc9HC3GbwJq=gev2UNd1HQcdDjOJ_WZ2dg&3U1G7qaTxrPbalZnEx=1611371304
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Nick Jr. Club
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 ################################################################################ Esportes
 
@@ -495,49 +486,6 @@ http://hidraplay.tv:80/tlleklnk/Gw3h655Hfy/34820
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/animalplanet.m3u8?mu3zAQc9HC3GbwJq=_SarDQuHlZIoxiV9z7Otng&3U1G7qaTxrPbalZnEx=1611376289
-
-################################################################################# Canais Variedade
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fbaba457ae7d54cdd11540025b82e800.jpg" group-title="Variedade e Músicas,Number 1 TV (NR1 TV)
-https://stream-03.nyc.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDJbQc9bzEnPikcjE3Fc0toM)/dm/3/x67c77j/s/live-3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NKXnETl.jpg" group-title="Variedade e Músicas",Yeeah!
-http://srv3.zcast.com.br:1935/yeeaah/yeeaah/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cpLRWLC.png" group-title="Variedade e Músicas",ZOOM
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cpLRWLC.png" group-title="Variedade e Músicas",Web TV Uai
-https://livefocamundo.com:8081/8266/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cpLRWLC.png" group-title="Variedade e Músicas",TVN Brasil
-http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas", Retro Music Television
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas",Radio Captal
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas",1HD Music
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas",DJing
-https://www.djing.com/tv/29054-03.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas",LFM TV
-https://edge8.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas",Music Channel Romania
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas",KpopTV
-https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas", KroneHIT
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas", Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas",1.FM - Love Classics
-http://strm112.1.fm/loveclassics_mobile_mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas", Alpha SP
-https://ice.fabricahost.com.br/alphafm1017?compat=1
 
 ############################################################  Filmes Marvel Studios  ############################################################################
 
