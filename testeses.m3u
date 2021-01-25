@@ -258,3 +258,106 @@ http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV NOVA ONDA 
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist.m3u8
+
+#################################################################################  Infantil ##############################################################################
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/me7Ae0Q.png" group-title="Infantil",Retrô Cartoon
+http://stmv1.srvif.com:1935/retrotv/retrotv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ZhTxu0F.png" group-title="Infantil",Play Kids
+http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ZhTxu0F.png" group-title="Infantil",Play Kids HD
+http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KlbMTBD.png" group-title="Infantil",Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil",Disney Junior
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil",Disney Junior HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Zoo Moo Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=703&deviceId=5f12141b146d760007934ea7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=721&deviceId=5f1214a637c6fd00079c652f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Nick Clássico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5f12151794c1800007a8ae63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Nick Jr. Club
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/eaPxZxN.jpg" group-title="Infantil",Turma da Mônica 24horas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=719&deviceId=5f997e44949bc70007a6941e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/MW4TArT.jpg" group-title="Infantil",As Pistas de Blue 24horas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=707&deviceId=5f99aad4e82db50007fac4b2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/0bLVpAD.jpg" group-title="Infantil",Naruto 24horas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=186&deviceId=5f6df5a173d7340007c559f7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/r9KXpZU.jpg" group-title="Infantil",Pluto TV Anime
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5f12136385bccc00070142ed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/pBv3Lz0.jpg" group-title="Infantil",A vida moderna de Rocko 24horas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=731&deviceId=5f6df6293a12e10007017396&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+################################################################################ Esportes
+
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="Esportes",ESPN
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="Esportes",ESPN HD
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://i.imgur.com/Qp5B2ZB.png" group-title="Esportes",ESPN 2
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://i.imgur.com/Qp5B2ZB.png" group-title="Esportes",ESPN 2 HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="Esportes",ESPN Extra
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="Esportes",ESPN Extra HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0zsZf9m/ljd-Bfe-UQ-400x400.jpg" group-title="Esportes",All Sports TV
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYFNWYJ9/1f4dbf7642995-560af1b873232.png" group-title="Esportes",Viasat Sport
+http://persik.by/stream/2944/263250/10249.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gbw8R6BG/image.png" group-title="Esportes", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SKcdv9jR/220px-Realmadrid-TV.jpg" group-title="Esportes",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.canaison.com/canais/fox-sports-new.jpg" group-title="Esportes",Fox Sports site
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/foxsports1.m3u8?mu3zAQc9HC3GbwJq=G_cmO4MiufMtir81zimfnw&3U1G7qaTxrPbalZnEx=1611594099
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.canaison.com/canais/fox-sport-2-new.jpg" group-title="Esportes",Fox Sports 2 site
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/foxsports2.m3u8?mu3zAQc9HC3GbwJq=0iGp1xEG6UE5Qoh7izRpWw&3U1G7qaTxrPbalZnEx=1611594271
