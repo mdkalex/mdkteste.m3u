@@ -253,7 +253,7 @@ http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV NOVA ONDA 
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist.m3u8
 
-################################################################################# Infantil
+#################################################################################  Infantil ##############################################################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/me7Ae0Q.png" group-title="Infantil",Retrô Cartoon
 http://stmv1.srvif.com:1935/retrotv/retrotv/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -357,7 +357,7 @@ https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fu
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.canaison.com/canais/fox-sport-2-new.jpg" group-title="Esportes",Fox Sports 2 site
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/foxsports2.m3u8?mu3zAQc9HC3GbwJq=0iGp1xEG6UE5Qoh7izRpWw&3U1G7qaTxrPbalZnEx=1611594271
 
-################################################################################# Premiere
+#################################################################### Premiere ############################################## Premiere #############################
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere Clubes SD 1
 http://srvx.io:80/5251874191/fireurl.co/72266
@@ -503,13 +503,13 @@ https://abclive1-lh.akamaihd.net/i/abc_live01@423395/index_2500_av-p.m3u8
 
 ################################################################################# DOCUMENTARIOS
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="DOCUMENTARIOS",Pluto TV Fashionbox
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="DOCUMENTARIOS",TV Fashionbox
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=563&deviceId=5f516730b78b7600079294f5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="DOCUMENTARIOS",Pluto TV Natureza
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="DOCUMENTARIOS",TV Natureza
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=271&deviceId=5f1213ba0ecebc00070e170f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="DOCUMENTARIOS",Pluto TV Investigação
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="DOCUMENTARIOS",TV Investigação
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=254&deviceId=5f32cf37c9ff2b00082adbc8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="DOCUMENTARIOS",The Pet Collective
@@ -575,7 +575,7 @@ https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/MLHRMRVLHA1984.mp4
 
 ######################################  Filmes  ########################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/beSHUgI.jpg" group-title="Filmes",Filme Online: Obrigado por Fumar - 2005
+##EXTINF:-1 tvg-logo="https://i.imgur.com/beSHUgI.jpg" group-title="Filmes",Filme Online: Obrigado por Fumar - 2005
 https://www58.uptostream.com/380mgumb5dc/1080/1/video.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cEXhQfo.jpg" group-title="Filmes",Chamas da Vingançam - 2004
@@ -596,10 +596,10 @@ https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/CNVCAODSBRXS.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3fgx4Il.jpg" group-title="Filmes",Convenção das Bruxas - 1990
 https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/ACNCAODSBRXS.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TdYU7Yf.jpg" group-title="Filmes",Bill & Ted – Uma Aventura Fantástica 1989
+##EXTINF:-1 tvg-logo="https://i.imgur.com/TdYU7Yf.jpg" group-title="Filmes",Bill & Ted – Uma Aventura Fantástica 1989
 https://www1074.ff-03.com/token=V96Fo55COG-F8GwYONLbYw/1611362798/143.202.0.0/126/0/99/4b243780b0a23792ad529c8f5dfab990-360p.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BPUuLX0.jpg" group-title="Filmes",Bill & Ted – Dois Loucos no Tempo 1991
+##EXTINF:-1 tvg-logo="https://i.imgur.com/BPUuLX0.jpg" group-title="Filmes",Bill & Ted – Dois Loucos no Tempo 1991
 https://www797.ff-02.com/token=Pflj1KdekIoP26NQryM1_Q/1611421959/143.202.0.0/126/2/7d/ae631f614889a633227b581c66f0d7d2-360p.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/amAzWVx.jpg" group-title="Filmes",Bill & Ted: Encare a Música 2020
