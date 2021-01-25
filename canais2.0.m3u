@@ -512,7 +512,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc0007
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="DOCUMENTARIOS",TV Investigação
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=254&deviceId=5f32cf37c9ff2b00082adbc8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="DOCUMENTARIOS",The Pet Collective
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="DOCUMENTARIOS",TV animais de estimação
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=505&deviceId=5f515ebac01c0f00080e8439&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L61CJkFk/images.jpg" group-title="DOCUMENTARIOS", History Lab
