@@ -15,7 +15,18 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d0007
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Pluto CINE",Pluto TV Cine Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=72&deviceId=5f12111c9e6c2c00078ef3bb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-################################################################################# Canais Pluto ##################################################################
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title=,Pluto TV Séries
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=101&deviceId=5f121262a189a800076b9386&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1,Pluto TV Retrô
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=5f1212ad1728050007a523b8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1,Pluto TV Filmes Ação
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=56&deviceId=5f120f41b7d403000783a6d6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+################################################################################# Canais 24 horas ##################################################################
+
+
 
 ################################################################################# TV Aberta
 
@@ -275,6 +286,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Nick Jr. Club
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/eaPxZxN.jpg" group-title="Infantil",Turma da Mônica 24horas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=719&deviceId=5f997e44949bc70007a6941e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/MW4TArT.jpg" group-title="Infantil",As Pistas de Blue 24horas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=707&deviceId=5f99aad4e82db50007fac4b2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
