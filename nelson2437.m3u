@@ -1,7 +1,7 @@
 ################################################################################# TV Aberta
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO SP
-http://pfsv.io:80/11964111302/964111302/394
+http://b2p.li:80/helio306/749173/5117
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO RJ HD
 http://s1brazil.ddns.net:25461/charleievangelista@me.com/799ed06d9ead40a55ff63ef625df5c89abd272ea0c8bf923f09be2e681e8f3bf603fec2b76f198c33544f877837fa904c93a8b459a0dd2d2f113b382f91aaa5f/2851
@@ -254,11 +254,11 @@ https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fu
 ##EXTINF:-1 tvg-id="Tooncast" tvg-logo="https://i.imgur.com/DQAE1cW.png" group-title="Infantil",Tooncast
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tooncast.m3u8?mu3zAQc9HC3GbwJq=62FkLIRj_iMjqBvdRrdpSg&3U1G7qaTxrPbalZnEx=1611418123
 
-##EXTINF:-1 tvg-id="Gloob" tvg-logo="https://i.imgur.com/JvrmM7l.png" group-title="Infantil",PJ Masks
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1611426417/ei/ERYMYLLkEsqV1sQPwsaogAM/ip/143.202.47.224/id/wUf3JRP_4vM.1/source/yt_live_broadcast/requiressl/yes/tx/23977104/txs/23977102%2C23977103%2C23977104%2C23977105%2C23977106/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANCEWc9QKqKNdITLki-BoJTnR6kX9uv49bRcMFLdDukTAiEAsffDgi-jCnqqrCcr523WZqaQh2gKur4aI8z45JTgExo%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="Gloob" tvg-logo="https://i.imgur.com/IWJTGHt.jpg" group-title="Infantil",Gloob 1
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/gloob.m3u8?mu3zAQc9HC3GbwJq=4ElStF4IUsR0LsqPuzAt_g&3U1G7qaTxrPbalZnEx=1611593522
 
-##EXTINF:-1 tvg-id="Gloob" tvg-logo="https://i.imgur.com/IWJTGHt.jpg" group-title="Infantil",Gloob FHD
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/gloob.m3u8?mu3zAQc9HC3GbwJq=Kett1-R-UTKF20B9BfXcsw&3U1G7qaTxrPbalZnEx=1611417016
+##EXTINF:-1 tvg-id="Gloob" tvg-logo="https://i.imgur.com/IWJTGHt.jpg" group-title="Infantil",Gloob 2
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/gloob.m3u8?mu3zAQc9HC3GbwJq=4ElStF4IUsR0LsqPuzAt_g&3U1G7qaTxrPbalZnEx=1611593522
 
 ##EXTINF:-1 tvg-id="Zoo Moo" tvg-logo="https://i.imgur.com/ng07wOL.png" group-title="Infantil",Zoo Moo Kids sd
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/zoomoo.m3u8?mu3zAQc9HC3GbwJq=gev2UNd1HQcdDjOJ_WZ2dg&3U1G7qaTxrPbalZnEx=1611371304
@@ -300,6 +300,12 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SKcdv9jR/220px-Realmadrid-TV.jpg" group-title="Esportes",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.canaison.com/canais/fox-sports-new.jpg" group-title="Esportes",Fox Sports site
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/foxsports1.m3u8?mu3zAQc9HC3GbwJq=G_cmO4MiufMtir81zimfnw&3U1G7qaTxrPbalZnEx=1611594099
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.canaison.com/canais/fox-sport-2-new.jpg" group-title="Esportes",Fox Sports 2 site
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/foxsports2.m3u8?mu3zAQc9HC3GbwJq=0iGp1xEG6UE5Qoh7izRpWw&3U1G7qaTxrPbalZnEx=1611594271
 
 ################################################################################# Premiere
 
