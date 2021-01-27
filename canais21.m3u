@@ -362,6 +362,12 @@ https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fu
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.canaison.com/canais/fox-sport-2-new.jpg" group-title="Esportes",Fox Sports 2 site
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/foxsports2.m3u8?mu3zAQc9HC3GbwJq=0iGp1xEG6UE5Qoh7izRpWw&3U1G7qaTxrPbalZnEx=1611594271
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 1 site
+http://pdsrv.io:80/Rove020/Gggggppppyyy/61029
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 2 site
+http://assistirpainel.ddns.net:8880/34125123652/3412512365/2318
+
 ####################################################################  Premiere #############################
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere  1
