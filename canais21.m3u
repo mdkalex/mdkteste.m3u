@@ -46,6 +46,15 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d4030007
 
 ################################################################################# Canais 24 horas ##################################################################
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QcilQkA.png" group-title="Canais 24 horas",TV CLÁSSICOS - site
+http://video01.kshost.com.br/jorge1313/jorge1313/chunklist_w2122475891.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1zGN94Z.png" group-title="Canais 24 horas",TV MEGA CINE - site
+https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w134863369.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uGqxlCu.png" group-title="Canais 24 horas",Filmes 24h - site
+https://stmv1.transmissaodigital.com/clodoaldo7589/clodoaldo7589/chunklist_w1753580857.m3u8
+
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Canais 24 horas",Os Três Patetas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=108&deviceId=5f1eed3c29b39600073e2ec0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
@@ -77,6 +86,8 @@ http://srvx.io:80/5251874191/fireurl.co/72095
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gkWNOsf.jpg" group-title="TV Aberta",TV Manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w920239982.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/TX1jfAh.jpg" group-title="TV Aberta",TV Maceió
 http://srv3.zcast.com.br:1935/tvmaceio/tvmaceio/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -419,6 +430,23 @@ http://bldtv.vip:80/victor09/624805/172418
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere  7 - site
 http://dns.velox4k.tech:2082/1127930724/4718874848/4634
+
+####################################################################  Variedades #############################
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/izfepdy.png" group-title="Variedades"TLC - site 1
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tlc_15aa0c7e_aaed8c18b617f7688e3605c96fcbffe6d7ea7160/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTQzLjIwMi40Ny4yMjQiO2k6MTtzOjgyOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMC4xNjsgcnY6ODQuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84NC4wIjtpOjI7aToxNjExODU4Njg1O30%3D
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/izfepdy.png" group-title="Variedades"TLC - site 2
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tlc.m3u8?mu3zAQc9HC3GbwJq=khYj5ojVohSpXEXijuWIiQ&3U1G7qaTxrPbalZnEx=1611873186
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades"Food Network - site 1
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/foodnetwork.m3u8?mu3zAQc9HC3GbwJq=E1RWaCef2jK1Vg9TJwlFJg&3U1G7qaTxrPbalZnEx=1611873813
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades"Food Network - site 2
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/foodnetwork.m3u8?mu3zAQc9HC3GbwJq=E1RWaCef2jK1Vg9TJwlFJg&3U1G7qaTxrPbalZnEx=1611873813
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades"Food Network - site 3
+
 
 ################################################################################# Religiosos
 
