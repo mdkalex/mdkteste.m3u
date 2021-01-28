@@ -436,7 +436,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/ind
 ####################################################################  Variedades #############################
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/izfepdy.png" group-title="Variedades",TLC - site 1
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/tlc_15aa0c7e_aaed8c18b617f7688e3605c96fcbffe6d7ea7160/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTQzLjIwMi40Ny4yMjQiO2k6MTtzOjgyOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMC4xNjsgcnY6ODQuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84NC4wIjtpOjI7aToxNjExODU4Njg1O30%3D
+http://xdgo.live:8080/fparejaf/fZ5B5jgmQ5/1021
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/izfepdy.png" group-title="Variedades",TLC - site 2
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tlc.m3u8?mu3zAQc9HC3GbwJq=khYj5ojVohSpXEXijuWIiQ&3U1G7qaTxrPbalZnEx=1611873186
@@ -822,6 +822,9 @@ https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WATRWRLD.mp4
 https://www58.uptostream.com/380mgumb5dc/1080/1/video.mp4
 
 #######################################################################################################  Filmes Livres  ########################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7X25hr.jpg" group-title="Filmes Livres",A Árvore dos Desejos - 2019
+https://s55.aparat.cam/hls/aoqovxtj66r5fwfuhyjboykilobb26ig3znwlutpjauhao7i6wa2wknaab6q/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yX2bres.jpg" group-title="Filmes Livres",Frozen - 2019
 https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/FRZN2.mp4
