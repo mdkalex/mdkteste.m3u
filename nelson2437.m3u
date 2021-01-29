@@ -1,21 +1,30 @@
 ################################################################################# BBB ##################################################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB 1 site
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 1A
 http://b2p.li:80/6262789/5255378/191972
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB 2 site
-http://pfsv.io:80/9415252/33535/59556
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 2A
+http://pfsv.io:80/39421684/55782/60679
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB 3 site
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 3A
 http://play.cmsdz.life:80/8191909194/9124201943/349487
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB 4 site
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 1B
+http://b2p.li:80/6262789/5255378/191975
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 2B
+http://pfsv.io:80/39421684/55782/60677
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 3B
 http://play.cmsdz.life:80/8191909194/9124201943/350155
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB 5 site
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 1C
 http://b2p.li:80/6262789/5255378/191973
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB 6 site
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 2C
+http://pfsv.io:80/39421684/55782/60678
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 2D
 http://pfsv.io:80/39421684/55782/60682
 
 ################################################################################# Pluto CINE ##################################################################
@@ -393,19 +402,19 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.canaison.com/canais/fox-sports-new.jpg" group-title="Esportes",Fox Sports 1 site
 http://svrhost.club/QDAENLGI/6K94SOWV/3290?tkn=1608396171
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.canaison.com/canais/fox-sport-2-new.jpg" group-title="Esportes",Fox Sports 2 site
-http://iptbest.xyz:8000/OcnrkXqc3T/ANGGS5wRbD/34587
+#EXTINF:-1 tvg-id="FOX SPORT" tvg-logo="https://www.canaison.com/canais/fox-sport-2-new.jpg" group-title="Esportes",Fox Sports 2 site
+http://dnsx.co:80/0915597625/fireurl.co/71960
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 1 site
+#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 1 site
 http://dnsx.co:80/0915597625/fireurl.co/71845
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 2 site
+#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 2 site
 http://assistirpainel.ddns.net:8880/34125123652/3412512365/2319
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 3 site
-http://lista.lorddark.club:80/7017966476/6098572833/19177
+#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 3 site
+http://dnsx.co:80/0915597625/fireurl.co/71845
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 4 site
+#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 4 site
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/combate.m3u8?mu3zAQc9HC3GbwJq=tngZILlKjxQtF9W_0pEb5w&3U1G7qaTxrPbalZnEx=1611770457
 
 ####################################################################  Premiere #############################
@@ -448,6 +457,10 @@ https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fu
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/foodnetwork_ceab25ab_5ed319b34db75c472c224d6be5e49f0fdf224f63/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTQzLjIwMi40Ny4yMjQiO2k6MTtzOjgyOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMC4xNjsgcnY6ODQuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84NC4wIjtpOjI7aToxNjExODYzMDMxO30%3D
 
 ##EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 3
+http://dnsx.co:80/0915597625/fireurl.co/71932
+
+##EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 4
+http://dnsx.co:80/0915597625/fireurl.co/71934
 
 ################################################################################# Religiosos
 
@@ -836,7 +849,7 @@ https://www58.uptostream.com/380mgumb5dc/1080/1/video.mp4
 #######################################################################################################  Filmes Livres  ########################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p7X25hr.jpg" group-title="Filmes Livres",A Árvore dos Desejos - 2019
-https://s55.aparat.cam/hls/aoqovxtj66r5fwfuhyjboykilobb26ig3znwlutpjauhao7i6wa2wknaab6q/index-v1-a1.m3u8
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/AAVRDSDSJOS.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yX2bres.jpg" group-title="Filmes Livres",Frozen - 2019
 https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/FRZN2.mp4
