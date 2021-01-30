@@ -1,13 +1,102 @@
+################################################################################# BBB ##################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 1A
+http://b2p.li:80/6262789/5255378/191972
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 2A
+http://pfsv.io:80/39421684/55782/60679
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 3A
+http://play.cmsdz.life:80/8191909194/9124201943/349487
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 1B
+http://b2p.li:80/6262789/5255378/191975
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 2B
+http://pfsv.io:80/39421684/55782/60677
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 3B
+http://play.cmsdz.life:80/8191909194/9124201943/350155
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 1C
+http://b2p.li:80/6262789/5255378/191973
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 2C
+http://pfsv.io:80/39421684/55782/60678
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5BpYTL.jpg" group-title="BBB",BBB site 2D
+http://pfsv.io:80/39421684/55782/60682
+
+################################################################################# Pluto CINE ##################################################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Pluto CINE",Cine Comédia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5f12101f0b12f00007844c7c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Pluto CINE",Cine Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=63&deviceId=5f1210d14ae1f80007bafb1d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Pluto CINE",Cine Família
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=87&deviceId=5f171f032cd22e0007f17f3d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Pluto CINE",Cine Sucessos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=52&deviceId=5f120e94a5714d00074576a1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 ttvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Pluto CINE",Cine Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=72&deviceId=5f12111c9e6c2c00078ef3bb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 ttvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Pluto CINE",TV Séries
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=101&deviceId=5f121262a189a800076b9386&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Pluto CINE",TV Retrô
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=5f1212ad1728050007a523b8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Pluto CINE",TV Filmes Ação
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=56&deviceId=5f120f41b7d403000783a6d6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+################################################################################# Canais 24 horas ##################################################################
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QcilQkA.png" group-title="Canais 24 horas",TV CLÁSSICOS - site
+http://video01.kshost.com.br/jorge1313/jorge1313/chunklist_w2122475891.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1zGN94Z.png" group-title="Canais 24 horas",TV MEGA CINE - site
+https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w134863369.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uGqxlCu.png" group-title="Canais 24 horas",Filmes 24h - site
+https://stmv1.transmissaodigital.com/clodoaldo7589/clodoaldo7589/chunklist_w1753580857.m3u8
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Canais 24 horas",Os Três Patetas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=108&deviceId=5f1eed3c29b39600073e2ec0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Canais 24 horas",Star Trek
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=50&deviceId=5f99ac4fded33000078f29ab&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Canais 24 horas",Porta dos Fundos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=512&deviceId=5f36f2346ede750007332d11&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Canais 24 horas",FailArmy
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=502&deviceId=5f5141c1605ddf000748eb1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Canais 24 horas",Pessoas são incríveis
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d000739e19c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=173&deviceId=5f515d080e738d000739e19c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Canais 24 horas",TV animais de estimação
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=505&deviceId=5f515ebac01c0f00080e8439&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
 ################################################################################# TV Aberta
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO SP HD
-http://5736.srvsh.xyz:80/tmmciqwm/jnzh8hlf/76546
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO SP
+http://b2p.li:80/helio306/749173/5117
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO RJ HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO RJ 1
 http://s1brazil.ddns.net:25461/charleievangelista@me.com/799ed06d9ead40a55ff63ef625df5c89abd272ea0c8bf923f09be2e681e8f3bf603fec2b76f198c33544f877837fa904c93a8b459a0dd2d2f113b382f91aaa5f/2851
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",Globo RJ FHD[H265]
-http://pfsv.io:80/live/reuelbarros/9488496/30204.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",Globo
+http://srvx.io:80/5251874191/fireurl.co/72095
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gkWNOsf.jpg" group-title="TV Aberta",TV Manchete
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w920239982.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/TX1jfAh.jpg" group-title="TV Aberta",TV Maceió
 http://srv3.zcast.com.br:1935/tvmaceio/tvmaceio/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -173,8 +262,10 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV Oeste MA
 https://5d2c98775bafe.streamlock.net/8104/8104/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV Liberdade
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta", CBTV
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
@@ -183,8 +274,10 @@ http://200.189.113.201/hls/tve.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",Tv Capital 777
 http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV Santa Cecilia
 http://flash1.crossdigital.com.br/2063/2063/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV Digital Birigui
 http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist.m3u8
 
@@ -193,6 +286,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV Diario do Sertao
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta", Rede Metropole
 http://177.130.81.30/hls/metropole.m3u8
 
@@ -205,16 +299,7 @@ http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV NOVA ONDA 
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist.m3u8
 
-################################################################################# Infantil
-
-#EXTINF:-1 tvg-logo="https://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="Infantil",3ABN KIDS
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2mPv1Tm.png" group-title="Infantil",Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids2/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XSgdkdj.jpeg" group-title="Infantil",Tv Destak
-http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/chunklist.m3u8
+#################################################################################  Infantil ##############################################################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/me7Ae0Q.png" group-title="Infantil",Retrô Cartoon
 http://stmv1.srvif.com:1935/retrotv/retrotv/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -246,17 +331,32 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-p.m3u8?PE
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel HD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/vtKaeHe.png" group-title="Infantil",NICKELODEON SD¹
-http://pdsrv.io:80/Rove020/Gggggppppyyy/4345
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Zoo Moo Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=703&deviceId=5f12141b146d760007934ea7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ieMaOU0.png" group-title="Infantil",NATGEO KIDS SD
-http://pdsrv.io:80/Rove020/Gggggppppyyy/4350
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=721&deviceId=5f1214a637c6fd00079c652f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://gps.pezquiza.com/wp-content/uploads/2019/12/dckids-brasil.jpg" group-title="Infantil",DC Kids
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1611275772/ei/m8kJYN24OtmF1sQPhfOQ0Ac/ip/143.202.47.224/id/TjhGBaCJzdM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPIr1vNnMP0DiXiOstin0mh5fgw31hDJUbYeosMJdr52AiEArZlsoDY-ag9We1mH_jqYMJNBa7fMBBWWNnaX-F8wVM4%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Nick Clássico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5f12151794c1800007a8ae63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://gps.pezquiza.com/wp-content/uploads/2019/12/canal-peppa-pig-brasil.jpg" group-title="Infantil",Peppa Pig Canal
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1611276245/ei/dcsJYOrvE9GD1sQP2uKhiAs/ip/143.202.47.224/id/ZuuMDHa2gT4.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIga77OT4HtxtzyVG355zrr1sOB25y8EgURJUaNQIXGknYCIGWnU97t6GguwrJr9OvrRIL3uniYINqLJEklXwW6pU1N/file/index.m3u8
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Nick Jr. Club
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/eaPxZxN.jpg" group-title="Infantil",Turma da Mônica 24horas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=719&deviceId=5f997e44949bc70007a6941e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/MW4TArT.jpg" group-title="Infantil",As Pistas de Blue 24horas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=707&deviceId=5f99aad4e82db50007fac4b2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/0bLVpAD.jpg" group-title="Infantil",Naruto 24horas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=186&deviceId=5f6df5a173d7340007c559f7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/r9KXpZU.jpg" group-title="Infantil",Pluto TV Anime
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5f12136385bccc00070142ed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/pBv3Lz0.jpg" group-title="Infantil",A vida moderna de Rocko 24horas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=731&deviceId=5f6df6293a12e10007017396&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 ################################################################################ Esportes
 
@@ -296,22 +396,74 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SKcdv9jR/220px-Realmadrid-TV.jpg" group-title="Esportes",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
 
-################################################################################# Premiere
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.canaison.com/canais/fox-sports-new.jpg" group-title="Esportes",Fox Sports News site
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere Clubes SD 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.canaison.com/canais/fox-sports-new.jpg" group-title="Esportes",Fox Sports 1 site
+http://svrhost.club/QDAENLGI/6K94SOWV/3290?tkn=1608396171
+
+#EXTINF:-1 tvg-id="FOX SPORT" tvg-logo="https://www.canaison.com/canais/fox-sport-2-new.jpg" group-title="Esportes",Fox Sports 2 site
+http://dnsx.co:80/0915597625/fireurl.co/71960
+
+#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 1 site
+http://dnsx.co:80/0915597625/fireurl.co/71845
+
+#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 2 site
+http://assistirpainel.ddns.net:8880/34125123652/3412512365/2319
+
+#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 3 site
+http://dnsx.co:80/0915597625/fireurl.co/71845
+
+#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 4 site
+http://play.cmsdz.life:80/8191909194/9124201943/349658
+
+#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 5 site
+http://play.cmsdz.life:80/8191909194/9124201943/349657
+
+####################################################################  Premiere #############################
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 1
 http://srvx.io:80/5251874191/fireurl.co/72266
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere Clubes SD 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 2
 http://pfsv.io:80/6555373900/39098/544
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere Clubes SD 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 3
 http://lb.kstream.org/aovivo/HD_PFC_CLUBES/download?token=0978309793dbc624b7039e6e89c1dfa2
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere Clubes SD 4
+#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 4
 http://assistirpainel.ddns.net:8880/pGQnhqukOM/6VAtgLEB4V/2223
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere Clubes SD 5
-http://lb.kstream.org/aovivo/HD_PFC_CLUBES/download?token=0978309793dbc624b7039e6e89c1dfa2
+#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 5
+http://dns.clientetv.net:8080/5088166727/8166727/1273
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 6
+http://bldtv.vip:80/victor09/624805/172418
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 7
+http://dns.velox4k.tech:2082/1127930724/4718874848/4634
+
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
+
+####################################################################  Variedades #############################
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/izfepdy.png" group-title="Variedades",TLC - site 1
+http://xdgo.live:8080/fparejaf/fZ5B5jgmQ5/1021
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/izfepdy.png" group-title="Variedades",TLC - site 2
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tlc.m3u8?mu3zAQc9HC3GbwJq=khYj5ojVohSpXEXijuWIiQ&3U1G7qaTxrPbalZnEx=1611873186
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 1A
+http://play.cmsdz.life:80/8191909194/9124201943/349745
+
+##EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 2A
+http://dnsx.co:80/0915597625/fireurl.co/71932
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 1B
+http://play.cmsdz.life:80/8191909194/9124201943/349746
+
+##EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 2B
+http://dnsx.co:80/0915597625/fireurl.co/71934
 
 ################################################################################# Religiosos
 
@@ -407,14 +559,14 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8?PEDROJUNIORTUT
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/kIpd4xA.png" group-title="Notícias",GV News
 https://59f1cbe63db89.streamlock.net:1443/gvnews1/_definst_/gvnews1/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/YGEVYXL.png" group-title="Notícias",Boston 25 News
-http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/44OsQLf.png" group-title="Notícias",CBN RJ
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/z9SzvD0.png" group-title="Notícias",Al Jazeera English
-http://live-hls-web-aje.getaj.net/AJE/index.m3u8?PEDROJUNIORTUTORIAIS
- 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/YWaz2js.png" group-title="Notícias",France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/44OsQLf.png" group-title="Notícias",CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/44OsQLf.png" group-title="Notícias",CBTV Now
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/nkSmEG9.jpg" group-title="Notícias",Porto Canal
 http://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -442,11 +594,20 @@ https://abclive1-lh.akamaihd.net/i/abc_live01@423395/index_2500_av-p.m3u8
 
 ################################################################################# DOCUMENTARIOS
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L61CJkFk/images.jpg" group-title="DOCUMENTARIOS", RT Documentary Channel
-https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="DOCUMENTARIOS",TV Fashionbox
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=563&deviceId=5f516730b78b7600079294f5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="DOCUMENTARIOS",TV Natureza
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=271&deviceId=5f1213ba0ecebc00070e170f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="DOCUMENTARIOS",TV Investigação
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=254&deviceId=5f32cf37c9ff2b00082adbc8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L61CJkFk/images.jpg" group-title="DOCUMENTARIOS", History Lab
 https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEntvna.jpg" group-title="DOCUMENTARIOS",Discovery Channel 
+http://xdgo.live:8080/josevflive/VPgrUfTYwB/1005
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2AmwZmm.jpg" group-title="DOCUMENTARIOS", Discovery Channel HD
 http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryChannelHD&login=Povsman&key=Bb9r2bM
@@ -457,100 +618,369 @@ http://srvx.io:80/0165466866/fireurl.co/90571
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BOEIiiG.png" group-title="DOCUMENTARIOS", Discovery TLC SD (MX)
 http://hidraplay.tv:80/tlleklnk/Gw3h655Hfy/34820
 
-################################################################################# Canais Variedade
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet site 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NKXnETl.jpg" group-title="Variedade e Músicas",Yeeah!
-http://srv3.zcast.com.br:1935/yeeaah/yeeaah/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet site
+http://play.cmsdz.life:80/8191909194/9124201943/349612
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cpLRWLC.png" group-title="Variedade e Músicas",ZOOM
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet site
+http://play.cmsdz.life:80/8191909194/9124201943/349611
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cpLRWLC.png" group-title="Variedade e Músicas",Web TV Uai
-https://livefocamundo.com:8081/8266/tracks-v1a1/mono.m3u8
+############################################################  Filmes Marvel Studios  ############################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cpLRWLC.png" group-title="Variedade e Músicas",TVN Brasil
-http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JLh0B4x.jpg" group-title="Filmes Marvel Studios",Homem de Ferro - 2008
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HMNDEFRO01.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas", Retro Music Television
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vByQTT7.jpg" group-title="Filmes Marvel Studios",Homem de Ferro 2 - 2010
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HMNDEFRO02.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas",Radio Captal
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GZVb9dZ.jpg" group-title="Filmes Marvel Studios",Homem de Ferro 3 - 2013
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HMNDEFRO03.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas",1HD Music
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas",DJing
-https://www.djing.com/tv/29054-03.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas",LFM TV
-https://edge8.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas",Music Channel Romania
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas",KpopTV
-https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas", KroneHIT
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas", Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YxPkaHS.jpg" group-title="Filmes Marvel Studios",Os Vingadores 2012
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/OSVGDRS.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas",1.FM - Love Classics
-http://strm112.1.fm/loveclassics_mobile_mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YwQ91fh/IMG-20180818-WA011-1-scale-2.png" group-title="Variedade e Músicas", Alpha SP
-https://ice.fabricahost.com.br/alphafm1017?compat=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qnfWcss.jpg" group-title="Filmes Marvel Studios",Vingadores: Era de Ultron 2015
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/VNGDRSEDURON.mp4
 
-######################################  Filme  ########################################
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/96/28/47/20457373.jpg" group-title="Filmes",Chamas da Vingançam
-https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/11495.mp4
-
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/93/17/70/20240111.jpg" group-title="Filmes",Drácula: Morto, mas Feliz
-https://jwwge18508endzd.belugacdn.link/-f-i-l-m-e-s-/dub/12110.mp4
-
-#EXTINF:-1 tvg-logo="https://gfilmes.net/wp-content/uploads/2019/02/enkQRpdhnvHEnO66j4UJ9szrUtS-185x278.jpg" group-title="Filmes",Os Vingadores 2012
-https://fvs.io/redirector?token=aEo2VWw1WWZDd2JBUjlqS3dEOTNhM3huVHdLU21iMmhSa2ZjazlZT3RaMVgrVlA1QVpOTlZ0VmJCeXFRTUxxQjdsQU00Z1Z4L3VNREZveDdyZnVobGZJSWFpTjU2ZmUzVzlmSHBWTVlkQVV3RjBuU0tXZzlVTGtzNnZkMXlsdVdpUThubFNxaDhWN3M0dkIzYW9RcGoxdWoydUZsM2xxdTFRZz06ck8wcmQzSE8zN3JFeW95UHBUVSsyZz09
-
-#EXTINF:-1 tvg-logo="https://gfilmes.net/wp-content/uploads/2019/02/ztRXtaFkIZ4fQdDvKtt6MP5VBYZ-185x278.jpg" group-title="Filmes",Vingadores: Era de Ultron 2015
-https://fvs.io/redirector?token=S3pYc2FaU213UEU1ZksvQ0ppdjQ3UUpMaUZhcTJ2QzFmZHM5OS9HdUpzeVJZUi9GcHlVd2V5bUp4bksvNmFkMkFVd0E0a21mWlZ1N2U3UmNmOGtkK25DK2xqVGhyQkhaM3gxdGhmWmNGckJySXlGSmFzbCtmOEs2T2EzdWh3enIxSlJzclloN0RyN04yT2VGcE1qK1hYK3dtbDZHcDdMS0pwYz06USsvVGV1eFEzU0EwL28zNDNtSUt3Zz09
-
-#EXTINF:-1 tvg-logo="https://gfilmes.net/wp-content/uploads/2019/02/rkHe0BfOo1f5N2q6rxgdYac7Zf6-185x278.jpg" group-title="Filmes",Vingadores: Guerra Infinita 2018
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wcr49OZ.jpg" group-title="Filmes Marvel Studios",Vingadores: Guerra Infinita 2018
 https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/299536.mp4
 
-#EXTINF:-1 tvg-logo="https://gfilmes.net/wp-content/uploads/2019/10/q6725aR8Zs4IwGMXzZT8aC8lh41-185x278.jpg" group-title="Filmes",Vingadores: Ultimato 2019
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5NwsbN9.jpg" group-title="Filmes Marvel Studios",Vingadores: Ultimato 2019
 https://guerraempreendimento.xyz/-f-i-l-m-e-s-/dub/299534.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HpehaRd.jpg" group-title="Filmes Marvel Studios",O Incrível Hulk 2008
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/OINCVLHLK.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PDWnW01.jpg" group-title="Filmes Marvel Studios",Hulk - 2003
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HULK.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wG1nPLf.jpg" group-title="Filmes Marvel Studios",Thor - 2011
+https://s2.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/Thor/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NA5rn1w.jpg" group-title="Filmes Marvel Studios",Thor: O Mundo Sombrio - 2013
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/THOROMNDSBR.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/im8LxAc.jpg" group-title="Filmes Marvel Studios",Capitão América: O Primeiro Vingador - 2011
+https://s3.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/CapitaoAmerica/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yMCr6o7.jpg" group-title="Filmes Marvel Studios",Capitão América 2: O Soldado Invernal - 2014
+https://s3.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/CapitaoAmerica2/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v7DcA4n.jpg" group-title="Filmes Marvel Studios",Capitão América: Guerra Civil - 2016
+https://s4.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/CapitaoAmerica3/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uh0f7rK.jpg" group-title="Filmes Marvel Studios",Guardiões da Galáxia - 2014
+https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/GuardioesDaGalaxia/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/le43XZ0.jpg" group-title="Filmes Marvel Studios",Homem-Formiga - 2015
+https://s2.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/HomemFormiga/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YGxs6v2.jpg" group-title="Filmes Marvel Studios",Doutor Estranho - 2016
+https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/DoutorEstranho/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcaP6LD.jpeg" group-title="Filmes Marvel Studios",Guardiões da Galáxia Vol. 2 - 2017
+https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/GuardioesDaGalaxia2/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o98OkOs.jpg" group-title="Filmes Marvel Studios",Homem-Aranha: De Volta Ao Lar - 2017
+https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/HomemAranhaDeVoltaAoLar/dub/video.json/index-v1-a1.m3u8
+
+##EXTINF:-1 tvg-logo="https://i.imgur.com/7yE4igv.jpg" group-title="Filmes Marvel Studios",Thor: Ragnarok - 2017
 
 
+######################################  Filmes DC Comics  ########################################
 
-######################################  Filmes Infatins  ########################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4zoJPFC.jpg" group-title="Filmes DC Comics",O Homem de Aço - 2013
+https://cdn-player.ml/_player2/option_1.php?id=5442823b84a93550aaf2df4bb7119dd0
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w92/sCHCa1y3JpR5KynKtsR53ngFAql.jpg" group-title="Filmes Infatins",Luccas Neto em: Perdidos na Noite de Natal 2018
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tppIYXR.jpg" group-title="Filmes DC Comics",Batman vs Superman: A Origem da Justiça - 2016
+https://t6h7n3h2.stackpathcdn.com//RCFServer2/ondemand/BTMNVSPRMNAODJT.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ueNRy0D.jpg" group-title="Filmes DC Comics",Liga da Justiça - 2017
+https://t6h7n3h2.stackpathcdn.com//RCFServer1/ondemand/MLHRMRVLHA.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9eg3sl2.jpg" group-title="Filmes DC Comics",Mulher Maravilha - 2017
+https://t6h7n3h2.stackpathcdn.com//RCFServer1/ondemand/MLHRMRVLHA.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mNEF1Rh.jpg" group-title="Filmes DC Comics",Mulher Maravilha 1984 - cinema - 2020
+https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/MLHRMRVLHA1984.mp4
+
+######################################  Filmes  ########################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3CBGMld.jpg" group-title="Filmes",Os 3 Infernais - 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/OS3INFRNS.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNxa63R.jpg" group-title="Filmes",John Carter: Entre Dois Mundos - 2012
+https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/49529.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kxhrlcm.jpg" group-title="Filmes",Alta Velocidade - 2001
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/ALTVLCDAD.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VYMtS9J.jpg" group-title="Filmes",Velocidade Máxima 2 - 1997
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/VLCDMXMA2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ODpzlvY.jpg" group-title="Filmes",Velocidade Máxima - 1994
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/VLCDMXMA.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7edTBI.jpg" group-title="Filmes",Creed II - 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer2/ondemand/CRED2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKE8WNA.jpg" group-title="Filmes",Creed: Nascido para Lutar - 2015
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/CRDNSCDPRLTR.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ic3RZQM.jpg" group-title="Filmes",Rocky Balboa (6) - 2006
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/RCKYBLBOA.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4dCkRxl.jpg" group-title="Filmes",Rocky 5 - 1990
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/RCKY5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/anFZe9g.jpg" group-title="Filmes",Rocky 4 - 1985
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/RCKY4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GWr5J0I.jpg" group-title="Filmes",Rocky 3: O Desafio Supremo - 1982
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/RCKY3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FHCvzE0.jpg" group-title="Filmes",Rocky 2: A Revanche - 1979
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/RCKY2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cZU1hUA.jpg" group-title="Filmes",Rocky, um Lutador - 1976 
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/RCKY1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lIfzrRc.jpg" group-title="Filmes",Curtindo a Vida Adoidado - 1986
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/CRTNDAVDADODA.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NNhmqf5.jpg" group-title="Filmes",Simbad: O Marujo Trapalhão - 1975
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/SMBDORJOTRPHLAO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hIDfNQe.jpg" group-title="Filmes",Duelo no Asfalto - 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/DUELNASFTO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1lL3afK.jpg" group-title="Filmes",Monster Trucks - 2016
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/MNSTRRCK.mp4
+
+##EXTINF:-1 tvg-logo="https://i.imgur.com/zwiXmx1.jpg" group-title="Filmes",Meu Admirador Secreto - 2018
+https://a-delivery12.mxdcontent.net/v/0a51d9b190ff5630a5a8999f1fcc0fe7.mp4?s=ZTcsI1oCftHchFdB18S-og&e=1611696389&_t=1611682228
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eu8U77T.jpg" group-title="Filmes",Cowboys & Aliens - 2011
+https://s3.us-west-1.wasabisys.com/m.abrirvideo.cf/-f-i-l-m-e-s-/dub/49849.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vRHYqyY.jpg" group-title="Filmes",Bloodshot - 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/BLODHT.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cEXhQfo.jpg" group-title="Filmes",Chamas da Vingançam - 2004
+https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/11495.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yyiXz3y.jpg" group-title="Filmes",Drácula: Morto, mas Feliz - 1995
+https://jwwge18508endzd.belugacdn.link/-f-i-l-m-e-s-/dub/12110.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fd2JYss.jpg" group-title="Filmes",Jurassic World: Reino Ameaçado - 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/JRSCWRLDRNOAMCDO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W0NztfR.jpg" group-title="Filmes",Jurassic World: O Mundo dos Dinossauros - 2015
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/JRSCWRLDMNDINO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwtUelZ.jpg" group-title="Filmes",Jurassic Park 3 - 2001
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/JRSCPRK03.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sybVTfM.jpg" group-title="Filmes",O Mundo Perdido: Jurassic Park - 1997
+https://s3.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/JurassicPark2/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cmXauJe.jpg" group-title="Filmes",Jurassic Park: Parque dos Dinossauros - 1993
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/JRSCPRK01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F8oeST5.jpg" group-title="Filmes",Mestre Z: O Legado de Ip Man
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/MSTRZOLGDIPMN.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5KdOOgQ.jpg" group-title="Filmes",Convenção das Bruxas 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/CNVCAODSBRXS.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3fgx4Il.jpg" group-title="Filmes",Convenção das Bruxas - 1990
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/ACNCAODSBRXS.mp4
+
+##EXTINF:-1 tvg-logo="https://i.imgur.com/TdYU7Yf.jpg" group-title="Filmes",Bill & Ted – Uma Aventura Fantástica 1989
+https://www1074.ff-03.com/token=V96Fo55COG-F8GwYONLbYw/1611362798/143.202.0.0/126/0/99/4b243780b0a23792ad529c8f5dfab990-360p.mp4
+
+##EXTINF:-1 tvg-logo="https://i.imgur.com/BPUuLX0.jpg" group-title="Filmes",Bill & Ted – Dois Loucos no Tempo 1991
+https://www797.ff-02.com/token=Pflj1KdekIoP26NQryM1_Q/1611421959/143.202.0.0/126/2/7d/ae631f614889a633227b581c66f0d7d2-360p.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/amAzWVx.jpg" group-title="Filmes",Bill & Ted: Encare a Música 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/BILETDENCRAMSCA.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lirF0jg.jpg" group-title="Filmes",Táxi - Velocidade nas Ruas 1998
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/TAX1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHMAnw0.jpg" group-title="Filmes",Taxi - 2004
+https://s3.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/Taxi/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l2bHY96.jpg" group-title="Filmes",Taxi 2: Mais Velocidade Nas Ruas - 2000
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/TAX2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QBrsBQi.jpg" group-title="Filmes",Taxi 3: Inferno no Asfalto - 2002
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/TAX3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mHtnUdp.jpg" group-title="Filmes",Taxi 4 - 2007
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/TAX4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d3DxukH.jpg" group-title="Filmes",Taxi 5 - 2018
+https://s3.us-west-1.wasabisys.com/m.abrirvideo.cf/-f-i-l-m-e-s-/dub/434355.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MuVNgzl.jpg" group-title="Filmes",Zona de Combate - 2021
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/ZNDCMBTE.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/spkz4y8.jpg" group-title="Filmes",Pai em Dobro (Nacional) - 2021
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/PAIEMDBRO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BdMKG8Q.jpg" group-title="Filmes",O Dia Depois de Amanhã - 2004
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/ODIADPSDAMNHA.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KwM9ZDN.jpg" group-title="Filmes",Zathura: Uma Aventura Espacial - 2005
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/ZTHRUMAVNTESPCL.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/penBkSG.jpg" group-title="Filmes",Zoom: Academia de Super-Heróis - 2006
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/ZOMACDMDSPRHRS.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mfNbfiq.jpg" group-title="Filmes",Wing Chun: Uma Luta Milenar - 1994
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WNGCHNUMLTMLNR.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CHlIz8n.jpg" group-title="Filmes",Z: A Cidade Perdida - 2016
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/ZCDSPRDA.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnf4Ixn.jpg" group-title="Filmes",Warcraft: O Primeiro Encontro de Dois Mundos - 2016
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WARCRFT.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EC8lUee.jpg" group-title="Filmes",Waterworld: O Segredo das Águas - 1995
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WATRWRLD.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/beSHUgI.jpg" group-title="Filmes",Obrigado por Fumar - 2005
+https://www58.uptostream.com/380mgumb5dc/1080/1/video.mp4
+
+#######################################################################################################  Filmes Livres  ########################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7X25hr.jpg" group-title="Filmes Livres",A Árvore dos Desejos - 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/AAVRDSDSJOS.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yX2bres.jpg" group-title="Filmes Livres",Frozen - 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/FRZN2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kwIAHuZ.jpg" group-title="Filmes Livres",Olaf's Frozen Adventure - 2017
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/OLFEMUMNVAVNTRCNGLDFRZN.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7aN1NUw.jpg" group-title="Filmes Livres",Frozen: Uma Aventura Congelante - 2013
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/FRZNUACGLNT.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GIks29l.jpg" group-title="Filmes Livres",Monstros vs. Alienígenas: Abóboras Mutantes - 2009
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/MNSTRSVSALIENABRSMTNTSDEPCO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E3niyhq.jpg" group-title="Filmes Livres",Monstros vs. Alienígenas - 2009
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/MNSTRSVSALIEN.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yEVZy5U.jpg" group-title="Filmes Livres",Soul: Uma Aventura com Alma - 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/SOLUMAVTRCMALM.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4d3VYAY.jpg" group-title="Filmes Livres",Pequenos Grandes Heróis - 2020
+https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/PQNSGRNDSHRS.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w92/sCHCa1y3JpR5KynKtsR53ngFAql.jpg" group-title="Filmes Livres",Luccas Neto em: Perdidos na Noite de Natal 2018
 https://s3.us-west-1.wasabisys.com/m.abrirvideo.cf/-f-i-l-m-e-s-/dub/10160.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yc4vNVg/5ce42d9704a18.jpg" group-title="Filmes Infatins",Luccas Neto em: Uma Babá Muito Esquisita 2019
-https://fvs.io/redirector?token=YkF4WnpITW5obm0zWkpvQWozbENMd29URGs0d3JEQ0hBemswWDVhVlNxZEo0RFJiVS9oRk5JWk5YOUk2NVJFNi90eWNHQndlNVM3MCtSUklCUVN3MlVYbytrT0trL1JwTldzdUF4K001Y2xUdEsvVGJrU2dFQjRWM0s0L3dYSXpqSUR1VEVzUWhQYldHZXdOMTRsK01XWDUxUTJvRVE9PTpaNEVSQWhmdmlxTVJjWUFTbnVyYkRnPT0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yc4vNVg/5ce42d9704a18.jpg" group-title="Filmes Livres",Luccas Neto em: Uma Babá Muito Esquisita 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer2/ondemand/LUCSNTOEMUMBABMTESQCDA.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rs0SSYxm/048079879-240x320.jpg" group-title="Filmes Infatins",Luccas Neto Em: Acampamento de Férias 2019
-https://s750.clipwatching.com/hls/zx5xt7qtkn2txcne4y6cte5y3xt72ejusxypugvrcoilppauui5waw3a75ia/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rs0SSYxm/048079879-240x320.jpg" group-title="Filmes Livres",Luccas Neto Em: Acampamento de Férias 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/LCSNTOEMACMPMTDFRS.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRBRKtwr/v6v-LY8-As-RIvk-EO86i1qk-X2-Ifu-St.jpg" group-title="Filmes Infatins",Luccas Neto em: Dia das Crianças 2019
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRBRKtwr/v6v-LY8-As-RIvk-EO86i1qk-X2-Ifu-St.jpg" group-title="Filmes Livres",Luccas Neto em: Dia das Crianças 2019
 https://www52.uptostream.com/375l8fm2344/720/0/video.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/h4Zgy4Q6/qvb-G8-HGZADCUBh-Zyy8f029-Kvi-KW.jpg" Fgroup-title="Filmes Infatins",Luccas Neto em: O Fim do Natal 2019
-https://fvs.io/redirector?token=U2locjNONmNQYzUzOHpJbHpBWHVmckNMaWRkQzNDeW9FUmx2aFpnaFN4b1g1bk5rWCtPZVhaV2lxUS8rbkJYcTlvVkt5ZW85UlhyZjhFZ2IwNTRqc3ZWbzVjN3dOeU1iQXh0NEZlMTM1MTFHSnltMisxc0IrNUY4c092U2VlekhBeTljdkFvSUsrZ0RrK2FKeGd2S2tGQktiUS9FTkdKL1lTYz06Y1R3MGp0bHllOFZNSlRkMUxwSjc4UT09
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/h4Zgy4Q6/qvb-G8-HGZADCUBh-Zyy8f029-Kvi-KW.jpg" group-title="Filmes Livres",Luccas Neto em: O Fim do Natal 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/LCSNTOEMFMDNTL.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqqSyySD/v-Yg-Za09-ICw-AB2-Tkon-Mf-XRT4-Dj8-E.jpg" Fgroup-title="Filmes Infatins",Luccas Neto em: Acampamento de Férias 2 2020
-https://fvs.io/redirector?token=YTdjcEdwanErYWZUTE51NlhkeTdjZ1J1ODZrajdXM212dFZUM0JnTDlMSVV4SXo1M21mU29hYkQ3bjlDb3hqaEFTaVRlbzBicHl4S2s4QlJibzRIQkJmY2NrN2J1Rlp0ZUNLaml5TGwwd2hzYlVYS3pKSU54WER0NVZVSFNLaTAzVWh0VUFjS0ZkdzZUSmVCT1Q4VjRhZ05wTTd6T2k5dlNnWT06ZzhmREt0dXRwQk5Jbzc2b25uZHlRQT09
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqqSyySD/v-Yg-Za09-ICw-AB2-Tkon-Mf-XRT4-Dj8-E.jpg" group-title="Filmes Livres",Luccas Neto em: Acampamento de Férias 2 2020
+https://t6h7n3h2.stackpathcdn.com//RCFServer3/ondemand/LCSNTOEMACMPMTDFRS2.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d6zwF3N/gg-VEV9z7k3-Fd2-Dqn-Di-Sud-VCg-CU3.jpg" Fgroup-title="Filmes Infatins",Luccas Neto Em: O Hotel Mágico 2020
-https://fvs.io/redirector?token=VDZVNTgwWjlkbGR4U1NFbEJieHhLajBvSkhyM3NTTmZyeHMyQTYzQU1qNldGTGtwK2xONVZYN1pjR3FIb3RqTkpiVkM1ekh4eGxXam1RWkhtUWRFRHdiNzBVUEdvVTA5dlBKdFBqQjhyZitSK0FpYktFRCtzaUJ0djdUL2N4V0ZKcERETXljUytmMXpXRzdFdllaS0dyMDd2SjNLVGwrSW10az06bmNUYS9rWEYzYXlsSXQ5L3hhbUlEdz09
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d6zwF3N/gg-VEV9z7k3-Fd2-Dqn-Di-Sud-VCg-CU3.jpg" group-title="Filmes Livres",Luccas Neto Em: O Hotel Mágico 2020
+https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/LCSNTOEMOHTLMGCO.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6uvr8oD.jpg" Fgroup-title="Filmes Infatins",Luccas Neto em: O Mapa do Tesouro 2020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6uvr8oD.jpg" group-title="Filmes Livres",Luccas Neto em: O Mapa do Tesouro 2020
 http://redir.videezy.gq/newsthg/filmcucu/lccasntoomapadtsouro.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oRnf6mW.jpg" Fgroup-title="Filmes Infatins",Luccas Neto em: Um Natal Muito Atrapalhado 2020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oRnf6mW.jpg" group-title="Filmes Livres",Luccas Neto em: Um Natal Muito Atrapalhado 2020
 https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/LCSNTEMUMNTLMTATRPLHDO.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/USUViQl.jpg" Fgroup-title="Filmes Infatins",Luccas Neto Em: Acampamento de Ferias 3 2020
-https://s33.aparat.cam/hls/aoqo7lsa42r5fwfuhyzba6yzkzpgcpnkbrlevd734nygtvrpokhkviofqi5a/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/USUViQl.jpg" group-title="Filmes Livres",Luccas Neto Em: Acampamento de Ferias 3 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/LCSNTOEMACMPMTDFRS3.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uEf4saq.jpg" Fgroup-title="Filmes Infatins",LEGO: The Adventures of Clutch Powers 2010
-https://www289.ff-01.com/token=YzLkbumPMb5lUIfIz47nQw/1611345443/143.202.0.0/139/3/7c/39b418a3704a758abd6b34ba2e95a7c3-360p.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x9X929G.jpg" group-title="Filmes Livres",LEGO DC: Shazam – Magia e Monstros 2020
+https://s2.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/LegoDCShazamMagiaEMonstros/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RT6dVjY.jpg" group-title="Filmes Livres",Divertida Mente - 2015
+https://jwwge18508endzd.belugacdn.link/-f-i-l-m-e-s-/dub/150540.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6lkVFzR.jpg" group-title="Filmes Livres",Wheely - Velozes e Divertidos 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WHLYVLZEDVTDS.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZR5O2D.jpg" group-title="Filmes Livres",Sing – Quem Canta Seus Males Espanta 2016
+https://jwwge18508endzd.belugacdn.link/-f-i-l-m-e-s-/dub/335797.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zbn0kYd.jpg" group-title="Filmes Livres",Rango 2011
+https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/44896.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hdZjGiu.jpg" group-title="Filmes Livres",O Homem das Cavernas 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/OHMNDSCVNS.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XgKJCzx.jpg" group-title="Filmes Livres",Megamente 2010
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/MGMNTE.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBRnw81.jpg" group-title="Filmes Livres",O Segredo dos Animais Ep.01 - 2006
+https://t6h7n3h2.stackpathcdn.com/RCServer15/ondemand/OSGRDSANMST01EP01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBRnw81.jpg" group-title="Filmes Livres",O Segredo dos Animais Ep.02 - A Fuga do Celeiro
+https://t6h7n3h2.stackpathcdn.com/RCServer15/ondemand/OSGRDSANMST01EP02.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q4UY4xc.jpg" group-title="Filmes Livres",Trolls: Vamos Festejar - 2017 
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/TRLSVMSFSTJR.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W3fRlzt.jpg" group-title="Filmes Livres",Trolls 2 - 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/TRLS2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AAWOMzo.jpg" group-title="Filmes Livres",Yellowbird: O Pequeno Herói - 2014
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/YELWBRDOPQNOHROI.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9zl8u5h.jpg" group-title="Filmes Livres",Vombate ao Combate - 2020 
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/VMBTAOCMBT.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MeCl2K5.jpg" group-title="Filmes Livres",Bob Esponja: O Incrível Resgate - 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/BOBESPJOINCRVLRSGTE.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KxBMZXl.jpg" group-title="Filmes Livres",Pets Unidos! - 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/PETSUNDS.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9vl2m.jpg" group-title="Filmes Livres",A Caminho da Lua - 2020
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/ACMNHDLUA.mp4
+
+######################################  Filmes de Natal  ########################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1TUHKQL.jpg" group-title="Filmes de Natal",Missão Presente de Natal - 2020
+https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/MSAOPSNTDNTL.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jBD7dn.jpg" group-title="Filmes de Natal",Tudo Bem no Natal Que Vem - 2020
+https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/TDBMNONTLQVM.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rGiH6qQ.jpg" group-title="Filmes de Natal",Aplicativo Para o Natal - 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/APPPRONTL.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AX2cLa5.jpg" group-title="Filmes de Natal",Um Sapato para o Natal - 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/UMSPTPRONTL.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EFV7oQ0.jpg" group-title="Filmes de Natal",Príncipe do Natal: O Bebê Real - 2019
+https://s2.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/OPrincipedoNatalOBebeReal/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psG7hKO.jpg" group-title="Filmes de Natal",O Príncipe do Natal - 2017 
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/OPRNCPDNTL.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcBMVcd.jpg" group-title="Filmes de Natal",Natal No Palácio - 2019
+https://s3.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/NatalNoPalacio2018/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y6w7jJf.jpg" group-title="Filmes de Natal",A Volta do Espírito de Natal - 2017
+https://s2.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/AVoltaDoEspiritoDeNatal/dub/video.json/index-v1-a1.m3u8
