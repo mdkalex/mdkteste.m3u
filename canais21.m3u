@@ -64,6 +64,9 @@ https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w134863369.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uGqxlCu.png" group-title="Canais 24 horas",Filmes 24h - site
 https://stmv1.transmissaodigital.com/clodoaldo7589/clodoaldo7589/chunklist_w1753580857.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sgddl1G.png" group-title="Canais 24 horas",BONS TEMPOS TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w920239982.m3u8
+
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Canais 24 horas",Os Três Patetas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=108&deviceId=5f1eed3c29b39600073e2ec0&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
@@ -84,19 +87,17 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f0008
 
 ################################################################################# TV Aberta
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO SP
-http://b2p.li:80/helio306/749173/5117
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO SITE 1
+http://play.cmsdz.life:80/8191909194/9124201943/350153
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO RJ 1
-http://s1brazil.ddns.net:25461/charleievangelista@me.com/799ed06d9ead40a55ff63ef625df5c89abd272ea0c8bf923f09be2e681e8f3bf603fec2b76f198c33544f877837fa904c93a8b459a0dd2d2f113b382f91aaa5f/2851
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO SITE 2
+http://dnsx.co:80/0915597625/fireurl.co/71971
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",Globo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO SITE 3
 http://srvx.io:80/5251874191/fireurl.co/72095
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gkWNOsf.jpg" group-title="TV Aberta",TV Manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
-
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w920239982.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/TX1jfAh.jpg" group-title="TV Aberta",TV Maceió
 http://srv3.zcast.com.br:1935/tvmaceio/tvmaceio/playlist.m3u8?PEDROJUNIORTUTORIAIS
