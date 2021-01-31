@@ -85,6 +85,17 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d0007
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Canais 24 horas",TV animais de estimação
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=505&deviceId=5f515ebac01c0f00080e8439&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
+################################################################################# TV Aberta 4K TESTE
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta 4K TESTE",GLOBO
+http://akamaizedx.com:80/davimusse/dms1520/10039421
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta 4K TESTE",SBT
+http://akamaizedx.com:80/davimusse/dms1520/10039422
+
+#EXTINF:-1 tvg-id="BAND SP" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta 4K TESTE",Band
+http://akamaizedx.com:80/davimusse/dms1520/10039426
+
 ################################################################################# TV Aberta
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO SITE 1
@@ -114,8 +125,8 @@ https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/V3zjKvc.png" group-title="TV Aberta",TV FAAP HD
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?PEDROJUNIORTUTORIAIS 
  
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV Aberta",TV Gazeta SP HD
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV Aberta",TV Gazeta SP HD
  
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV Aberta",TV Gazeta MA
 http://stmv4.srvstm.com:1935/wagner1168/wagner1168/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -406,20 +417,23 @@ http://svrhost.club/QDAENLGI/6K94SOWV/3290?tkn=1608396171
 #EXTINF:-1 tvg-id="FOX SPORT" tvg-logo="https://www.canaison.com/canais/fox-sport-2-new.jpg" group-title="Esportes",Fox Sports 2 site
 http://dnsx.co:80/0915597625/fireurl.co/71960
 
-#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 1 site
+#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat site 1A
 http://dnsx.co:80/0915597625/fireurl.co/71845
 
-#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 2 site
+#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat site 2A
 http://assistirpainel.ddns.net:8880/34125123652/3412512365/2319
 
-#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 3 site
+#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat site 1B
 http://dnsx.co:80/0915597625/fireurl.co/71845
 
-#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 4 site
+#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat site 3A
 http://play.cmsdz.life:80/8191909194/9124201943/349658
 
-#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat 5 site
+#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat site 3B
 http://play.cmsdz.life:80/8191909194/9124201943/349657
+
+#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat FHD site 4A
+http://akamaizedx.com:80/davimusse/dms1520/10039464
 
 ####################################################################  Premiere #############################
 
@@ -451,8 +465,11 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/ind
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/izfepdy.png" group-title="Variedades",TLC - site 1
 http://xdgo.live:8080/fparejaf/fZ5B5jgmQ5/1021
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/izfepdy.png" group-title="Variedades",TLC - site 2
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tlc.m3u8?mu3zAQc9HC3GbwJq=khYj5ojVohSpXEXijuWIiQ&3U1G7qaTxrPbalZnEx=1611873186
+##EXTINF:-1 tvg-id=""https://i.imgur.com/kt4LUuC.png" group-title="Variedades",Discovery Home & Health - site 1A
+http://akamaizedx.com:80/davimusse/dms1520/10039472
+
+##EXTINF:-1 tvg-id=""https://i.imgur.com/kt4LUuC.png" group-title="Variedades",Discovery Home & Health - site 2A
+http://play.cmsdz.life:80/8191909194/9124201943/349681
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 1A
 http://play.cmsdz.life:80/8191909194/9124201943/349745
@@ -461,7 +478,7 @@ http://play.cmsdz.life:80/8191909194/9124201943/349745
 http://dnsx.co:80/0915597625/fireurl.co/71932
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 1B
-http://play.cmsdz.life:80/8191909194/9124201943/349746
+http://play.cmsdz.life:80/8191909194/9124201943/349744
 
 ##EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 2B
 http://dnsx.co:80/0915597625/fireurl.co/71934
