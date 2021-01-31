@@ -738,8 +738,16 @@ https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/MLHRMRVLHA1984.mp4
 
 ######################################  Filmes  ########################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vnZWAdx.jpg" group-title="Filmes",Legado Explosivo - 2020
+##EXTINF:-1 tvg-logo="https://i.imgur.com/vnZWAdx.jpg" group-title="Filmes",Legado Explosivo - 2020
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5bwuIra.jpg" group-title="Filmes"Armadilha do Tempo - 2017
+https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/TimeTrap2017/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MiBsSki.png" group-title="Filmes",Animais Fantásticos: Os Crimes de Grindelwald - 2018
+https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/AnimaisFantasticos2/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Vsmvtg.jpg" group-title="Filmes",Animais Fantásticos e Onde Habitam - 2016
+https://s1.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/AnimaisFantasticos/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2mV9FKD.jpg" group-title="Filmes",Maze Runner: A Cura Mortal - 2018
 https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/MAZRNERACRMRTL.mp4
@@ -907,6 +915,18 @@ https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WATRWRLD.mp4
 https://www58.uptostream.com/380mgumb5dc/1080/1/video.mp4
 
 #######################################################################################################  Filmes Livres  ########################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DBDrig3.jpg" group-title="Filmes Livres",Patrulha Canina: Super Filhotes - 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/PTRLHCNASPRFLHTS.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fz2vTZ8.jpg" group-title="Filmes Livres",O Bom Dinossauro - 2015
+https://s4.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/OBomDinossauro/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yFsLgsW.jpg" group-title="Filmes Livres",Phineas e Ferb, O Filme: Candace Contra o Universo - 2020
+https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/PhineasEFerbCandaceContraOUniverso/dub/video.json/index-f2-v1-f1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/meXW2CK.jpg" group-title="Filmes Livres",Animais em Apuros - 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/ANMSEMAPRS.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1mLHFoZ.jpg" group-title="Filmes Livres",Sonic: O Filme - 2020
 https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/SONCOFLM.mp4
