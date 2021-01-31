@@ -451,8 +451,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/ind
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/izfepdy.png" group-title="Variedades",TLC - site 1
 http://xdgo.live:8080/fparejaf/fZ5B5jgmQ5/1021
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/izfepdy.png" group-title="Variedades",TLC - site 2
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tlc.m3u8?mu3zAQc9HC3GbwJq=khYj5ojVohSpXEXijuWIiQ&3U1G7qaTxrPbalZnEx=1611873186
+##EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/izfepdy.png" group-title="Variedades",TLC - site 2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 1A
 http://play.cmsdz.life:80/8191909194/9124201943/349745
@@ -461,7 +460,7 @@ http://play.cmsdz.life:80/8191909194/9124201943/349745
 http://dnsx.co:80/0915597625/fireurl.co/71932
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 1B
-http://play.cmsdz.life:80/8191909194/9124201943/349746
+http://play.cmsdz.life:80/8191909194/9124201943/349744
 
 ##EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 2B
 http://dnsx.co:80/0915597625/fireurl.co/71934
