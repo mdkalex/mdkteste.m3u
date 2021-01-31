@@ -662,6 +662,9 @@ https://s2.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/fi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NA5rn1w.jpg" group-title="Filmes Marvel Studios",Thor: O Mundo Sombrio - 2013
 https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/THOROMNDSBR.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHeZ43K.jpg" group-title="Filmes Marvel Studios",Thor: Ragnarok - 2017
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/THORAGORK.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/im8LxAc.jpg" group-title="Filmes Marvel Studios",Capitão América: O Primeiro Vingador - 2011
 https://s3.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/CapitaoAmerica/dub/video.json/index-v1-a1.m3u8
 
@@ -674,20 +677,29 @@ https://s4.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/fi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uh0f7rK.jpg" group-title="Filmes Marvel Studios",Guardiões da Galáxia - 2014
 https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/GuardioesDaGalaxia/dub/video.json/index-v1-a1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CcaP6LD.jpeg" group-title="Filmes Marvel Studios",Guardiões da Galáxia Vol. 2 - 2017
+https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/GuardioesDaGalaxia2/dub/video.json/index-v1-a1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/le43XZ0.jpg" group-title="Filmes Marvel Studios",Homem-Formiga - 2015
 https://s2.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/HomemFormiga/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3GYLEX7.jpg" group-title="Filmes Marvel Studios",Homem-Formiga e a Vespa - 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/HMNFRMGEVSPA.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YGxs6v2.jpg" group-title="Filmes Marvel Studios",Doutor Estranho - 2016
 https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/DoutorEstranho/dub/video.json/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CcaP6LD.jpeg" group-title="Filmes Marvel Studios",Guardiões da Galáxia Vol. 2 - 2017
-https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/GuardioesDaGalaxia2/dub/video.json/index-v1-a1.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o98OkOs.jpg" group-title="Filmes Marvel Studios",Homem-Aranha: De Volta Ao Lar - 2017
 https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/HomemAranhaDeVoltaAoLar/dub/video.json/index-v1-a1.m3u8
 
-##EXTINF:-1 tvg-logo="https://i.imgur.com/7yE4igv.jpg" group-title="Filmes Marvel Studios",Thor: Ragnarok - 2017
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9bgc9u.jpg" group-title="Filmes Marvel Studios",Homem-Aranha: Longe de Casa - 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HMEMARNHLNGDCSA.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8BYor1w.jpg" group-title="Filmes Marvel Studios",Pantera Negra - 2018
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/PNTRNGR.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pt8BrpT.jpg" group-title="Filmes Marvel Studios",Capitã Marvel - 2019
+https://t6h7n3h2.stackpathcdn.com/RCFServer2/ondemand/CPTMRVL.mp4
 
 ######################################  Filmes DC Comics  ########################################
 
