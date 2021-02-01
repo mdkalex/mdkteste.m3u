@@ -90,7 +90,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f0008
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta 4K TESTE",GLOBO
 http://akamaizedx.com:80/davimusse/dms1520/10039421
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta 4K TESTE",SBT
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta 4K TESTE",SBT
 http://akamaizedx.com:80/davimusse/dms1520/10039422
 
 #EXTINF:-1 tvg-id="BAND SP" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta 4K TESTE",Band
@@ -133,9 +133,6 @@ http://stmv4.srvstm.com:1935/wagner1168/wagner1168/playlist.m3u8?PEDROJUNIORTUTO
  
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT MT
 http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT RJ 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1611274837/ei/9cUJYM2qM4L7wAThwrE4/ip/143.202.47.224/id/Bkm-R1uSZN8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/br/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKKtSbmMuFqUrxDEauN-aV1t5X7DDG16B9QmO80p3a0PAiEAo6mVhHWbBI2PhMau_Xx7JvL2dcCa1dEVgNVx7ewdI-4%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT PI
 http://stmv1.transmissaodigital.com:1935/cidadeverde/cidadeverde/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -458,29 +455,27 @@ http://bldtv.vip:80/victor09/624805/172418
 #EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 7
 http://dns.velox4k.tech:2082/1127930724/4718874848/4634
 
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
-
 ####################################################################  Variedades #############################
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/izfepdy.png" group-title="Variedades",TLC - site 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/izfepdy.png" group-title="Variedades",TLC - site 1
 http://xdgo.live:8080/fparejaf/fZ5B5jgmQ5/1021
 
-##EXTINF:-1 tvg-id=""https://i.imgur.com/kt4LUuC.png" group-title="Variedades",Discovery Home & Health - site 1A
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/rLpw87s.jpg" group-title="Variedades",Discovery Home & Health - site 1A
 http://akamaizedx.com:80/davimusse/dms1520/10039472
 
-##EXTINF:-1 tvg-id=""https://i.imgur.com/kt4LUuC.png" group-title="Variedades",Discovery Home & Health - site 2A
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/rLpw87s.jpg" group-title="Variedades",Discovery Home & Health - site 2A
 http://play.cmsdz.life:80/8191909194/9124201943/349681
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 1A
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 1A
 http://play.cmsdz.life:80/8191909194/9124201943/349745
 
-##EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 2A
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 2A
 http://dnsx.co:80/0915597625/fireurl.co/71932
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 1B
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 1B
 http://play.cmsdz.life:80/8191909194/9124201943/349744
 
-##EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 2B
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network - site 2B
 http://dnsx.co:80/0915597625/fireurl.co/71934
 
 ################################################################################# Religiosos
@@ -738,9 +733,25 @@ https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/MLHRMRVLHA1984.mp4
 
 ######################################  Filmes  ########################################
 
-##EXTINF:-1 tvg-logo="https://i.imgur.com/vnZWAdx.jpg" group-title="Filmes",Legado Explosivo - 2020
+##EXTINF:-1 tvg-logo="https://i.imgur.com/VOwrFv7.jpg" group-title="Filmes",A Lenda de Kamui - 2009
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/ALNDKMUI.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5bwuIra.jpg" group-title="Filmes"Armadilha do Tempo - 2017
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lXGXrjX.jpg" group-title="Filmes",Footloose - Ritmo Contagiante - 2011
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/FOTLOSRTMCNTGANTE.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bGsjpm2.jpg" group-title="Filmes",Footloose - Ritmo Louco - 1984
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/FOTLSRTMLOCO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kL3oEUY.jpg" group-title="Filmes",Dirty Dancing - Ritmo Quente - 1987
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/DRTYDNCG.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QSnstCS.jpg" group-title="Filmes",Fúria de Titãs 2 - 2012
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/FRIDTTS2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IKcCopY.jpg" group-title="Filmes",Fúria de Titãs - 2010
+https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/FRIDTTS1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5bwuIra.jpg" group-title="Filmes",Armadilha do Tempo - 2017
 https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/TimeTrap2017/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MiBsSki.png" group-title="Filmes",Animais Fantásticos: Os Crimes de Grindelwald - 2018
@@ -818,7 +829,7 @@ https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/DUELNASFTO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1lL3afK.jpg" group-title="Filmes",Monster Trucks - 2016
 https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/MNSTRRCK.mp4
 
-##EXTINF:-1 tvg-logo="https://i.imgur.com/zwiXmx1.jpg" group-title="Filmes",Meu Admirador Secreto - 2018
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zwiXmx1.jpg" group-title="Filmes",Meu Admirador Secreto - 2018
 https://a-delivery12.mxdcontent.net/v/0a51d9b190ff5630a5a8999f1fcc0fe7.mp4?s=ZTcsI1oCftHchFdB18S-og&e=1611696389&_t=1611682228
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eu8U77T.jpg" group-title="Filmes",Cowboys & Aliens - 2011
@@ -915,6 +926,18 @@ https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WATRWRLD.mp4
 https://www58.uptostream.com/380mgumb5dc/1080/1/video.mp4
 
 #######################################################################################################  Filmes Livres  ########################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJpo2Nx.jpg" group-title="Filmes Livres",Os Goonies - 1985
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/OSGONS.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sRJeDOo.jpg" group-title="Filmes Livres",Esqueceram de Mim 3
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/ESQCRMDMIM3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u4nMq7S.jpg" group-title="Filmes Livres",Esqueceram de Mim 2: Perdido em Nova York - 1992
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/ESQCRMDMIM2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ywH4m7T.jpg" group-title="Filmes Livres",Esqueceram de Mim - 1990
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/ESQCRMDMIM1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DBDrig3.jpg" group-title="Filmes Livres",Patrulha Canina: Super Filhotes - 2018
 https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/PTRLHCNASPRFLHTS.mp4
