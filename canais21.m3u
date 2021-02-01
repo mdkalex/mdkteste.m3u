@@ -733,7 +733,8 @@ https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/MLHRMRVLHA1984.mp4
 
 ######################################  Filmes  ########################################
 
-##EXTINF:-1 tvg-logo="SEMM" group-title="Filmes",
+##EXTINF:-1 tvg-logo="https://i.imgur.com/VOwrFv7.jpg" group-title="Filmes",A Lenda de Kamui - 2009
+https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/ALNDKMUI.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lXGXrjX.jpg" group-title="Filmes",Footloose - Ritmo Contagiante - 2011
 https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/FOTLOSRTMCNTGANTE.mp4
@@ -925,6 +926,9 @@ https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WATRWRLD.mp4
 https://www58.uptostream.com/380mgumb5dc/1080/1/video.mp4
 
 #######################################################################################################  Filmes Livres  ########################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJpo2Nx.jpg" group-title="Filmes Livres",Os Goonies - 1985
+https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/OSGONS.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sRJeDOo.jpg" group-title="Filmes Livres",Esqueceram de Mim 3
 https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/ESQCRMDMIM3.mp4
