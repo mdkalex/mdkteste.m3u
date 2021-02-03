@@ -452,8 +452,14 @@ http://dns.clientetv.net:8080/5088166727/8166727/1273
 #EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 6
 http://bldtv.vip:80/victor09/624805/172418
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 7
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=sf-8SYQUlU6gsLpBRSLZlQ&3U1G7qaTxrPbalZnEx=1612239797
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere FHD - site 7A
+http://dnsx.co:80/0915597625/fireurl.co/72263
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere FHD - site 7B
+http://dnsx.co:80/0915597625/fireurl.co/72264
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere HD - site 7B
+http://dnsx.co:80/0915597625/fireurl.co/72265
 
 ####################################################################  Variedades #############################
 
