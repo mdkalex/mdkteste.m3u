@@ -762,7 +762,7 @@ https://s4.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/fi
 https://t6h7n3h2.stackpathcdn.com//RCFServer1/ondemand/MLHRMRVLHA.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9eg3sl2.jpg" group-title="Filmes DC Comics",Mulher Maravilha - 2017
-https://t6h7n3h2.stackpathcdn.com//RCFServer1/ondemand/MLHRMRVLHA.mp4
+https://d3vv0ylav955f.cloudfront.net/RCFServer1/ondemand/MLHRMRVLHA.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EAugGsV.jpg" group-title="Filmes DC Comics",Liga da Justiça - 2017
 https://s1.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/LigaDaJustica/dub/video.json/index-v1-a1.m3u8
@@ -777,9 +777,21 @@ https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/fi
 https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/AvesDeRapina/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mNEF1Rh.jpg" group-title="Filmes DC Comics",Mulher Maravilha 1984 - cinema - 2021
-https://t6h7n3h2.stackpathcdn.com//RCFServer5/ondemand/MLHRMRVLHA1984.mp4
+https://d3vv0ylav955f.cloudfront.net/RCFServer5/ondemand/MLHRMRVLHA1984.mp4
 
 ######################################  Filmes  ########################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q6KONh9.jpg" group-title="Filmes",Samurai X: O Fim de uma Lenda(2014)
+https://d3vv0ylav955f.cloudfront.net/RCFServer2/ondemand/SMRIXOFMDUMLND.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iLXXHPP.jpg" group-title="Filmes",O Último Samurai(2003)
+https://d3vv0ylav955f.cloudfront.net/RCFServer4/ondemand/OULTMSMRAI.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/biLLPn3.jpg" group-title="Filmes",A Espada do Imortal(2017)
+https://s3.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/AEspadaDoImortal/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sgn0mZP.png" group-title="Filmes",Bleach(2018)
+https://s1.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/Bleach/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P5csMv0.jpg" group-title="Filmes",300: A Ascensão do Império - 2014
 https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/300AAscensaoDoImperio/dub/video.json/index-v1-a1.m3u8
