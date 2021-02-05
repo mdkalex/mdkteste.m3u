@@ -781,6 +781,12 @@ https://d3vv0ylav955f.cloudfront.net/RCFServer5/ondemand/MLHRMRVLHA1984.mp4
 
 ######################################  Filmes  ########################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jK985ij.jpg" group-title="Filmes",Jiu Jitsu(2020)
+https://d3vv0ylav955f.cloudfront.net/RCFServer5/ondemand/JIUTTSU.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kcQiFtN.jpg" group-title="Filmes",Esquadrão 6(2019)
+https://s3.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/Esquadrao6/dub/video.json/index-v1-a1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6KONh9.jpg" group-title="Filmes",Samurai X: O Fim de uma Lenda(2014)
 https://d3vv0ylav955f.cloudfront.net/RCFServer2/ondemand/SMRIXOFMDUMLND.mp4
 
@@ -1016,6 +1022,39 @@ https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WATRWRLD.mp4
 https://www58.uptostream.com/380mgumb5dc/1080/1/video.mp4
 
 #######################################################################################################  Filmes Livres  ########################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pHSs1T.jpg" group-title="Filmes Livres",O Ritmo da Selva: O Filme(2020)
+https://d3vv0ylav955f.cloudfront.net/RCFServer5/ondemand/ORTMODSLVA.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/onaj2ja.jpg" group-title="Filmes Livres",Encantada(2007)
+https://d3vv0ylav955f.cloudfront.net/RCFServer5/ondemand/ENCTDA.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aX9kgx.jpg" group-title="Filmes Livres",Miraculous World: Nova Iorque, Heróis Unidos(2020)
+https://d3vv0ylav955f.cloudfront.net/RCFServer5/ondemand/MRCLSWRLDNVIRQHRSUNDS.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H7MbBAV.jpg" group-title="Filmes Livres",Os Pinguins de Madagascar(2014)
+https://d3vv0ylav955f.cloudfront.net/RCFServer5/ondemand/OSPNGNSDMDGSCR.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XEJYwfm.jpg" group-title="Filmes Livres",Um Lobo em Pele de Cordeiro 2(2020)
+https://d3vv0ylav955f.cloudfront.net/RCFServer5/ondemand/UMLBOEMPLEDCRDRO2.mp4
+
+#EXTINF:-1 tvg-logo="hhttps://i.imgur.com/KPWToVx.jpg" group-title="Filmes Livres",Um Lobo em Pele de Cordeiro(2016)
+https://d3vv0ylav955f.cloudfront.net/RCFServer5/ondemand/UMLBOEMPLEDCRDRO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K802zSb.jpg" group-title="Filmes Livres",O Grande Ivan(2020)
+https://d3vv0ylav955f.cloudfront.net/RCFServer5/ondemand/OGRNDIVN.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DBf1ZoH.jpg" group-title="Filmes Livres",O Parque dos Sonhos(2019)
+https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/OParqueDosSonhos/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CNCgt1x.jpg" group-title="Filmes Livres",Abominável(2019)
+https://s2.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/Abominavel/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sj7og25.jpg" group-title="Filmes Livres",Klaus(2019)
+https://s2.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/Klaus/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nP4ilOH.jpg" group-title="Filmes Livres",Nível Hard(2020)
+https://s2.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/NivelHard/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xE5ATjZ.jpg" group-title="Filmes Livres",A Origem dos Guardiões(2012)
 https://d3vv0ylav955f.cloudfront.net/RCFServer5/ondemand/AORGMDSGRDOS.mp4
