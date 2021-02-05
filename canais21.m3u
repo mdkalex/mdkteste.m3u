@@ -95,8 +95,11 @@ http://akamaizedx.com:80/davimusse/dms1520/10039426
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO HD SITE 1
 http://dnsx.co:80/0915597625/fireurl.co/71971
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO FHD SITE 2
-http://srvx.io:80/5251874191/fireurl.co/72095
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO HD RJ SITE 2
+http://srvx.io:80/0165466866/fireurl.co/90487
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rvTYSEW.jpg" group-title="TV Aberta",GLOBO HD SP SITE 2
+http://srvx.io:80/0165466866/fireurl.co/90478
 
 #EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record SP SD
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
