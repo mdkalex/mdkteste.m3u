@@ -355,6 +355,9 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?PE
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Zoo Moo Kids SD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=703&deviceId=5f12141b146d760007934ea7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Zoo Moo Kids HD
+http://akamaizedx.com:80/davimusse/dms1520/10039678
+
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Pluto TV Kids HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=721&deviceId=5f1214a637c6fd00079c652f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
@@ -1002,19 +1005,19 @@ https://www58.uptostream.com/380mgumb5dc/1080/1/video.mp4
 
 #######################################################################################################  Filmes Livres  ########################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xE5ATjZ.jpg" group-title="Filmes",A Origem dos Guardiões(2012)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xE5ATjZ.jpg" group-title="Filmes Livres",A Origem dos Guardiões(2012)
 https://d3vv0ylav955f.cloudfront.net/RCFServer5/ondemand/AORGMDSGRDOS.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HR4FV0p.jpg" group-title="Filmes",Os Irmãos Guardiões(2015)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HR4FV0p.jpg" group-title="Filmes Livres",Os Irmãos Guardiões(2015)
 https://d3vv0ylav955f.cloudfront.net/RCFServer4/ondemand/OSIMSGRDIOS.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xE5ATjZ.jpg" group-title="Filmes",Festa no Céu(2014)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xE5ATjZ.jpg" group-title="Filmes Livres",Festa no Céu(2014)
 https://d3vv0ylav955f.cloudfront.net/RCFServer3/ondemand/FSTNOCEU.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87umYDA.jpg" group-title="Filmes",Viva – A Vida É uma Festa(2017)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/87umYDA.jpg" group-title="Filmes Livres",Viva – A Vida É uma Festa(2017)
 https://d3vv0ylav955f.cloudfront.net/RCFServer4/ondemand/VIVAAVDEUMFST.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KwM9ZDN.jpg" group-title="Filmes",Zathura: Uma Aventura Espacial(2005)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KwM9ZDN.jpg" group-title="Filmes Livres",Zathura: Uma Aventura Espacial(2005)
 https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/ZTHRUMAVNTESPCL.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/56Cd4tR.jpg" group-title="Filmes Livres",SCOOBY! O Filme - 2020
