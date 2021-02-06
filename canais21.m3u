@@ -726,6 +726,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b0008
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L61CJkFk/images.jpg" group-title="DOCUMENTARIOS", History Lab
 https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/as0ly7a.png" group-title="DOCUMENTARIOS",ANIM NATURE
+http://200.194.238.236:5000/play/a006/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OEntvna.jpg" group-title="DOCUMENTARIOS",Discovery Channel 
 http://xdgo.live:8080/josevflive/VPgrUfTYwB/1005
 
