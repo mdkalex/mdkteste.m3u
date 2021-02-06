@@ -858,7 +858,7 @@ https://lbsuper.sfplayer.net/hls/cb038e693948079d8f58f5e17be67794/cb038e69394807
 
 ######################################  Filmes  ########################################
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/2uZ5dAG.jpg" group-title="Filmes",Cinquenta Tons de Liberdade(2018)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2uZ5dAG.jpg" group-title="Filmes",Cinquenta Tons de Liberdade(2018)
 https://s4.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/CinquentaTonsDeLiberdade/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/csBcNlr.jpg" group-title="Filmes",Cinquenta Tons Mais Escuros – Versão Sem Cortes(2017)
