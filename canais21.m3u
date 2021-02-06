@@ -397,7 +397,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Zoo Moo Kids HD
 http://akamaizedx.com:80/davimusse/dms1520/10039678
 
-#EXTINF:-1 group-title="Infantil" tvg-logo="http://i.imgur.com/WCFVJCx.png",Zoo Moo Kids HD
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/WCFVJCx.png" group-title="Infantil",Zoo Moo Kids HD
 http://origin-02.nxplay.com.br/ZOOMOO_HD_NX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Pluto TV Kids HD
