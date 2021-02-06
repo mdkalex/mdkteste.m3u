@@ -858,6 +858,15 @@ https://lbsuper.sfplayer.net/hls/cb038e693948079d8f58f5e17be67794/cb038e69394807
 
 ######################################  Filmes  ########################################
 
+EXTINF:-1 tvg-logo="https://i.imgur.com/2uZ5dAG.jpg" group-title="Filmes",Cinquenta Tons de Liberdade(2018)
+https://s4.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/CinquentaTonsDeLiberdade/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/csBcNlr.jpg" group-title="Filmes",Cinquenta Tons Mais Escuros – Versão Sem Cortes(2017)
+https://s3.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/CinquentaTonsMaisEscuros/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jRB4buC.jpg" group-title="Filmes",Cinquenta Tons de Cinza(2015)
+https://s1.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/CinquentaTonsDeCinza/dub/video.json/index-v1-a1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L5cQUji.jpg" group-title="Filmes",Ameaça Profunda(2020)
 https://s3.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/AmeacaProfunda/dub/video.json/index-v1-a1.m3u8
 
