@@ -924,11 +924,15 @@ https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/FOTLSRTMLOCO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kL3oEUY.jpg" group-title="Filmes",Dirty Dancing - Ritmo Quente - 1987
 https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/DRTYDNCG.mp4
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U3SJrOh.jpg" group-title="Filmes",Fúria de Titãs(1981)
+https://dksdznpovbujh.cloudfront.net/RCFServer5/ondemand/FURIDTAS1981.mp4
+https://lbsuper.sfplayer.net/hls/2a99284ce3a1672af88a97393edd9ba3/2a99284ce3a1672af88a97393edd9ba3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QSnstCS.jpg" group-title="Filmes",Fúria de Titãs 2 - 2012
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/FRIDTTS2.mp4
+https://lbsuper.sfplayer.net/hls/2c9eaa3649b6a52c9b03073e256ea7c4/2c9eaa3649b6a52c9b03073e256ea7c4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IKcCopY.jpg" group-title="Filmes",Fúria de Titãs - 2010
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/FRIDTTS1.mp4
+https://lbsuper.sfplayer.net/hls/3af812eca131ee03efb4dd99e371245a/3af812eca131ee03efb4dd99e371245a.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5bwuIra.jpg" group-title="Filmes",Armadilha do Tempo - 2017
 https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/TimeTrap2017/dub/video.json/index-v1-a1.m3u8
@@ -1268,35 +1272,32 @@ https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/44896.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hdZjGiu.jpg" group-title="Filmes Livres",O Homem das Cavernas 2018
 https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/OHMNDSCVNS.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XgKJCzx.jpg" group-title="Filmes Livres",Megamente 2010
-https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/MGMNTE.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XgKJCzx.jpg" group-title="Filmes Livres",Megamente(2010)
+https://lbsuper2.sfplayer.net/hls/01f35e40ae4e407fda33f72c826d025a/01f35e40ae4e407fda33f72c826d025a.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBRnw81.jpg" group-title="Filmes Livres",O Segredo dos Animais Ep.01 - 2006
-https://t6h7n3h2.stackpathcdn.com/RCServer15/ondemand/OSGRDSANMST01EP01.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBRnw81.jpg" group-title="Filmes Livres",O Segredo dos Animais Ep.02 - A Fuga do Celeiro
-https://t6h7n3h2.stackpathcdn.com/RCServer15/ondemand/OSGRDSANMST01EP02.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBRnw81.jpg" group-title="Filmes Livres",O Segredo dos Animais(2006)
+https://s3.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/OSegredoDosAnimais/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q4UY4xc.jpg" group-title="Filmes Livres",Trolls: Vamos Festejar - 2017 
-https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/TRLSVMSFSTJR.mp4
+https://dksdznpovbujh.cloudfront.net/RCFServer4/ondemand/TRLSVMSFSTJR.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W3fRlzt.jpg" group-title="Filmes Livres",Trolls 2 - 2020
-https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/TRLS2.mp4
+https://lbsuper.sfplayer.net/hls/1e0aef07dc6d66038fa17e7503f65d9c/1e0aef07dc6d66038fa17e7503f65d9c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAWOMzo.jpg" group-title="Filmes Livres",Yellowbird: O Pequeno Herói - 2014
-https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/YELWBRDOPQNOHROI.mp4
+https://dksdznpovbujh.cloudfront.net/RCFServer3/ondemand/YELWBRDOPQNOHROI.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9zl8u5h.jpg" group-title="Filmes Livres",Vombate ao Combate - 2020 
-https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/VMBTAOCMBT.mp4
+https://lbsuper.sfplayer.net/hls/05768ec5234e030ffce33b1eac6cf4fd/05768ec5234e030ffce33b1eac6cf4fd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MeCl2K5.jpg" group-title="Filmes Livres",Bob Esponja: O Incrível Resgate - 2020
-https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/BOBESPJOINCRVLRSGTE.mp4
+https://lbsuper.sfplayer.net/hls/724bf9f351444dd1172fc906197c06b1/724bf9f351444dd1172fc906197c06b1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxBMZXl.jpg" group-title="Filmes Livres",Pets Unidos! - 2019
-https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/PETSUNDS.mp4
+https://dksdznpovbujh.cloudfront.net/RCFServer5/ondemand/PETSUNDS.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lE9vl2m.jpg" group-title="Filmes Livres",A Caminho da Lua - 2020
-https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/ACMNHDLUA.mp4
+https://dksdznpovbujh.cloudfront.net/RCFServer5/ondemand/ACMNHDLUA.mp4
 
 ######################################  Filmes de Natal  ########################################
 
