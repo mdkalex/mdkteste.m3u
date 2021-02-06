@@ -349,7 +349,6 @@ http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8?PEDROJUNI
 #EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Record",Record MT
 http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8?PEDROJUNIORTUTORIAIS
 
-
 #################################################################################  Infantil ##############################################################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/me7Ae0Q.png" group-title="Infantil",Retrô Cartoon
@@ -650,16 +649,16 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 #EXTINF:-1 tvg-id="BAND NEWS" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="Notícias",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 group-title="Notícias" tvg-logo="https://i.imgur.com/f3m6Tcz.png",CNN Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f3m6Tcz.png" group-title="Notícias",CNN Brasil
 http://origin-02.nxplay.com.br/CNN_Brazil_HD_NX/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jxZtx5F/Polish-20191124-184241726.jpg" group-title="Notícias",CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 
-#EXTINF:-1 group-title="Notícias" tvg-logo="https://i.imgur.com/f3m6Tcz.png",CNN Brasil HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f3m6Tcz.png" group-title="Notícias",CNN Brasil HD
 http://origin-02.nxplay.com.br/CNN_Brazil_HD_NX/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Notícias" tvg-logo="http://i.imgur.com/kIpd4xA.png",GV News
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kIpd4xA.png" group-title="Notícias",GV News
 https://59f1cbe63db89.streamlock.net:1443/gvnews1/_definst_/gvnews1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/kIpd4xA.png" group-title="Notícias",GV News
