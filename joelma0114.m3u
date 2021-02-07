@@ -455,6 +455,24 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?PEDR
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports
 http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="SPORTV3" tvg-logo="https://i.imgur.com/wCPHZsd.jpg" group-title="Esportes",SPORTV 3 HD1
+http://dnsx.co:80/0915597625/fireurl.co/72327
+
+#EXTINF:-1 tvg-id="SPORTV3" tvg-logo="https://i.imgur.com/wCPHZsd.jpg" group-title="Esportes",SPORTV 3 HD2
+http://srvx.io:80/0165466866/fireurl.co/90334
+
+#EXTINF:-1 tvg-id="SPORTV2" tvg-logo="https://i.imgur.com/NbsZCd1.jpg" group-title="Esportes",SPORTV 2 HD1
+http://dnsx.co:80/0915597625/fireurl.co/72324
+
+#EXTINF:-1 tvg-id="SPORTV2" tvg-logo="https://i.imgur.com/NbsZCd1.jpg" group-title="Esportes",SPORTV 2 HD2
+http://srvx.io:80/0165466866/fireurl.co/90337
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://i.imgur.com/XxICEwC.jpg" group-title="Esportes",SPORTV HD1
+http://dnsx.co:80/0915597625/fireurl.co/72331
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://i.imgur.com/XxICEwC.jpg" group-title="Esportes",SPORTV HD2
+http://srvx.io:80/0165466866/fireurl.co/90331
+
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports HD
 http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
 
@@ -753,19 +771,19 @@ http://xdgo.live:8080/fparejaf/fZ5B5jgmQ5/1026
 ############################################################  Filmes Marvel Studios  ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JLh0B4x.jpg" group-title="Filmes Marvel Studios",Homem de Ferro - 2008
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HMNDEFRO01.mp4
+https://s3.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/HomemDeFerro1/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vByQTT7.jpg" group-title="Filmes Marvel Studios",Homem de Ferro 2 - 2010
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HMNDEFRO02.mp4
+https://lbsuper2.sfplayer.net/hls/a4d1b2bcc3c5f77f13c716ef8da50ddf/a4d1b2bcc3c5f77f13c716ef8da50ddf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZVb9dZ.jpg" group-title="Filmes Marvel Studios",Homem de Ferro 3 - 2013
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HMNDEFRO03.mp4
+https://s3.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/HomemDeFerro3/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YxPkaHS.jpg" group-title="Filmes Marvel Studios",Os Vingadores 2012
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/OSVGDRS.mp4
+https://lbsuper2.sfplayer.net/hls/a4d1b2bcc3c5f77f13c716ef8da50ddf/a4d1b2bcc3c5f77f13c716ef8da50ddf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qnfWcss.jpg" group-title="Filmes Marvel Studios",Vingadores: Era de Ultron 2015
-https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/VNGDRSEDURON.mp4
+https://s3.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/VingadoresEraDeUltron/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wcr49OZ.jpg" group-title="Filmes Marvel Studios",Vingadores: Guerra Infinita 2018
 https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/299536.mp4
@@ -871,16 +889,19 @@ https://s1.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/fi
 https://s3.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/AmeacaProfunda/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jK985ij.jpg" group-title="Filmes",Jiu Jitsu(2020)
-https://d3vv0ylav955f.cloudfront.net/RCFServer5/ondemand/JIUTTSU.mp4
+https://lbsuper2.sfplayer.net/hls/e977f4671a167ff69b0829d8c6bf4563/e977f4671a167ff69b0829d8c6bf4563.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kcQiFtN.jpg" group-title="Filmes",Esquadrão 6(2019)
 https://s3.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/Esquadrao6/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6KONh9.jpg" group-title="Filmes",Samurai X: O Fim de uma Lenda(2014)
-https://d3vv0ylav955f.cloudfront.net/RCFServer2/ondemand/SMRIXOFMDUMLND.mp4
+https://lbsuper.sfplayer.net/hls/c286f03beee247f4493699faf399dab2/c286f03beee247f4493699faf399dab2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iLXXHPP.jpg" group-title="Filmes",O Último Samurai(2003)
-https://d3vv0ylav955f.cloudfront.net/RCFServer4/ondemand/OULTMSMRAI.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Pm81uz.jpg" group-title="Filmes",Samurai X: O Inferno de Kyoto(2014)
+https://lbsuper.sfplayer.net/hls/3678d0a8725dbf6c1a882474f9aa4b10/3678d0a8725dbf6c1a882474f9aa4b10.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9xuZqC5.jpg" group-title="Filmes",Samurai X - O Filme(2012)
+https://lbsuper2.sfplayer.net/hls/e2e26e5dfe06ae9e573e5af2b668ceb7/e2e26e5dfe06ae9e573e5af2b668ceb7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/biLLPn3.jpg" group-title="Filmes",A Espada do Imortal(2017)
 https://s3.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/AEspadaDoImortal/dub/video.json/index-v1-a1.m3u8
@@ -895,7 +916,7 @@ https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/fi
 https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/300/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jnOxQg3.jpeg" group-title="Filmes",Godzilla 2: Rei dos Monstros - 2019
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/GDZLAOREDSMNSTS.mp4
+https://lbsuper2.sfplayer.net/hls/9f48582f8753031b1cf2e1f5b8e9e010/9f48582f8753031b1cf2e1f5b8e9e010.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6GTsXKH.jpg" group-title="Filmes",Godzilla 1 - 2014
 https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/Godzilla2014/dub/video.json/index-v1-a1.m3u8
@@ -925,13 +946,13 @@ https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/fi
 https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/ALNDKMUI.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lXGXrjX.jpg" group-title="Filmes",Footloose - Ritmo Contagiante - 2011
-https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/FOTLOSRTMCNTGANTE.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bGsjpm2.jpg" group-title="Filmes",Footloose - Ritmo Louco - 1984
-https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/FOTLSRTMLOCO.mp4
+https://lbsuper.sfplayer.net/hls/7226b9d0d1531665719317a8147d05a8/7226b9d0d1531665719317a8147d05a8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kL3oEUY.jpg" group-title="Filmes",Dirty Dancing - Ritmo Quente - 1987
-https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/DRTYDNCG.mp4
+https://s2.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/DirtiDance/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bGsjpm2.jpg" group-title="Filmes",Footloose - Ritmo Louco - 1984
+https://lbsuper.sfplayer.net/hls/23d10aca789e6790de77e6c25078e97e/23d10aca789e6790de77e6c25078e97e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U3SJrOh.jpg" group-title="Filmes",Fúria de Titãs(1981)
 https://dksdznpovbujh.cloudfront.net/RCFServer5/ondemand/FURIDTAS1981.mp4
@@ -953,43 +974,43 @@ https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/fi
 https://s1.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/AnimaisFantasticos/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2mV9FKD.jpg" group-title="Filmes",Maze Runner: A Cura Mortal - 2018
-https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/MAZRNERACRMRTL.mp4
+https://s2.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/MazeRunnerACuraMortal/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/crmlSH6.jpg" group-title="Filmes",Maze Runner: Prova de Fogo - 2015
-https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/MZRNRPRVDFG.mp4
+https://s2.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/MazeRunnerProvaDeFogo/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKLmkKW.jpg" group-title="Filmes",Maze Runner: Correr ou Morrer - 2014
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/MZRNRCROMR.mp4
+https://lbsuper.sfplayer.net/hls/9bf1e3c7486c2b7fb5395f86f1e2b143/9bf1e3c7486c2b7fb5395f86f1e2b143.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VrFZHRg.jpg" group-title="Filmes",Hitch - Conselheiro amoroso - 2005
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/HTCHCNSLHAMRS.mp4
+https://lbsuper2.sfplayer.net/hls/9dd23ce60cc88a86913d15a54839e35e/9dd23ce60cc88a86913d15a54839e35e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G0f1LHV.jpg" group-title="Filmes",Eu Robô - 2004
-https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/EURBO.mp4
+https://s2.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/EuRobo/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8lMWuFS.jpg" group-title="Filmes",Eu Sou a Lenda - 2007
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/EUSOUALND.mp4
+https://s3.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/EuSouALenda/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3CBGMld.jpg" group-title="Filmes",Os 3 Infernais - 2019
-https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/OS3INFRNS.mp4
+https://lbsuper.sfplayer.net/hls/6b248aa7a8718b24cf2baf78b6bca9a3/6b248aa7a8718b24cf2baf78b6bca9a3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FNxa63R.jpg" group-title="Filmes",John Carter: Entre Dois Mundos - 2012
-https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/49529.mp4
+https://lbsuper.sfplayer.net/hls/e9578c40621a45b61f75dccbfcc7b9b7/e9578c40621a45b61f75dccbfcc7b9b7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kxhrlcm.jpg" group-title="Filmes",Alta Velocidade - 2001
-https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/ALTVLCDAD.mp4
+https://de4yofkkrzxok.cloudfront.net/RCFServer5/ondemand/ALTVLCDAD.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VYMtS9J.jpg" group-title="Filmes",Velocidade Máxima 2 - 1997
-https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/VLCDMXMA2.mp4
+https://lbsuper.sfplayer.net/hls/78e938bf11506c774e042e5073fe1e8a/78e938bf11506c774e042e5073fe1e8a.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ODpzlvY.jpg" group-title="Filmes",Velocidade Máxima - 1994
-https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/VLCDMXMA.mp4
+https://lbsuper.sfplayer.net/hls/bf239ffbdeb4409646b8ce5544df50e2/bf239ffbdeb4409646b8ce5544df50e2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p7edTBI.jpg" group-title="Filmes",Creed II - 2018
-https://t6h7n3h2.stackpathcdn.com/RCFServer2/ondemand/CRED2.mp4
+https://s2.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/Creed2/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKE8WNA.jpg" group-title="Filmes",Creed: Nascido para Lutar - 2015
-https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/CRDNSCDPRLTR.mp4
+https://lbsuper.sfplayer.net/hls/130b96f5b5fb185855e6df4b9dae8a3a/130b96f5b5fb185855e6df4b9dae8a3a.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ic3RZQM.jpg" group-title="Filmes",Rocky Balboa (6) - 2006
 https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/RCKYBLBOA.mp4
@@ -1061,55 +1082,47 @@ https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/CNVCAODSBRXS.mp4
 https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/ACNCAODSBRXS.mp4
 
 ##EXTINF:-1 tvg-logo="https://i.imgur.com/TdYU7Yf.jpg" group-title="Filmes",Bill & Ted – Uma Aventura Fantástica 1989
-https://www1074.ff-03.com/token=V96Fo55COG-F8GwYONLbYw/1611362798/143.202.0.0/126/0/99/4b243780b0a23792ad529c8f5dfab990-360p.mp4
 
 ##EXTINF:-1 tvg-logo="https://i.imgur.com/BPUuLX0.jpg" group-title="Filmes",Bill & Ted – Dois Loucos no Tempo 1991
-https://www797.ff-02.com/token=Pflj1KdekIoP26NQryM1_Q/1611421959/143.202.0.0/126/2/7d/ae631f614889a633227b581c66f0d7d2-360p.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/amAzWVx.jpg" group-title="Filmes",Bill & Ted: Encare a Música 2020
-https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/BILETDENCRAMSCA.mp4
+https://lbsuper2.sfplayer.net/hls/775fa0c883aacbf35134c1edfca91bc5/775fa0c883aacbf35134c1edfca91bc5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lirF0jg.jpg" group-title="Filmes",Táxi - Velocidade nas Ruas 1998
-https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/TAX1.mp4
+##EXTINF:-1 tvg-logo="https://i.imgur.com/lirF0jg.jpg" group-title="Filmes",Táxi - Velocidade nas Ruas 1998
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BHMAnw0.jpg" group-title="Filmes",Taxi - 2004
 https://s3.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/Taxi/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l2bHY96.jpg" group-title="Filmes",Taxi 2: Mais Velocidade Nas Ruas - 2000
-https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/TAX2.mp4
+https://s3.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/Taxi2/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QBrsBQi.jpg" group-title="Filmes",Taxi 3: Inferno no Asfalto - 2002
-https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/TAX3.mp4
+https://s3.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/Taxi3/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mHtnUdp.jpg" group-title="Filmes",Taxi 4 - 2007
-https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/TAX4.mp4
+https://s3.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/Taxi4/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d3DxukH.jpg" group-title="Filmes",Taxi 5 - 2018
 https://s3.us-west-1.wasabisys.com/m.abrirvideo.cf/-f-i-l-m-e-s-/dub/434355.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MuVNgzl.jpg" group-title="Filmes",Zona de Combate - 2021
-https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/ZNDCMBTE.mp4
+https://lbsuper.sfplayer.net/hls/692df1b343be820ea79242c1bf7819ce/692df1b343be820ea79242c1bf7819ce.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/spkz4y8.jpg" group-title="Filmes",Pai em Dobro (Nacional) - 2021
-https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/PAIEMDBRO.mp4
+https://lbsuper2.sfplayer.net/hls/c3b62d0515ea140b4d5470502d19c434/c3b62d0515ea140b4d5470502d19c434.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BdMKG8Q.jpg" group-title="Filmes",O Dia Depois de Amanhã - 2004
-https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/ODIADPSDAMNHA.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/penBkSG.jpg" group-title="Filmes",Zoom: Academia de Super-Heróis - 2006
-https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/ZOMACDMDSPRHRS.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mfNbfiq.jpg" group-title="Filmes",Wing Chun: Uma Luta Milenar - 1994
-https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WNGCHNUMLTMLNR.mp4
+https://lbsuper.sfplayer.net/hls/0740ccab6a01a757ae1ebcf7e28705e4/0740ccab6a01a757ae1ebcf7e28705e4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CHlIz8n.jpg" group-title="Filmes",Z: A Cidade Perdida - 2016
-https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/ZCDSPRDA.mp4
+https://lbsuper.sfplayer.net/hls/5083167f5ef20b8104d2b1cdd964abaa/5083167f5ef20b8104d2b1cdd964abaa.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jnf4Ixn.jpg" group-title="Filmes",Warcraft: O Primeiro Encontro de Dois Mundos - 2016
-https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WARCRFT.mp4
+https://s4.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/Warcraft/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EC8lUee.jpg" group-title="Filmes",Waterworld: O Segredo das Águas - 1995
-https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/WATRWRLD.mp4
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/beSHUgI.jpg" group-title="Filmes",Obrigado por Fumar - 2005
 https://www58.uptostream.com/380mgumb5dc/1080/1/video.mp4
