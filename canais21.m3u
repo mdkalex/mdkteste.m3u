@@ -455,16 +455,16 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?PEDR
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports
 http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SPORTV3" tvg-logo="https://i.imgur.com/wCPHZsd.jpg" group-title="Esportes"SPORTV 3 HD1
+#EXTINF:-1 tvg-id="SPORTV3" tvg-logo="https://i.imgur.com/wCPHZsd.jpg" group-title="Esportes",SPORTV 3 HD1
 http://dnsx.co:80/0915597625/fireurl.co/72327
 
-#EXTINF:-1 tvg-id="SPORTV3" tvg-logo="https://i.imgur.com/wCPHZsd.jpg" group-title="Esportes"SPORTV 3 HD2
+#EXTINF:-1 tvg-id="SPORTV3" tvg-logo="https://i.imgur.com/wCPHZsd.jpg" group-title="Esportes",SPORTV 3 HD2
 http://srvx.io:80/0165466866/fireurl.co/90334
 
-#EXTINF:-1 tvg-id="SPORTV2" tvg-logo="https://i.imgur.com/NbsZCd1.jpg" group-title="Esportes"SPORTV 2 HD1
+#EXTINF:-1 tvg-id="SPORTV2" tvg-logo="https://i.imgur.com/NbsZCd1.jpg" group-title="Esportes",SPORTV 2 HD1
 http://dnsx.co:80/0915597625/fireurl.co/72324
 
-#EXTINF:-1 tvg-id="SPORTV2" tvg-logo="https://i.imgur.com/NbsZCd1.jpg" group-title="Esportes"SPORTV 2 HD2
+#EXTINF:-1 tvg-id="SPORTV2" tvg-logo="https://i.imgur.com/NbsZCd1.jpg" group-title="Esportes",SPORTV 2 HD2
 http://srvx.io:80/0165466866/fireurl.co/90337
 
 #EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://i.imgur.com/XxICEwC.jpg" group-title="Esportes",SPORTV HD1
