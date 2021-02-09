@@ -942,9 +942,6 @@ https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/fi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eHKpnrv.jpg" group-title="Filmes",Miss Bala - 2019
 https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/MissBala2019/dub/video.json/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VOwrFv7.jpg" group-title="Filmes",A Lenda de Kamui - 2009
-https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/ALNDKMUI.mp4
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lXGXrjX.jpg" group-title="Filmes",Footloose - Ritmo Contagiante - 2011
 https://lbsuper.sfplayer.net/hls/7226b9d0d1531665719317a8147d05a8/7226b9d0d1531665719317a8147d05a8.m3u8
 
@@ -1012,36 +1009,6 @@ https://s2.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/fi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKE8WNA.jpg" group-title="Filmes",Creed: Nascido para Lutar - 2015
 https://lbsuper.sfplayer.net/hls/130b96f5b5fb185855e6df4b9dae8a3a/130b96f5b5fb185855e6df4b9dae8a3a.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ic3RZQM.jpg" group-title="Filmes",Rocky Balboa (6) - 2006
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/RCKYBLBOA.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4dCkRxl.jpg" group-title="Filmes",Rocky 5 - 1990
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/RCKY5.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/anFZe9g.jpg" group-title="Filmes",Rocky 4 - 1985
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/RCKY4.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GWr5J0I.jpg" group-title="Filmes",Rocky 3: O Desafio Supremo - 1982
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/RCKY3.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FHCvzE0.jpg" group-title="Filmes",Rocky 2: A Revanche - 1979
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/RCKY2.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cZU1hUA.jpg" group-title="Filmes",Rocky, um Lutador - 1976 
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/RCKY1.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lIfzrRc.jpg" group-title="Filmes",Curtindo a Vida Adoidado - 1986
-https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/CRTNDAVDADODA.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NNhmqf5.jpg" group-title="Filmes",Simbad: O Marujo Trapalhão - 1975
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/SMBDORJOTRPHLAO.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hIDfNQe.jpg" group-title="Filmes",Duelo no Asfalto - 2020
-https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/DUELNASFTO.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1lL3afK.jpg" group-title="Filmes",Monster Trucks - 2016
-https://t6h7n3h2.stackpathcdn.com/RCFServer3/ondemand/MNSTRRCK.mp4
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zwiXmx1.jpg" group-title="Filmes",Meu Admirador Secreto - 2018
 https://a-delivery12.mxdcontent.net/v/0a51d9b190ff5630a5a8999f1fcc0fe7.mp4?s=ZTcsI1oCftHchFdB18S-og&e=1611696389&_t=1611682228
 
@@ -1057,39 +1024,11 @@ https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/11495.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yyiXz3y.jpg" group-title="Filmes",Drácula: Morto, mas Feliz - 1995
 https://jwwge18508endzd.belugacdn.link/-f-i-l-m-e-s-/dub/12110.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fd2JYss.jpg" group-title="Filmes",Jurassic World: Reino Ameaçado - 2018
-https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/JRSCWRLDRNOAMCDO.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W0NztfR.jpg" group-title="Filmes",Jurassic World: O Mundo dos Dinossauros - 2015
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/JRSCWRLDMNDINO.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CwtUelZ.jpg" group-title="Filmes",Jurassic Park 3 - 2001
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/JRSCPRK03.mp4
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sybVTfM.jpg" group-title="Filmes",O Mundo Perdido: Jurassic Park - 1997
 https://s3.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/JurassicPark2/dub/video.json/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cmXauJe.jpg" group-title="Filmes",Jurassic Park: Parque dos Dinossauros - 1993
-https://t6h7n3h2.stackpathcdn.com/RCFServer1/ondemand/JRSCPRK01.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F8oeST5.jpg" group-title="Filmes",Mestre Z: O Legado de Ip Man
-https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/MSTRZOLGDIPMN.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5KdOOgQ.jpg" group-title="Filmes",Convenção das Bruxas 2020
-https://t6h7n3h2.stackpathcdn.com/RCFServer5/ondemand/CNVCAODSBRXS.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3fgx4Il.jpg" group-title="Filmes",Convenção das Bruxas - 1990
-https://t6h7n3h2.stackpathcdn.com/RCFServer4/ondemand/ACNCAODSBRXS.mp4
-
-##EXTINF:-1 tvg-logo="https://i.imgur.com/TdYU7Yf.jpg" group-title="Filmes",Bill & Ted – Uma Aventura Fantástica 1989
-
-##EXTINF:-1 tvg-logo="https://i.imgur.com/BPUuLX0.jpg" group-title="Filmes",Bill & Ted – Dois Loucos no Tempo 1991
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/amAzWVx.jpg" group-title="Filmes",Bill & Ted: Encare a Música 2020
 https://lbsuper2.sfplayer.net/hls/775fa0c883aacbf35134c1edfca91bc5/775fa0c883aacbf35134c1edfca91bc5.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.imgur.com/lirF0jg.jpg" group-title="Filmes",Táxi - Velocidade nas Ruas 1998
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BHMAnw0.jpg" group-title="Filmes",Taxi - 2004
 https://s3.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/Taxi/dub/video.json/index-v1-a1.m3u8
@@ -1142,7 +1081,7 @@ https://lbsuper.sfplayer.net/hls/10d05fe74147af3af3c9e09c199bd14f/10d05fe74147af
 https://lbsuper.sfplayer.net/hls/50038d6653e8b90c433915614cca3ffe/50038d6653e8b90c433915614cca3ffe.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OGd2X3k.jpg" group-title="Filmes Livres",Corgi: Top Dog - 2019
-https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/CorgiTopDog/dub/video.json/index-v1-a1.m3u8
+https://lbsuper2.sfplayer.net/hls/602666b6cc202cc2ebf3f75822b67ea1/602666b6cc202cc2ebf3f75822b67ea1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rduOIx0.jpg" group-title="Filmes Livres",Dora e a Cidade Perdida - 2019
 https://lbsuper.sfplayer.net/hls/0579546bbc15d80fbfe5930550d7aa33/0579546bbc15d80fbfe5930550d7aa33.m3u8
@@ -1153,7 +1092,7 @@ https://lbsuper2.sfplayer.net/hls/c58cff2b07d3d30c463c829eb12a0ac7/c58cff2b07d3d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yFsLgsW.jpg" group-title="Filmes Livres",Phineas e Ferb - O Filme: Candace Contra o Universo - 2020
 https://s2.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/PhineasEFerbCandaceContraOUniverso/dub/video.json/index-f2-v1-f1-a1.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w92/sCHCa1y3JpR5KynKtsR53ngFAql.jpg" group-title="Filmes Livres",Luccas Neto em: Perdidos na Noite de Natal 2018
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iIi7rFx.jpg" group-title="Filmes Livres",Luccas Neto em: Perdidos na Noite de Natal 2018
 https://s3.us-west-1.wasabisys.com/m.abrirvideo.cf/-f-i-l-m-e-s-/dub/10160.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9zl8u5h.jpg" group-title="Filmes Livres",Vombate ao Combate - 2020 
@@ -1176,29 +1115,3 @@ https://jwwge18508endzd.belugacdn.link/-f-i-l-m-e-s-/dub/335797.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zbn0kYd.jpg" group-title="Filmes Livres",Rango 2011
 https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/44896.mp4
-
-######################################  Filmes de Natal  ########################################
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1TUHKQL.jpg" group-title="Filmes de Natal",Missão Presente de Natal - 2020
-https://lbsuper2.sfplayer.net/hls/dee0211a217fc6e73d432f32b77bd2cd/dee0211a217fc6e73d432f32b77bd2cd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1jBD7dn.jpg" group-title="Filmes de Natal",Tudo Bem no Natal Que Vem - 2020
-https://lbsuper2.sfplayer.net/hls/cdb2e105e390605557b0475307a5b216/cdb2e105e390605557b0475307a5b216.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rGiH6qQ.jpg" group-title="Filmes de Natal",Aplicativo Para o Natal - 2018
-https://lbsuper2.sfplayer.net/hls/2b96467c0efc0f4d45e87fc1142d2d88/2b96467c0efc0f4d45e87fc1142d2d88.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AX2cLa5.jpg" group-title="Filmes de Natal",Um Sapato para o Natal - 2019
-https://dksdznpovbujh.cloudfront.net/RCFServer5/ondemand/UMSPTPRONTL.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EFV7oQ0.jpg" group-title="Filmes de Natal",Príncipe do Natal: O Bebê Real - 2019
-https://s2.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/OPrincipedoNatalOBebeReal/dub/video.json/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/psG7hKO.jpg" group-title="Filmes de Natal",O Príncipe do Natal - 2017 
-https://dksdznpovbujh.cloudfront.net/RCFServer4/ondemand/OPRNCPDNTL.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CcBMVcd.jpg" group-title="Filmes de Natal",Natal No Palácio - 2019
-https://s3.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/NatalNoPalacio2018/dub/video.json/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y6w7jJf.jpg" group-title="Filmes de Natal",A Volta do Espírito de Natal - 2017
-https://s2.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/AVoltaDoEspiritoDeNatal/dub/video.json/index-v1-a1.m3u8
