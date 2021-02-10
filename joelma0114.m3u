@@ -520,8 +520,11 @@ http://akamaizedx.com:80/davimusse/dms1520/10039464
 #EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 1
 http://srvx.io:80/5251874191/fireurl.co/72266
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 2A
 http://pfsv.io:80/6555373900/39098/544
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere CLUB FHD - site 2B
+http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30287
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 3
 http://lb.kstream.org/aovivo/HD_PFC_CLUBES/download?token=0978309793dbc624b7039e6e89c1dfa2
@@ -531,12 +534,6 @@ http://dns.clientetv.net:8080/5088166727/8166727/1273
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 5
 http://bldtv.vip:80/victor09/624805/172418
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere EXPIRA 1
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=sQeEsXMieLq-ZCyCMCJ8Xg&3U1G7qaTxrPbalZnEx=1612482872
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere EXPIRA 2
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=BYaXRQlZajv_CAr-XeTe0w&3U1G7qaTxrPbalZnEx=1612482982
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere FHD - site 7A
 http://dnsx.co:80/0915597625/fireurl.co/72263
@@ -553,6 +550,13 @@ http://srvx.io:80/0165466866/fireurl.co/90355
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere SD - site 8B
 http://srvx.io:80/0165466866/fireurl.co/90356
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere EXPIRA 1
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=sQeEsXMieLq-ZCyCMCJ8Xg&3U1G7qaTxrPbalZnEx=1612482872
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere EXPIRA 2
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=BYaXRQlZajv_CAr-XeTe0w&3U1G7qaTxrPbalZnEx=1612482982
+
+
 ####################################################################  Variedades #############################
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/izfepdy.png" group-title="Variedades",TLC - site 1
@@ -560,6 +564,9 @@ http://xdgo.live:8080/fparejaf/fZ5B5jgmQ5/1021
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/izfepdy.png" group-title="Variedades",TLC - site 2
 http://akamaizedx.com:80/davimusse/dms1520/10039650
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/izfepdy.png" group-title="Variedades",TLC FHD - site 3
+http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30229
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/rLpw87s.jpg" group-title="Variedades",Discovery Home & Health - site 1A
 http://akamaizedx.com:80/davimusse/dms1520/10039472
@@ -578,6 +585,9 @@ http://dnsx.co:80/0915597625/fireurl.co/71934
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network HD - site 2B
 http://srvx.io:80/0165466866/fireurl.co/90529
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network FHD - site 3
+http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30193
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Multishow_HD_logo.png" group-title="Variedades",MULTISHOW HD
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
@@ -875,6 +885,9 @@ https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/fi
 https://lbsuper.sfplayer.net/hls/cb038e693948079d8f58f5e17be67794/cb038e693948079d8f58f5e17be67794.m3u8
 
 ######################################  Filmes  ########################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zPOyNc8.jpg" group-title="Filmes",Mestres do Yin-Yang: O Sonho da Eternidade(2020)
+https://lbsuper2.sfplayer.net/hls/a69996a5947ebb51863ac02980b2b5e7/a69996a5947ebb51863ac02980b2b5e7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2uZ5dAG.jpg" group-title="Filmes",Cinquenta Tons de Liberdade(2018)
 https://s4.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/CinquentaTonsDeLiberdade/dub/video.json/index-v1-a1.m3u8
