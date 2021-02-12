@@ -943,6 +943,9 @@ https://lbsuper.sfplayer.net/hls/cb038e693948079d8f58f5e17be67794/cb038e69394807
 
 ######################################  Filmes  ########################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tHdjetd.jpg" group-title="Filmes",Amor Estranho Amor(1982) 480p
+https://azureedge.azureedge.net/RCFServer3/ondemand/AMRESTNHAMR.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zPOyNc8.jpg" group-title="Filmes",Mestres do Yin-Yang: O Sonho da Eternidade(2020)
 https://lbsuper2.sfplayer.net/hls/a69996a5947ebb51863ac02980b2b5e7/a69996a5947ebb51863ac02980b2b5e7.m3u8
 
