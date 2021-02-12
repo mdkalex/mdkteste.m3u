@@ -936,6 +936,9 @@ https://lbsuper.sfplayer.net/hls/cb038e693948079d8f58f5e17be67794/cb038e69394807
 
 ######################################  Filmes  ########################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pGOEU01.jpg" group-title="Filmes",13 Assassinos(2010)
+https://s1.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/13Assassinos/dub/video.json/index-v1-a1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LXyyWH6.jpg" group-title="Filmes",A Pele Fria(2017)
 https://s2.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/APeleFria/dub/video.json/index-f2-v1-f1-a1.m3u8
 
@@ -1178,3 +1181,14 @@ https://jwwge18508endzd.belugacdn.link/-f-i-l-m-e-s-/dub/335797.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zbn0kYd.jpg" group-title="Filmes Livres",Rango 2011
 https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/44896.mp4
+
+#######################################################################################################  Filmes Religiosos
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1NVPBdR.jpg" group-title="Filmes Religiosos",À Prova de Fogo(2008)
+https://lbsuper.sfplayer.net/hls/1dfbf0731e1fcb170091d4157578005b/1dfbf0731e1fcb170091d4157578005b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zx6QOeD.jpg" group-title="Filmes Religiosos",Os Dez Mandamentos(1956)
+https://lbsuper2.sfplayer.net/hls/2faad56ab9f7ac69e024e7be317530ba/2faad56ab9f7ac69e024e7be317530ba.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XarhZQe.jpg" group-title="Filmes Religiosos",O Despertar da Fe(2012)
+https://lbsuper2.sfplayer.net/hls/2fc017bec557566ce178fd6227849912/2fc017bec557566ce178fd6227849912.m3u8
