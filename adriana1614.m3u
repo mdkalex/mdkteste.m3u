@@ -387,6 +387,9 @@ http://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon HD
 http://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil", TEENNICK SD3
+http://xdgo.live:8080/fparejaf/fZ5B5jgmQ5/1060
+
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.
 http://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/tracks-v2a1/mono.m3u8
 
@@ -425,6 +428,66 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc0007
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/pBv3Lz0.jpg" group-title="Infantil",A vida moderna de Rocko 24horas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=731&deviceId=5f6df6293a12e10007017396&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JR1j1bH.jpg" group-title="Infantil",Nat Geo Kids HD1
+http://dnsx.co:80/0915597625/fireurl.co/72190
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JR1j1bH.jpg" group-title="Infantil",Nat Geo Kids SD1
+http://dnsx.co:80/0915597625/fireurl.co/72191
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JR1j1bH.jpg" group-title="Infantil",Nat Geo Kids HD2
+http://srvx.io:80/0165466866/fireurl.co/90398
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JR1j1bH.jpg" group-title="Infantil",Nat Geo Kids SD2
+http://srvx.io:80/0165466866/fireurl.co/90399
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QrKPkOU.png" group-title="Infantil",Gloobinho SD2
+http://srvx.io:80/0165466866/fireurl.co/90443
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QrKPkOU.png" group-title="Infantil",Gloobinho HD2
+http://srvx.io:80/0165466866/fireurl.co/90629
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QrKPkOU.png" group-title="Infantil",Gloobinho FHD3
+http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30274
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z21tTG7.png" group-title="Infantil",Boomerang HD1
+http://dnsx.co:80/0915597625/fireurl.co/71814
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z21tTG7.png" group-title="Infantil",Boomerang SD1
+http://dnsx.co:80/0915597625/fireurl.co/71815
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z21tTG7.png" group-title="Infantil",Boomerang HD2
+http://srvx.io:80/0165466866/fireurl.co/90601
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z21tTG7.png" group-title="Infantil",Boomerang SD2
+http://srvx.io:80/0165466866/fireurl.co/90602
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z21tTG7.png" group-title="Infantil",Boomerang FHD3
+http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30267
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z21tTG7.png" group-title="Infantil",Boomerang HD4
+http://akamaizedx.com:80/davimusse/dms1520/10039451
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z21tTG7.png" group-title="Infantil",Boomerang FHD4
+http://akamaizedx.com:80/davimusse/dms1520/10039450
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob HD1
+http://dnsx.co:80/0915597625/fireurl.co/72100
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob SD1
+http://dnsx.co:80/0915597625/fireurl.co/72101
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob HD2
+http://srvx.io:80/0165466866/fireurl.co/90445
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob SD2
+http://srvx.io:80/0165466866/fireurl.co/90446
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob FHD3
+http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30266
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M3lhQwY.jpg" group-title="Infantil",Rá-Tim-Bum FHD3
+http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30265
 
 ################################################################################ Esportes
 
@@ -639,6 +702,9 @@ http://srvx.io:80/0165466866/fireurl.co/90529
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network FHD - site 3
 http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30193
 
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network FHD - site 4
+http://akamaizedx.com:80/davimusse/dms1520/10039510
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Multishow_HD_logo.png" group-title="Variedades",MULTISHOW HD
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
 
@@ -653,6 +719,15 @@ http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Variedades",Paramount HD
 http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c3reMwA.jpg" group-title="Variedades",Canal Viva HD2
+http://srvx.io:80/0165466866/fireurl.co/90289
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c3reMwA.jpg" group-title="Variedades",Canal Viva SD2
+http://srvx.io:80/0165466866/fireurl.co/90290
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c3reMwA.jpg" group-title="Variedades",Canal Viva FHD3
+http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30298
 
 ################################################################################# Religiosos
 
@@ -822,11 +897,17 @@ http://hidraplay.tv:80/tlleklnk/Gw3h655Hfy/34820
 #EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet site 1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet site
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet site 2
 http://srvx.io:80/0165466866/fireurl.co/90620
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet site
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet site 3
 http://xdgo.live:8080/fparejaf/fZ5B5jgmQ5/1026
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet FHD4
+http://akamaizedx.com:80/davimusse/dms1520/10039436
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet HD4
+http://akamaizedx.com:80/davimusse/dms1520/10039437
 
 ############################################################  Filmes Marvel Studios  ############################################################################
 
@@ -936,6 +1017,9 @@ https://lbsuper.sfplayer.net/hls/cb038e693948079d8f58f5e17be67794/cb038e69394807
 
 ######################################  Filmes  ########################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a8kbVWq.jpg" group-title="Filmes",As 7 Faces do Dr. Lao(1964)
+https://a-delivery4.mxdcontent.net/v/60cdfec880598745276b627c89dda6da.mp4?s=7aEoNVDrqGB_0IwtOeGLVw&e=1613266282&_t=1613249343
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pGOEU01.jpg" group-title="Filmes",13 Assassinos(2010)
 https://s1.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/13Assassinos/dub/video.json/index-v1-a1.m3u8
 
@@ -961,10 +1045,10 @@ https://lbsuper2.sfplayer.net/hls/e977f4671a167ff69b0829d8c6bf4563/e977f4671a167
 https://s3.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/Esquadrao6/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6KONh9.jpg" group-title="Filmes",Samurai X: O Fim de uma Lenda(2014)
-https://lbsuper.sfplayer.net/hls/c286f03beee247f4493699faf399dab2/c286f03beee247f4493699faf399dab2.m3u8
+https://azureedge.azureedge.net/RCFServer2/ondemand/SMRIXOFMDUMLND.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Pm81uz.jpg" group-title="Filmes",Samurai X: O Inferno de Kyoto(2014)
-https://lbsuper.sfplayer.net/hls/3678d0a8725dbf6c1a882474f9aa4b10/3678d0a8725dbf6c1a882474f9aa4b10.m3u8
+https://azureedge.azureedge.net/RCFServer1/ondemand/SMRIXOINFRNDKOTO.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xuZqC5.jpg" group-title="Filmes",Samurai X - O Filme(2012)
 https://lbsuper2.sfplayer.net/hls/e2e26e5dfe06ae9e573e5af2b668ceb7/e2e26e5dfe06ae9e573e5af2b668ceb7.m3u8
