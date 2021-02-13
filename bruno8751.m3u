@@ -387,6 +387,9 @@ http://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon HD
 http://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil", TEENNICK SD3
+http://xdgo.live:8080/fparejaf/fZ5B5jgmQ5/1060
+
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.
 http://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/tracks-v2a1/mono.m3u8
 
@@ -425,6 +428,66 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc0007
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/pBv3Lz0.jpg" group-title="Infantil",A vida moderna de Rocko 24horas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=731&deviceId=5f6df6293a12e10007017396&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JR1j1bH.jpg" group-title="Infantil",Nat Geo Kids HD1
+http://dnsx.co:80/0915597625/fireurl.co/72190
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JR1j1bH.jpg" group-title="Infantil",Nat Geo Kids SD1
+http://dnsx.co:80/0915597625/fireurl.co/72191
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JR1j1bH.jpg" group-title="Infantil",Nat Geo Kids HD2
+http://srvx.io:80/0165466866/fireurl.co/90398
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JR1j1bH.jpg" group-title="Infantil",Nat Geo Kids SD2
+http://srvx.io:80/0165466866/fireurl.co/90399
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QrKPkOU.png" group-title="Infantil",Gloobinho SD2
+http://srvx.io:80/0165466866/fireurl.co/90443
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QrKPkOU.png" group-title="Infantil",Gloobinho HD2
+http://srvx.io:80/0165466866/fireurl.co/90629
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QrKPkOU.png" group-title="Infantil",Gloobinho FHD3
+http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30274
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z21tTG7.png" group-title="Infantil",Boomerang HD1
+http://dnsx.co:80/0915597625/fireurl.co/71814
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z21tTG7.png" group-title="Infantil",Boomerang SD1
+http://dnsx.co:80/0915597625/fireurl.co/71815
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z21tTG7.png" group-title="Infantil",Boomerang HD2
+http://srvx.io:80/0165466866/fireurl.co/90601
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z21tTG7.png" group-title="Infantil",Boomerang SD2
+http://srvx.io:80/0165466866/fireurl.co/90602
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z21tTG7.png" group-title="Infantil",Boomerang FHD3
+http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30267
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z21tTG7.png" group-title="Infantil",Boomerang HD4
+http://akamaizedx.com:80/davimusse/dms1520/10039451
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z21tTG7.png" group-title="Infantil",Boomerang FHD4
+http://akamaizedx.com:80/davimusse/dms1520/10039450
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob HD1
+http://dnsx.co:80/0915597625/fireurl.co/72100
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob SD1
+http://dnsx.co:80/0915597625/fireurl.co/72101
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob HD2
+http://srvx.io:80/0165466866/fireurl.co/90445
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob SD2
+http://srvx.io:80/0165466866/fireurl.co/90446
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob FHD3
+http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30266
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M3lhQwY.jpg" group-title="Infantil",Rá-Tim-Bum FHD3
+http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30265
 
 ################################################################################ Esportes
 
@@ -517,7 +580,7 @@ http://akamaizedx.com:80/davimusse/dms1520/10039464
 
 ####################################################################  Premiere #############################
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 1A
 http://srvx.io:80/5251874191/fireurl.co/72266
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 2A
@@ -544,18 +607,68 @@ http://dnsx.co:80/0915597625/fireurl.co/72264
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere HD - site 7c
 http://dnsx.co:80/0915597625/fireurl.co/72265
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere HD - site 8A
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere HD - site 1B
 http://srvx.io:80/0165466866/fireurl.co/90355
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere SD - site 8B
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere SD - site 1B
 http://srvx.io:80/0165466866/fireurl.co/90356
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere EXPIRA 1
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=sQeEsXMieLq-ZCyCMCJ8Xg&3U1G7qaTxrPbalZnEx=1612482872
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere HD - site 1C
+http://srvx.io:80/0165466866/fireurl.co/90357
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere EXPIRA 2
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=BYaXRQlZajv_CAr-XeTe0w&3U1G7qaTxrPbalZnEx=1612482982
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere SD - site 1C
+http://srvx.io:80/0165466866/fireurl.co/90358
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere HD - site 1D
+http://srvx.io:80/0165466866/fireurl.co/90359
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere HD - site 1D
+http://srvx.io:80/0165466866/fireurl.co/90360
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere SD - site 1D
+http://srvx.io:80/0165466866/fireurl.co/90361
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere HD - site 1E
+http://srvx.io:80/0165466866/fireurl.co/90362
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere HD - site 1F
+http://srvx.io:80/0165466866/fireurl.co/90363
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere SD - site 1F
+http://srvx.io:80/0165466866/fireurl.co/90364
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere HD - site 1G
+http://srvx.io:80/0165466866/fireurl.co/90365
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere SD - site 1G
+http://srvx.io:80/0165466866/fireurl.co/90367
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere HD - site 1H
+http://srvx.io:80/0165466866/fireurl.co/90368
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere HD - site 1H
+http://srvx.io:80/0165466866/fireurl.co/90369
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere SD - site 1H
+http://srvx.io:80/0165466866/fireurl.co/90370
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere SD - site 1H
+http://srvx.io:80/0165466866/fireurl.co/90371
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere SD - site 1I
+http://srvx.io:80/0165466866/fireurl.co/90372
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere SD - site 1I
+http://srvx.io:80/0165466866/fireurl.co/90373
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere HD - site 1L
+http://srvx.io:80/0165466866/fireurl.co/90374
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere HD - site 1M
+http://srvx.io:80/0165466866/fireurl.co/90375
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R14y9Zg.png" group-title="Premiere",Premiere SD - site 1M
+http://srvx.io:80/0165466866/fireurl.co/90376
 
 ####################################################################  Variedades #############################
 
@@ -589,6 +702,9 @@ http://srvx.io:80/0165466866/fireurl.co/90529
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network FHD - site 3
 http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30193
 
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network FHD - site 4
+http://akamaizedx.com:80/davimusse/dms1520/10039510
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Multishow_HD_logo.png" group-title="Variedades",MULTISHOW HD
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
 
@@ -603,6 +719,15 @@ http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Variedades",Paramount HD
 http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c3reMwA.jpg" group-title="Variedades",Canal Viva HD2
+http://srvx.io:80/0165466866/fireurl.co/90289
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c3reMwA.jpg" group-title="Variedades",Canal Viva SD2
+http://srvx.io:80/0165466866/fireurl.co/90290
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c3reMwA.jpg" group-title="Variedades",Canal Viva FHD3
+http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30298
 
 ################################################################################# Religiosos
 
@@ -772,11 +897,17 @@ http://hidraplay.tv:80/tlleklnk/Gw3h655Hfy/34820
 #EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet site 1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet site
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet site 2
 http://srvx.io:80/0165466866/fireurl.co/90620
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet site
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet site 3
 http://xdgo.live:8080/fparejaf/fZ5B5jgmQ5/1026
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet FHD4
+http://akamaizedx.com:80/davimusse/dms1520/10039436
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet HD4
+http://akamaizedx.com:80/davimusse/dms1520/10039437
 
 ############################################################  Filmes Marvel Studios  ############################################################################
 
@@ -886,8 +1017,14 @@ https://lbsuper.sfplayer.net/hls/cb038e693948079d8f58f5e17be67794/cb038e69394807
 
 ######################################  Filmes  ########################################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zPOyNc8.jpg" group-title="Filmes",Mestres do Yin-Yang: O Sonho da Eternidade(2020)
-https://lbsuper2.sfplayer.net/hls/a69996a5947ebb51863ac02980b2b5e7/a69996a5947ebb51863ac02980b2b5e7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a8kbVWq.jpg" group-title="Filmes",As 7 Faces do Dr. Lao(1964)
+https://a-delivery4.mxdcontent.net/v/60cdfec880598745276b627c89dda6da.mp4?s=7aEoNVDrqGB_0IwtOeGLVw&e=1613266282&_t=1613249343
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pGOEU01.jpg" group-title="Filmes",13 Assassinos(2010)
+https://s1.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/13Assassinos/dub/video.json/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LXyyWH6.jpg" group-title="Filmes",A Pele Fria(2017)
+https://s2.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/APeleFria/dub/video.json/index-f2-v1-f1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2uZ5dAG.jpg" group-title="Filmes",Cinquenta Tons de Liberdade(2018)
 https://s4.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/CinquentaTonsDeLiberdade/dub/video.json/index-v1-a1.m3u8
@@ -908,10 +1045,10 @@ https://lbsuper2.sfplayer.net/hls/e977f4671a167ff69b0829d8c6bf4563/e977f4671a167
 https://s3.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/Esquadrao6/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6KONh9.jpg" group-title="Filmes",Samurai X: O Fim de uma Lenda(2014)
-https://lbsuper.sfplayer.net/hls/c286f03beee247f4493699faf399dab2/c286f03beee247f4493699faf399dab2.m3u8
+https://azureedge.azureedge.net/RCFServer2/ondemand/SMRIXOFMDUMLND.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Pm81uz.jpg" group-title="Filmes",Samurai X: O Inferno de Kyoto(2014)
-https://lbsuper.sfplayer.net/hls/3678d0a8725dbf6c1a882474f9aa4b10/3678d0a8725dbf6c1a882474f9aa4b10.m3u8
+https://azureedge.azureedge.net/RCFServer1/ondemand/SMRIXOINFRNDKOTO.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9xuZqC5.jpg" group-title="Filmes",Samurai X - O Filme(2012)
 https://lbsuper2.sfplayer.net/hls/e2e26e5dfe06ae9e573e5af2b668ceb7/e2e26e5dfe06ae9e573e5af2b668ceb7.m3u8
@@ -947,10 +1084,10 @@ https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/fi
 https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/SombraLunar/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U9MgG20.jpg" group-title="Filmes",Alone in the Dark 2 - O Retorno do Mal - 2008
-https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/AloneInTheDark2ORetornoDoMal/dub/video.json/index-v1-a1.m3u8
+https://s2.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/AloneInTheDark2ORetornoDoMal/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZgCiu18.jpg" group-title="Filmes",Alone In The Dark - O Despertar do Mal - 2005
-https://s2.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/AloneInTheDarkODespertarDoMal/dub/video.json/index-v1-a1.m3u8
+https://s2.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/AloneInTheDarkODespertarDoMal/dub/video.json/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eHKpnrv.jpg" group-title="Filmes",Miss Bala - 2019
 https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/filmes/MissBala2019/dub/video.json/index-v1-a1.m3u8
@@ -1128,3 +1265,14 @@ https://jwwge18508endzd.belugacdn.link/-f-i-l-m-e-s-/dub/335797.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zbn0kYd.jpg" group-title="Filmes Livres",Rango 2011
 https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/44896.mp4
+
+#######################################################################################################  Filmes Religiosos
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1NVPBdR.jpg" group-title="Filmes Religiosos",À Prova de Fogo(2008)
+https://lbsuper.sfplayer.net/hls/1dfbf0731e1fcb170091d4157578005b/1dfbf0731e1fcb170091d4157578005b.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zx6QOeD.jpg" group-title="Filmes Religiosos",Os Dez Mandamentos(1956)
+https://lbsuper2.sfplayer.net/hls/2faad56ab9f7ac69e024e7be317530ba/2faad56ab9f7ac69e024e7be317530ba.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XarhZQe.jpg" group-title="Filmes Religiosos",O Despertar da Fe(2012)
+https://lbsuper2.sfplayer.net/hls/2fc017bec557566ce178fd6227849912/2fc017bec557566ce178fd6227849912.m3u8
