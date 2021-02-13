@@ -465,6 +465,12 @@ http://srvx.io:80/0165466866/fireurl.co/90602
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z21tTG7.png" group-title="Infantil",Boomerang FHD3
 http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30267
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z21tTG7.png" group-title="Infantil",Boomerang HD4
+http://akamaizedx.com:80/davimusse/dms1520/10039451
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z21tTG7.png" group-title="Infantil",Boomerang FHD4
+http://akamaizedx.com:80/davimusse/dms1520/10039450
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob HD1
 http://dnsx.co:80/0915597625/fireurl.co/72100
 
@@ -720,6 +726,8 @@ http://srvx.io:80/0165466866/fireurl.co/90289
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c3reMwA.jpg" group-title="Variedades",Canal Viva SD2
 http://srvx.io:80/0165466866/fireurl.co/90290
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c3reMwA.jpg" group-title="Variedades",Canal Viva FHD3
+http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30298
 
 ################################################################################# Religiosos
 
@@ -895,7 +903,10 @@ http://srvx.io:80/0165466866/fireurl.co/90620
 #EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet site 3
 http://xdgo.live:8080/fparejaf/fZ5B5jgmQ5/1026
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet site 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet FHD4
+http://akamaizedx.com:80/davimusse/dms1520/10039436
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet HD4
 http://akamaizedx.com:80/davimusse/dms1520/10039437
 
 ############################################################  Filmes Marvel Studios  ############################################################################
