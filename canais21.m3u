@@ -456,6 +456,12 @@ http://srvx.io:80/0165466866/fireurl.co/90601
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z21tTG7.png" group-title="Infantil",Boomerang SD2
 http://srvx.io:80/0165466866/fireurl.co/90602
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob HD1
+http://dnsx.co:80/0915597625/fireurl.co/72100
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob SD1
+http://dnsx.co:80/0915597625/fireurl.co/72101
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob HD2
 http://srvx.io:80/0165466866/fireurl.co/90445
 
