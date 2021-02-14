@@ -441,11 +441,8 @@ http://srvx.io:80/0165466866/fireurl.co/90398
 #EXTINF:-1 tvg-id="tvg-logo="https://i.imgur.com/JR1j1bH.jpg" group-title="Infantil",Nat Geo Kids SD2
 http://srvx.io:80/0165466866/fireurl.co/90399
 
-#EXTINF:-1 tvg-id="tvg-logo="https://i.imgur.com/JR1j1bH.jpg" group-title="Infantil",Nat Geo Kids FHD5
-http://srvx.io:80/live/7885037935/fireurl.co/72189.ts
-
-#EXTINF:-1 tvg-id="tvg-logo="https://i.imgur.com/JR1j1bH.jpg" group-title="Infantil",Nat Geo Kids HD5
-http://srvx.io:80/live/7885037935/fireurl.co/72190.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JR1j1bH.jpg" group-title="Infantil",Nat Geo Kids SD5
+http://srvx.io:80/live/7885037935/fireurl.co/72191.ts
 
 #EXTINF:-1 tvg-id="tvg-logo="https://i.imgur.com/QrKPkOU.png" group-title="Infantil",Gloobinho SD2
 http://srvx.io:80/0165466866/fireurl.co/90443
