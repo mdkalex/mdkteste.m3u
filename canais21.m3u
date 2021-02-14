@@ -441,6 +441,12 @@ http://srvx.io:80/0165466866/fireurl.co/90398
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JR1j1bH.jpg" group-title="Infantil",Nat Geo Kids SD2
 http://srvx.io:80/0165466866/fireurl.co/90399
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JR1j1bH.jpg" group-title="Infantil",Nat Geo Kids FHD5
+http://srvx.io:80/live/7885037935/fireurl.co/72189.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JR1j1bH.jpg" group-title="Infantil",Nat Geo Kids HD5
+http://srvx.io:80/live/7885037935/fireurl.co/72190.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QrKPkOU.png" group-title="Infantil",Gloobinho SD2
 http://srvx.io:80/0165466866/fireurl.co/90443
 
@@ -477,16 +483,28 @@ http://dnsx.co:80/0915597625/fireurl.co/72100
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob SD1
 http://dnsx.co:80/0915597625/fireurl.co/72101
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob HD2
+#EXTINF:-1 tvg-id="tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob HD2
 http://srvx.io:80/0165466866/fireurl.co/90445
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob SD2
+#EXTINF:-1 tvg-id="tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob SD2
 http://srvx.io:80/0165466866/fireurl.co/90446
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob FHD3
+#EXTINF:-1 tvg-id="tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob FHD5
+http://srvx.io:80/live/7885037935/fireurl.co/72099.ts
+
+#EXTINF:-1 tvg-id="tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob HD5
+http://srvx.io:80/live/7885037935/fireurl.co/72100.ts
+
+#EXTINF:-1 tvg-id="tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob FHD3
 http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30266
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M3lhQwY.jpg" group-title="Infantil",Rá-Tim-Bum FHD3
+#EXTINF:-1 tvg-id="tvg-logo="https://i.imgur.com/hwL8wmo.png" group-title="Infantil",Cartoon Network FHD2
+http://srvx.io:80/live/7885037935/fireurl.co/71830.ts
+
+#EXTINF:-1 tvg-id="tvg-logo="https://i.imgur.com/hwL8wmo.png" group-title="Infantil",Cartoon Network HD2
+http://srvx.io:80/live/7885037935/fireurl.co/71831.ts
+
+#EXTINF:-1 tvg-id="tvg-logo="https://i.imgur.com/M3lhQwY.jpg" group-title="Infantil",Rá-Tim-Bum FHD3
 http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30265
 
 ################################################################################ Esportes
@@ -577,6 +595,12 @@ http://srvx.io:80/0165466866/fireurl.co/90587
 
 #EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat FHD site 4A
 http://akamaizedx.com:80/davimusse/dms1520/10039464
+
+#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat FHD3
+http://srvx.io:80/live/7885037935/fireurl.co/71844.ts
+
+#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat HD3
+http://srvx.io:80/live/7885037935/fireurl.co/71845.ts
 
 ####################################################################  Premiere #############################
 
@@ -690,9 +714,6 @@ http://srvx.io:80/0165466866/fireurl.co/90569
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network FHD - site 1A
 http://dnsx.co:80/0915597625/fireurl.co/71932
 
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network SD - site 2A
-http://srvx.io:80/0165466866/fireurl.co/90530
-
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network HD - site 1B
 http://dnsx.co:80/0915597625/fireurl.co/71934
 
@@ -704,6 +725,15 @@ http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30193
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network FHD - site 4
 http://akamaizedx.com:80/davimusse/dms1520/10039510
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network FHD5
+http://srvx.io:80/live/7885037935/fireurl.co/71933.ts
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network HD5
+http://srvx.io:80/live/7885037935/fireurl.co/71934.ts
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network SD3
+http://srvx.io:80/0165466866/fireurl.co/90530
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Multishow_HD_logo.png" group-title="Variedades",MULTISHOW HD
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
