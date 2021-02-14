@@ -489,8 +489,14 @@ http://srvx.io:80/0165466866/fireurl.co/90445
 #EXTINF:-1 tvg-id="tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob SD2
 http://srvx.io:80/0165466866/fireurl.co/90446
 
+#EXTINF:-1 tvg-id="tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob SD5
+http://srvx.io:80/live/7885037935/fireurl.co/72101.ts
+
 #EXTINF:-1 tvg-id="tvg-logo="https://i.imgur.com/hwL8wmo.png" group-title="Infantil",Cartoon Network HD2
 http://srvx.io:80/live/7885037935/fireurl.co/71831.ts
+
+#EXTINF:-1 tvg-id="tvg-logo="https://i.imgur.com/hwL8wmo.png" group-title="Infantil",Cartoon Network SD5
+http://srvx.io:80/live/7885037935/fireurl.co/71832.ts
 
 #EXTINF:-1 tvg-id="tvg-logo="https://i.imgur.com/M3lhQwY.jpg" group-title="Infantil",Rá-Tim-Bum FHD3
 http://pfsv.io/4fkf5aYNZs/imaginationurl.me/30265
