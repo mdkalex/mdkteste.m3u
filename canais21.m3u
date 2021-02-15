@@ -491,7 +491,6 @@ http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORT
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Séries",Warner
 http://painel.pjtiptv.com.br/video.m3u8?acesso=ecee17f50b793cfc423ca272560d6e77&usuario=5e79779df031edb89bb60ef8418cbe9d
 
-
 ################################################################################ Esportes
 
 #EXTINF:-1 tvg-id="DAZN" tvg-logo="http://i.imgur.com/71sYepu.png" group-title="Esportes",DAZN
@@ -576,10 +575,6 @@ http://assistirpainel.ddns.net:8880/34125123652/3412512365/2319
 
 #EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat HD2
 http://dnsx.co:80/0915597625/fireurl.co/71845
-
-
-####################################################################  Premiere #############################
-
 
 ============================================================= Premiere(teste 1)
 
