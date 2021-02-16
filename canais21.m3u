@@ -125,9 +125,6 @@ http://painel.pjtiptv.com.br/video.m3u8?acesso=2a4087ab7f6174ada446f26d55b43665&
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo SP HD1
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs1_2000/index.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo RJ SD1
-http://painel.pjtiptv.com.br/video.m3u8?acesso=1a35f39be485f69b7e569e1affa602fb&usuario=5e79779df031edb89bb60ef8418cbe9d
-
 #EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo RJ HD1
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -311,6 +308,39 @@ http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV NOVA ONDA 
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist.m3u8
 
+#################### GLOBO LOCAL
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul HD2
+http://dnsx.co:80/live/0915597625/fireurl.co/72081.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul SD2
+http://dnsx.co:80/live/0915597625/fireurl.co/72082.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul HD3
+http://dnsx.co:80/live/0165466866/fireurl.co/72081.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul SD3
+http://dnsx.co:80/live/0165466866/fireurl.co/72082.m3u8
+
+#EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title=" Canais | Globo",Globo Tv Rio Sul HD4
+http://pfsv.io:80/live/4fkf5aYNZs/imaginationurl.me/416.m3u8
+#EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title=" Canais | Globo",Globo Tv Rio Sul SD4
+http://pfsv.io:80/live/4fkf5aYNZs/imaginationurl.me/452.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sergipe HD2
+http://dnsx.co:80/live/0915597625/fireurl.co/72087.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sergipe SD2
+http://dnsx.co:80/live/0915597625/fireurl.co/72088.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sergipe HD3
+http://dnsx.co:80/live/0165466866/fireurl.co/72087.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sergipe SD3
+http://dnsx.co:80/live/0165466866/fireurl.co/72088.m3u8
+
+http://pfsv.io:80/live/4fkf5aYNZs/imaginationurl.me/359.m3u8
+#EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title=" Canais | Globo",Globo Tv Sergipe HD4
+http://pfsv.io:80/live/4fkf5aYNZs/imaginationurl.me/402.m3u8
+#EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title=" Canais | Globo",Globo Tv Sergipe SD4
+http://pfsv.io:80/live/4fkf5aYNZs/imaginationurl.me/439.m3u8
+
 #################################################################################  TV Record ##############################
 
 #EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Record",Record BA SD
@@ -437,6 +467,12 @@ http://painel.pjtiptv.com.br/video.m3u8?acesso=ea2d49ea91b61dcd2d31105664e8cf44&
 
 ################################################################################# Filmes e Series
 
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount
+http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount HD
+http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
 #EXTINF:-1 tvg-id="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e Séries",HBO
 http://painel.pjtiptv.com.br/video.m3u8?acesso=69169fb409f5e2a2ad330afdfd465a85&usuario=5e79779df031edb89bb60ef8418cbe9d
 
@@ -481,12 +517,6 @@ http://painel.pjtiptv.com.br/video.m3u8?acesso=17898f4d158b0b9f115beaf9232c2c9b&
 
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e Séries",Universal
 http://painel.pjtiptv.com.br/video.m3u8?acesso=cb34c9d094a8d4478ae3cf8601cecee0&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount
-http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount HD
-http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Séries",Warner
 http://painel.pjtiptv.com.br/video.m3u8?acesso=ecee17f50b793cfc423ca272560d6e77&usuario=5e79779df031edb89bb60ef8418cbe9d
