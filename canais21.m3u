@@ -459,12 +459,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JR1j1bH.jpg" group-title="Infantil",Nat Geo Kids SD2
 http://dnsx.co:80/0915597625/fireurl.co/72191
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob HD1
-http://painel.pjtiptv.com.br/video.m3u8?acesso=acf7f5e34b68d99ad89179d735532e8c&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/hwL8wmo.png" group-title="Infantil",Cartoon Network SD1
-http://painel.pjtiptv.com.br/video.m3u8?acesso=ea2d49ea91b61dcd2d31105664e8cf44&usuario=5e79779df031edb89bb60ef8418cbe9d
-
 ################################################################################# Filmes e Series
 
 #EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount
@@ -473,58 +467,8 @@ http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v2a1/mono.m3u8?PEDROJUNIORT
 #EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount HD
 http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e Séries",HBO
-http://painel.pjtiptv.com.br/video.m3u8?acesso=69169fb409f5e2a2ad330afdfd465a85&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Séries",HBO 2
-http://painel.pjtiptv.com.br/video.m3u8?acesso=eee4c06eb1083f0e0c9ee7bd13d7d281&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Séries",HBO Signature
-http://painel.pjtiptv.com.br/video.m3u8?acesso=149faca5b898d4fc75efe82c1fe6c383&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Séries",HBO Family
-http://painel.pjtiptv.com.br/video.m3u8?acesso=c797d2ff08fd763fd884e7e0fe8ea910&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="TC ACTION" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes e Séries",Telecine Action
-http://painel.pjtiptv.com.br/video.m3u8?acesso=02160825b66e2578d23073e38c11d5f4&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="TC PIPOCA" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Filmes e Séries",Telecine Pipoca
-http://painel.pjtiptv.com.br/video.m3u8?acesso=05d4e25d1d588fe28f1d9037c872d786&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="AXN" tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="Filmes e Séries",AXN
-http://painel.pjtiptv.com.br/video.m3u8?acesso=95d5f57d162917857364a9ad297b2062&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="FOX" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Filmes e Séries",Fox
-http://painel.pjtiptv.com.br/video.m3u8?acesso=f75a869d8dbb985b36550082e96a4026&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Séries",Megapix
-http://painel.pjtiptv.com.br/video.m3u8?acesso=ddff205763685d7a6d4530144103f4f9&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="SPACE" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Séries",Space
-http://painel.pjtiptv.com.br/video.m3u8?acesso=c9678f7d510e63147c8b3ee8f3120d4b&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Filmes e Séries",Comedy Central
-http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Filmes e Séries",Comedy Central HD
-http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Séries",TNT Séries
-http://painel.pjtiptv.com.br/video.m3u8?acesso=6b530f8ef385466121fc12c054ba17af&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="TNT" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Séries",TNT
-http://painel.pjtiptv.com.br/video.m3u8?acesso=17898f4d158b0b9f115beaf9232c2c9b&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e Séries",Universal
-http://painel.pjtiptv.com.br/video.m3u8?acesso=cb34c9d094a8d4478ae3cf8601cecee0&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Séries",Warner
-http://painel.pjtiptv.com.br/video.m3u8?acesso=ecee17f50b793cfc423ca272560d6e77&usuario=5e79779df031edb89bb60ef8418cbe9d
 
 ################################################################################ Esportes
-
-#EXTINF:-1 tvg-id="DAZN" tvg-logo="http://i.imgur.com/71sYepu.png" group-title="Esportes",DAZN
-http://painel.pjtiptv.com.br/video.m3u8?acesso=e18d2d25e976ef3d7b6412ef7a849ac9&usuario=5e79779df031edb89bb60ef8418cbe9d
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil
 http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
@@ -558,14 +502,8 @@ http://painel.pjtiptv.com.br/video.m3u8?acesso=377e572e16af300616ec194db87bc45f&
 
 #EXTINF:-1 tvg-id="SPORTV3" tvg-logo="https://i.imgur.com/wCPHZsd.jpg" group-title="Esportes",SPORTV 3 HD1
 
-#EXTINF:-1 tvg-id="SPORTV2" tvg-logo="https://i.imgur.com/NbsZCd1.jpg" group-title="Esportes",SPORTV 2 SD1
-http://painel.pjtiptv.com.br/video.m3u8?acesso=56b12a12d1251287d07f452ab5ec565b&usuario=5e79779df031edb89bb60ef8418cbe9d
-
 #EXTINF:-1 tvg-id="SPORTV2" tvg-logo="https://i.imgur.com/NbsZCd1.jpg" group-title="Esportes",SPORTV 2 HD2
 http://dnsx.co:80/0915597625/fireurl.co/72324
-
-#EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://i.imgur.com/XxICEwC.jpg" group-title="Esportes",SPORTV SD1
-http://painel.pjtiptv.com.br/video.m3u8?acesso=d4c0ace1d13deada5a5fdc3d0f0fa627&usuario=5e79779df031edb89bb60ef8418cbe9d
 
 #EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://i.imgur.com/XxICEwC.jpg" group-title="Esportes",SPORTV HD1
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8?PEDROJUNIORTUTORIAIS
@@ -596,9 +534,6 @@ http://svrhost.club/QDAENLGI/6K94SOWV/3290?tkn=1608396171
 
 #EXTINF:-1 tvg-id="FOX SPORT" tvg-logo="https://www.canaison.com/canais/fox-sport-2-new.jpg" group-title="Esportes",Fox Sports 2 site
 http://dnsx.co:80/0915597625/fireurl.co/71960
-
-#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat SD1
-http://painel.pjtiptv.com.br/video.m3u8?acesso=5023724d6013a27325ceff50da208d06&usuario=5e79779df031edb89bb60ef8418cbe9d
 
 #EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat SD
 http://assistirpainel.ddns.net:8880/34125123652/3412512365/2319
