@@ -125,9 +125,6 @@ http://painel.pjtiptv.com.br/video.m3u8?acesso=2a4087ab7f6174ada446f26d55b43665&
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo SP HD1
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs1_2000/index.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo RJ SD1
-http://painel.pjtiptv.com.br/video.m3u8?acesso=1a35f39be485f69b7e569e1affa602fb&usuario=5e79779df031edb89bb60ef8418cbe9d
-
 #EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo RJ HD1
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -311,6 +308,39 @@ http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV NOVA ONDA 
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist.m3u8
 
+#################### GLOBO LOCAL
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="GLOBO LOCAL",Globo TV Rio Sul HD2
+http://dnsx.co:80/live/0915597625/fireurl.co/72081.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="GLOBO LOCAL",Globo TV Rio Sul SD2
+http://dnsx.co:80/live/0915597625/fireurl.co/72082.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="GLOBO LOCAL",Globo TV Rio Sul HD3
+http://dnsx.co:80/live/0165466866/fireurl.co/72081.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="GLOBO LOCAL",Globo TV Rio Sul SD3
+http://dnsx.co:80/live/0165466866/fireurl.co/72082.m3u8
+
+#EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title="GLOBO LOCAL",Globo Tv Rio Sul HD4
+http://pfsv.io:80/live/4fkf5aYNZs/imaginationurl.me/416.m3u8
+#EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title="GLOBO LOCAL",Globo Tv Rio Sul SD4
+http://pfsv.io:80/live/4fkf5aYNZs/imaginationurl.me/452.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="GLOBO LOCAL",Globo TV Sergipe HD2
+http://dnsx.co:80/live/0915597625/fireurl.co/72087.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="GLOBO LOCAL",Globo TV Sergipe SD2
+http://dnsx.co:80/live/0915597625/fireurl.co/72088.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="GLOBO LOCAL",Globo TV Sergipe HD3
+http://dnsx.co:80/live/0165466866/fireurl.co/72087.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="GLOBO LOCAL",Globo TV Sergipe SD3
+http://dnsx.co:80/live/0165466866/fireurl.co/72088.m3u8
+
+http://pfsv.io:80/live/4fkf5aYNZs/imaginationurl.me/359.m3u8
+#EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title="GLOBO LOCAL",Globo Tv Sergipe HD4
+http://pfsv.io:80/live/4fkf5aYNZs/imaginationurl.me/402.m3u8
+#EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title="GLOBO LOCAL",Globo Tv Sergipe SD4
+http://pfsv.io:80/live/4fkf5aYNZs/imaginationurl.me/439.m3u8
+
 #################################################################################  TV Record ##############################
 
 #EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Record",Record BA SD
@@ -429,58 +459,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JR1j1bH.jpg" group-title="Infantil",Nat Geo Kids SD2
 http://dnsx.co:80/0915597625/fireurl.co/72191
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zAiYSFZ.png" group-title="Infantil",Gloob HD1
-http://painel.pjtiptv.com.br/video.m3u8?acesso=acf7f5e34b68d99ad89179d735532e8c&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/hwL8wmo.png" group-title="Infantil",Cartoon Network SD1
-http://painel.pjtiptv.com.br/video.m3u8?acesso=ea2d49ea91b61dcd2d31105664e8cf44&usuario=5e79779df031edb89bb60ef8418cbe9d
-
 ################################################################################# Filmes e Series
-
-#EXTINF:-1 tvg-id="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e Séries",HBO
-http://painel.pjtiptv.com.br/video.m3u8?acesso=69169fb409f5e2a2ad330afdfd465a85&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Séries",HBO 2
-http://painel.pjtiptv.com.br/video.m3u8?acesso=eee4c06eb1083f0e0c9ee7bd13d7d281&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Séries",HBO Signature
-http://painel.pjtiptv.com.br/video.m3u8?acesso=149faca5b898d4fc75efe82c1fe6c383&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Séries",HBO Family
-http://painel.pjtiptv.com.br/video.m3u8?acesso=c797d2ff08fd763fd884e7e0fe8ea910&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="TC ACTION" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes e Séries",Telecine Action
-http://painel.pjtiptv.com.br/video.m3u8?acesso=02160825b66e2578d23073e38c11d5f4&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="TC PIPOCA" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Filmes e Séries",Telecine Pipoca
-http://painel.pjtiptv.com.br/video.m3u8?acesso=05d4e25d1d588fe28f1d9037c872d786&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="AXN" tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="Filmes e Séries",AXN
-http://painel.pjtiptv.com.br/video.m3u8?acesso=95d5f57d162917857364a9ad297b2062&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="FOX" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Filmes e Séries",Fox
-http://painel.pjtiptv.com.br/video.m3u8?acesso=f75a869d8dbb985b36550082e96a4026&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Séries",Megapix
-http://painel.pjtiptv.com.br/video.m3u8?acesso=ddff205763685d7a6d4530144103f4f9&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="SPACE" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Séries",Space
-http://painel.pjtiptv.com.br/video.m3u8?acesso=c9678f7d510e63147c8b3ee8f3120d4b&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Filmes e Séries",Comedy Central
-http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Filmes e Séries",Comedy Central HD
-http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Séries",TNT Séries
-http://painel.pjtiptv.com.br/video.m3u8?acesso=6b530f8ef385466121fc12c054ba17af&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="TNT" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Séries",TNT
-http://painel.pjtiptv.com.br/video.m3u8?acesso=17898f4d158b0b9f115beaf9232c2c9b&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e Séries",Universal
-http://painel.pjtiptv.com.br/video.m3u8?acesso=cb34c9d094a8d4478ae3cf8601cecee0&usuario=5e79779df031edb89bb60ef8418cbe9d
 
 #EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount
 http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
@@ -488,14 +467,7 @@ http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v2a1/mono.m3u8?PEDROJUNIORT
 #EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount HD
 http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Séries",Warner
-http://painel.pjtiptv.com.br/video.m3u8?acesso=ecee17f50b793cfc423ca272560d6e77&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-
 ################################################################################ Esportes
-
-#EXTINF:-1 tvg-id="DAZN" tvg-logo="http://i.imgur.com/71sYepu.png" group-title="Esportes",DAZN
-http://painel.pjtiptv.com.br/video.m3u8?acesso=e18d2d25e976ef3d7b6412ef7a849ac9&usuario=5e79779df031edb89bb60ef8418cbe9d
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil
 http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
@@ -529,14 +501,8 @@ http://painel.pjtiptv.com.br/video.m3u8?acesso=377e572e16af300616ec194db87bc45f&
 
 #EXTINF:-1 tvg-id="SPORTV3" tvg-logo="https://i.imgur.com/wCPHZsd.jpg" group-title="Esportes",SPORTV 3 HD1
 
-#EXTINF:-1 tvg-id="SPORTV2" tvg-logo="https://i.imgur.com/NbsZCd1.jpg" group-title="Esportes",SPORTV 2 SD1
-http://painel.pjtiptv.com.br/video.m3u8?acesso=56b12a12d1251287d07f452ab5ec565b&usuario=5e79779df031edb89bb60ef8418cbe9d
-
 #EXTINF:-1 tvg-id="SPORTV2" tvg-logo="https://i.imgur.com/NbsZCd1.jpg" group-title="Esportes",SPORTV 2 HD2
 http://dnsx.co:80/0915597625/fireurl.co/72324
-
-#EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://i.imgur.com/XxICEwC.jpg" group-title="Esportes",SPORTV SD1
-http://painel.pjtiptv.com.br/video.m3u8?acesso=d4c0ace1d13deada5a5fdc3d0f0fa627&usuario=5e79779df031edb89bb60ef8418cbe9d
 
 #EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://i.imgur.com/XxICEwC.jpg" group-title="Esportes",SPORTV HD1
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8?PEDROJUNIORTUTORIAIS
@@ -568,27 +534,227 @@ http://svrhost.club/QDAENLGI/6K94SOWV/3290?tkn=1608396171
 #EXTINF:-1 tvg-id="FOX SPORT" tvg-logo="https://www.canaison.com/canais/fox-sport-2-new.jpg" group-title="Esportes",Fox Sports 2 site
 http://dnsx.co:80/0915597625/fireurl.co/71960
 
-#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat SD1
-http://painel.pjtiptv.com.br/video.m3u8?acesso=5023724d6013a27325ceff50da208d06&usuario=5e79779df031edb89bb60ef8418cbe9d
-
 #EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat SD
 http://assistirpainel.ddns.net:8880/34125123652/3412512365/2319
 
 #EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat HD2
 http://dnsx.co:80/0915597625/fireurl.co/71845
 
+############################################# Premiere(teste 1)
 
-####################################################################  Premiere #############################
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 2 FHD
+http://dnsx.co:80/live/0915597625/fireurl.co/72237.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 2 FHD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90376.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 2 FHD [H265]
+http://dnsx.co:80/live/0915597625/fireurl.co/72238.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 2 HD
+http://dnsx.co:80/live/0915597625/fireurl.co/72239.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 2 HD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90377.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 2 SD
+http://dnsx.co:80/live/0915597625/fireurl.co/72240.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 2 SD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90378.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 3 FHD
+http://dnsx.co:80/live/0915597625/fireurl.co/72241.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 3 FHD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90373.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 3 FHD [H265]
+http://dnsx.co:80/live/0915597625/fireurl.co/72242.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 3 HD
+http://dnsx.co:80/live/0915597625/fireurl.co/72243.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 3 HD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90374.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 3 SD
+http://dnsx.co:80/live/0915597625/fireurl.co/72244.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 3 SD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90375.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 4 FHD
+http://dnsx.co:80/live/0915597625/fireurl.co/72245.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 4 FHD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90370.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 4 FHD [H265]
+http://dnsx.co:80/live/0915597625/fireurl.co/72246.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 4 HD
+http://dnsx.co:80/live/0915597625/fireurl.co/72247.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 4 HD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90371.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 4 SD
+http://dnsx.co:80/live/0915597625/fireurl.co/72248.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 4 SD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90372.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 5 FHD
+http://dnsx.co:80/live/0915597625/fireurl.co/72249.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 5 FHD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90367.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 5 FHD [H265]
+http://dnsx.co:80/live/0915597625/fireurl.co/72250.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 5 HD
+http://dnsx.co:80/live/0915597625/fireurl.co/72251.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 5 HD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90368.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 5 SD
+http://dnsx.co:80/live/0915597625/fireurl.co/72252.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 5 SD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90369.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 6 FHD
+http://dnsx.co:80/live/0915597625/fireurl.co/72253.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 6 FHD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90364.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 6 FHD [H265]
+http://dnsx.co:80/live/0915597625/fireurl.co/72254.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 6 HD
+http://dnsx.co:80/live/0915597625/fireurl.co/72255.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 6 HD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90365.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 6 SD
+http://dnsx.co:80/live/0915597625/fireurl.co/72256.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 6 SD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90366.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 7 FHD
+http://dnsx.co:80/live/0915597625/fireurl.co/72257.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 7 FHD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90361.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 7 FHD [H265]
+http://dnsx.co:80/live/0915597625/fireurl.co/72258.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 7 HD
+http://dnsx.co:80/live/0915597625/fireurl.co/72259.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 7 HD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90362.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 7 SD
+http://dnsx.co:80/live/0915597625/fireurl.co/72260.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 7 SD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90363.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 8 FHD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90358.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 8 HD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90359.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 8 SD
+http://dnsx.co:80/live/0915597625/fireurl.co/72261.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere 8 SD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90360.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere Clubes FHD
+http://dnsx.co:80/live/0915597625/fireurl.co/72262.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere Clubes FHD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90355.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere Clubes FHD [H265]
+http://dnsx.co:80/live/0915597625/fireurl.co/72263.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere Clubes HD
+http://dnsx.co:80/live/0915597625/fireurl.co/72265.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere Clubes HD [Alter]
+http://dnsx.co:80/live/0915597625/fireurl.co/90356.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 1)",Premiere Clubes SD
+http://dnsx.co:80/live/0915597625/fireurl.co/72266.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 3
-http://lb.kstream.org/aovivo/HD_PFC_CLUBES/download?token=0978309793dbc624b7039e6e89c1dfa2
+########################## Premiere(teste 2)
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 4
-http://dns.clientetv.net:8080/5088166727/8166727/1273
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://crawler.mdcgate.com/iptv/logo/22815.png" group-title="Premiere",Premiere - site 5
-http://bldtv.vip:80/victor09/624805/172418
-
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 2 FHD
+http://dnsx.co:80/live/0165466866/fireurl.co/72237.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 2 FHD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90376.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 2 FHD [H265]
+http://dnsx.co:80/live/0165466866/fireurl.co/72238.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 2 HD
+http://dnsx.co:80/live/0165466866/fireurl.co/72239.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 2 HD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90377.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 2 SD
+http://dnsx.co:80/live/0165466866/fireurl.co/72240.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 2 SD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90378.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 3 FHD
+http://dnsx.co:80/live/0165466866/fireurl.co/72241.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 3 FHD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90373.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 3 FHD [H265]
+http://dnsx.co:80/live/0165466866/fireurl.co/72242.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 3 HD
+http://dnsx.co:80/live/0165466866/fireurl.co/72243.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 3 HD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90374.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 3 SD
+http://dnsx.co:80/live/0165466866/fireurl.co/72244.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 3 SD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90375.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 4 FHD
+http://dnsx.co:80/live/0165466866/fireurl.co/72245.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 4 FHD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90370.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 4 FHD [H265]
+http://dnsx.co:80/live/0165466866/fireurl.co/72246.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 4 HD
+http://dnsx.co:80/live/0165466866/fireurl.co/72247.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 4 HD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90371.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 4 SD
+http://dnsx.co:80/live/0165466866/fireurl.co/72248.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 4 SD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90372.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 5 FHD
+http://dnsx.co:80/live/0165466866/fireurl.co/72249.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 5 FHD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90367.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 5 FHD [H265]
+http://dnsx.co:80/live/0165466866/fireurl.co/72250.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 5 HD
+http://dnsx.co:80/live/0165466866/fireurl.co/72251.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 5 HD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90368.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 5 SD
+http://dnsx.co:80/live/0165466866/fireurl.co/72252.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 5 SD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90369.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 6 FHD
+http://dnsx.co:80/live/0165466866/fireurl.co/72253.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 6 FHD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90364.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 6 FHD [H265]
+http://dnsx.co:80/live/0165466866/fireurl.co/72254.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 6 HD
+http://dnsx.co:80/live/0165466866/fireurl.co/72255.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 6 HD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90365.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 6 SD
+http://dnsx.co:80/live/0165466866/fireurl.co/72256.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 6 SD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90366.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 7 FHD
+http://dnsx.co:80/live/0165466866/fireurl.co/72257.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 7 FHD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90361.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 7 FHD [H265]
+http://dnsx.co:80/live/0165466866/fireurl.co/72258.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 7 HD
+http://dnsx.co:80/live/0165466866/fireurl.co/72259.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 7 HD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90362.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 7 SD
+http://dnsx.co:80/live/0165466866/fireurl.co/72260.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 7 SD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90363.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 8 FHD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90358.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 8 HD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90359.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 8 SD
+http://dnsx.co:80/live/0165466866/fireurl.co/72261.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere 8 SD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90360.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere Clubes FHD
+http://dnsx.co:80/live/0165466866/fireurl.co/72262.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere Clubes FHD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90355.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere Clubes FHD [H265]
+http://dnsx.co:80/live/0165466866/fireurl.co/72263.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere Clubes HD
+http://dnsx.co:80/live/0165466866/fireurl.co/72265.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere Clubes HD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90356.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere Clubes SD
+http://dnsx.co:80/live/0165466866/fireurl.co/72266.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Premiere(teste 2)",Premiere Clubes SD [Alter]
+http://dnsx.co:80/live/0165466866/fireurl.co/90357.m3u8
 
 ####################################################################  Variedades #############################
 
@@ -600,7 +766,6 @@ http://akamaizedx.com:80/davimusse/dms1520/10039650
 
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network HD2
 http://dnsx.co:80/0915597625/fireurl.co/71934
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Multishow_HD_logo.png" group-title="Variedades",MULTISHOW HD
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
@@ -1163,6 +1328,9 @@ https://s4.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/fi
 
 #######################################################################################################  Filmes Livres  ########################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fvdDbBp.jpg" group-title="Filmes Livres",O Grande Ivan (2020)
+https://azureedge.azureedge.net/RCFServer5/ondemand/OGRNDIVN.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HwdNatu.jpg" group-title="Filmes Livres",Xico - O Cachorro Mágico(2020)
 https://lbsuper.sfplayer.net/hls/695c76df43cbc1da0d499e2d5a4f9d60/695c76df43cbc1da0d499e2d5a4f9d60.m3u8
 
@@ -1233,520 +1401,3 @@ https://lbsuper2.sfplayer.net/hls/2faad56ab9f7ac69e024e7be317530ba/2faad56ab9f7a
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XarhZQe.jpg" group-title="Filmes Religiosos",O Despertar da Fe(2012)
 https://lbsuper2.sfplayer.net/hls/2fc017bec557566ce178fd6227849912/2fc017bec557566ce178fd6227849912.m3u8
-
-########################################## Adultos[+18]
-
-#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Adultos[+18]",[+18] Playboy TV FHD
-http://dnsx.co:80/live/0915597625/fireurl.co/72221.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Adultos[+18]",[+18] Playboy TV FHD [H265]
-http://dnsx.co:80/live/0915597625/fireurl.co/72224.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Adultos[+18]",[+18] Playboy TV HD
-http://dnsx.co:80/live/0915597625/fireurl.co/72222.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Adultos[+18]",[+18] Playboy TV SD
-http://dnsx.co:80/live/0915597625/fireurl.co/72223.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",[+18] Sextreme SD
-http://dnsx.co:80/live/0915597625/fireurl.co/91430.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",[+18] Sexy Hot SD
-http://dnsx.co:80/live/0915597625/fireurl.co/72310.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",[+18] Venus SD
-http://dnsx.co:80/live/0915597625/fireurl.co/91429.m3u8
-
-#EXTINF:-1 tvg-logo="http://a5.vc/x9T" group-title="Adultos[+18]",[24H] [+18] A Casa Das Brasileirinhas - Pack 1
-http://dnsx.co:80/live/0915597625/fireurl.co/48112.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/x9T" group-title="Adultos[+18]",[24H] [+18] A Casa Das Brasileirinhas - Pack 2
-http://dnsx.co:80/live/0915597625/fireurl.co/48113.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/x9T" group-title="Adultos[+18]",[24H] [+18] A Casa Das Brasileirinhas - Pack 3
-http://dnsx.co:80/live/0915597625/fireurl.co/48114.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/x9T" group-title="Adultos[+18]",[24H] [+18] A Casa Das Brasileirinhas - Pack 4
-http://dnsx.co:80/live/0915597625/fireurl.co/48115.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/t80" group-title="Adultos[+18]",[24H] [+18] Brazzers
-http://dnsx.co:80/live/0915597625/fireurl.co/48116.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Filmes Amadores
-http://dnsx.co:80/live/0915597625/fireurl.co/48117.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Filmes Brasileiras
-http://dnsx.co:80/live/0915597625/fireurl.co/48118.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Filmes Gozo 1
-http://dnsx.co:80/live/0915597625/fireurl.co/48119.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Filmes Gozo 2
-http://dnsx.co:80/live/0915597625/fireurl.co/48120.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Filmes Loira
-http://dnsx.co:80/live/0915597625/fireurl.co/48121.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Filmes Ruivas
-http://dnsx.co:80/live/0915597625/fireurl.co/48122.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Filmes Trans
-http://dnsx.co:80/live/0915597625/fireurl.co/48123.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Flagra
-http://dnsx.co:80/live/0915597625/fireurl.co/48124.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Videos Amadores
-http://dnsx.co:80/live/0915597625/fireurl.co/48125.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Videos Anal
-http://dnsx.co:80/live/0915597625/fireurl.co/48126.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Videos Brasileiras
-http://dnsx.co:80/live/0915597625/fireurl.co/48127.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Videos Hentai
-http://dnsx.co:80/live/0915597625/fireurl.co/48128.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Videos Lesbicas
-http://dnsx.co:80/live/0915597625/fireurl.co/48129.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Videos Mia Khalifa
-http://dnsx.co:80/live/0915597625/fireurl.co/48130.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Videos Porno Gay
-http://dnsx.co:80/live/0915597625/fireurl.co/48131.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Videos Ruivas
-http://dnsx.co:80/live/0915597625/fireurl.co/48132.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Videos Teste de Fudelidade
-http://dnsx.co:80/live/0915597625/fireurl.co/48133.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Wow Porn
-http://dnsx.co:80/live/0915597625/fireurl.co/48134.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 01
-http://dnsx.co:80/movie/0915597625/fireurl.co/34199.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 02
-http://dnsx.co:80/movie/0915597625/fireurl.co/34200.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 03
-http://dnsx.co:80/movie/0915597625/fireurl.co/34201.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 04
-http://dnsx.co:80/movie/0915597625/fireurl.co/34202.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 05
-http://dnsx.co:80/movie/0915597625/fireurl.co/34203.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 06
-http://dnsx.co:80/movie/0915597625/fireurl.co/34204.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 07
-http://dnsx.co:80/movie/0915597625/fireurl.co/34205.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 08
-http://dnsx.co:80/movie/0915597625/fireurl.co/34206.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 09
-http://dnsx.co:80/movie/0915597625/fireurl.co/34207.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 10
-http://dnsx.co:80/movie/0915597625/fireurl.co/34208.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 11
-http://dnsx.co:80/movie/0915597625/fireurl.co/34209.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 12
-http://dnsx.co:80/movie/0915597625/fireurl.co/34210.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 13
-http://dnsx.co:80/movie/0915597625/fireurl.co/34211.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 14
-http://dnsx.co:80/movie/0915597625/fireurl.co/34212.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 15
-http://dnsx.co:80/movie/0915597625/fireurl.co/34213.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 16
-http://dnsx.co:80/movie/0915597625/fireurl.co/34214.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 17
-http://dnsx.co:80/movie/0915597625/fireurl.co/34215.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 18
-http://dnsx.co:80/movie/0915597625/fireurl.co/34216.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 19
-http://dnsx.co:80/movie/0915597625/fireurl.co/34217.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 20
-http://dnsx.co:80/movie/0915597625/fireurl.co/34218.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 21
-http://dnsx.co:80/movie/0915597625/fireurl.co/34219.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 22
-http://dnsx.co:80/movie/0915597625/fireurl.co/34220.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 23
-http://dnsx.co:80/movie/0915597625/fireurl.co/34221.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 24
-http://dnsx.co:80/movie/0915597625/fireurl.co/34222.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 25
-http://dnsx.co:80/movie/0915597625/fireurl.co/34223.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 26
-http://dnsx.co:80/movie/0915597625/fireurl.co/34224.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 27
-http://dnsx.co:80/movie/0915597625/fireurl.co/34225.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 28
-http://dnsx.co:80/movie/0915597625/fireurl.co/34226.mp4
-#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",Adultos: A Casa Das Brasileirinhas S30 E01
-http://dnsx.co:80/series/0915597625/fireurl.co/17935.mp4
-#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",Adultos: A Casa Das Brasileirinhas S30 E02
-http://dnsx.co:80/series/0915597625/fireurl.co/17936.mp4
-#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",Adultos: A Casa Das Brasileirinhas S30 E03
-http://dnsx.co:80/series/0915597625/fireurl.co/17937.mp4
-#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",Adultos: A Casa Das Brasileirinhas S30 E04
-http://dnsx.co:80/series/0915597625/fireurl.co/17938.mp4
-#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",Adultos: A Casa Das Brasileirinhas S30 E05
-http://dnsx.co:80/series/0915597625/fireurl.co/17939.mp4
-#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",Adultos: A Casa Das Brasileirinhas S31 E01
-http://dnsx.co:80/series/0915597625/fireurl.co/17940.mp4
-#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",Adultos: A Casa Das Brasileirinhas S31 E02
-http://dnsx.co:80/series/0915597625/fireurl.co/17941.mp4
-#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",Adultos: A Casa Das Brasileirinhas S31 E03
-http://dnsx.co:80/series/0915597625/fireurl.co/17942.mp4
-#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",Adultos: A Casa Das Brasileirinhas S31 E04
-http://dnsx.co:80/series/0915597625/fireurl.co/17943.mp4
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E01
-http://b2p.li:80/series/6262789/5255378/188232.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E02
-http://b2p.li:80/series/6262789/5255378/188233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E03
-http://b2p.li:80/series/6262789/5255378/188234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E04
-http://b2p.li:80/series/6262789/5255378/188235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E05
-http://b2p.li:80/series/6262789/5255378/188236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E06
-http://b2p.li:80/series/6262789/5255378/188237.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E07
-http://b2p.li:80/series/6262789/5255378/188238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E08
-http://b2p.li:80/series/6262789/5255378/188239.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E09
-http://b2p.li:80/series/6262789/5255378/188240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E10
-http://b2p.li:80/series/6262789/5255378/188241.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E11
-http://b2p.li:80/series/6262789/5255378/188242.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E12
-http://b2p.li:80/series/6262789/5255378/188243.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E13
-http://b2p.li:80/series/6262789/5255378/188244.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E14
-http://b2p.li:80/series/6262789/5255378/188245.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E15
-http://b2p.li:80/series/6262789/5255378/188246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E16
-http://b2p.li:80/series/6262789/5255378/188247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E17
-http://b2p.li:80/series/6262789/5255378/188248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E18
-http://b2p.li:80/series/6262789/5255378/188249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E19
-http://b2p.li:80/series/6262789/5255378/188250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E20
-http://b2p.li:80/series/6262789/5255378/188251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E21
-http://b2p.li:80/series/6262789/5255378/188252.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E22
-http://b2p.li:80/series/6262789/5255378/188253.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E23
-http://b2p.li:80/series/6262789/5255378/188254.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E24
-http://b2p.li:80/series/6262789/5255378/188255.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E25
-http://b2p.li:80/series/6262789/5255378/188256.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E26
-http://b2p.li:80/series/6262789/5255378/188257.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E27
-http://b2p.li:80/series/6262789/5255378/188258.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E28
-http://b2p.li:80/series/6262789/5255378/188259.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E29
-http://b2p.li:80/series/6262789/5255378/188260.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E30
-http://b2p.li:80/series/6262789/5255378/188261.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E31
-http://b2p.li:80/series/6262789/5255378/188262.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E32
-http://b2p.li:80/series/6262789/5255378/188263.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E33
-http://b2p.li:80/series/6262789/5255378/188264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E34
-http://b2p.li:80/series/6262789/5255378/188265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E35
-http://b2p.li:80/series/6262789/5255378/188266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E36
-http://b2p.li:80/series/6262789/5255378/188267.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E37
-http://b2p.li:80/series/6262789/5255378/188268.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E38
-http://b2p.li:80/series/6262789/5255378/188269.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E39
-http://b2p.li:80/series/6262789/5255378/188270.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E40
-http://b2p.li:80/series/6262789/5255378/188271.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E41
-http://b2p.li:80/series/6262789/5255378/188272.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E42
-http://b2p.li:80/series/6262789/5255378/188273.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E43
-http://b2p.li:80/series/6262789/5255378/188274.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E44
-http://b2p.li:80/series/6262789/5255378/188275.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E45
-http://b2p.li:80/series/6262789/5255378/188276.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E46
-http://b2p.li:80/series/6262789/5255378/188277.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E47
-http://b2p.li:80/series/6262789/5255378/188278.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E48
-http://b2p.li:80/series/6262789/5255378/188279.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E49
-http://b2p.li:80/series/6262789/5255378/188280.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E50
-http://b2p.li:80/series/6262789/5255378/188281.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E51
-http://b2p.li:80/series/6262789/5255378/188282.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E52
-http://b2p.li:80/series/6262789/5255378/188283.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E53
-http://b2p.li:80/series/6262789/5255378/188284.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E54
-http://b2p.li:80/series/6262789/5255378/188285.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E55
-http://b2p.li:80/series/6262789/5255378/188286.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E56
-http://b2p.li:80/series/6262789/5255378/188287.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E57
-http://b2p.li:80/series/6262789/5255378/188288.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E58
-http://b2p.li:80/series/6262789/5255378/188289.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E59
-http://b2p.li:80/series/6262789/5255378/188290.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E60
-http://b2p.li:80/series/6262789/5255378/188291.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E61
-http://b2p.li:80/series/6262789/5255378/188292.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E62
-http://b2p.li:80/series/6262789/5255378/188293.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E63
-http://b2p.li:80/series/6262789/5255378/188294.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E64
-http://b2p.li:80/series/6262789/5255378/188295.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E65
-http://b2p.li:80/series/6262789/5255378/188296.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E66
-http://b2p.li:80/series/6262789/5255378/188297.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E67
-http://b2p.li:80/series/6262789/5255378/188298.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E68
-http://b2p.li:80/series/6262789/5255378/188299.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E69
-http://b2p.li:80/series/6262789/5255378/188300.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E70
-http://b2p.li:80/series/6262789/5255378/188301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E71
-http://b2p.li:80/series/6262789/5255378/188302.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E72
-http://b2p.li:80/series/6262789/5255378/188303.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E73
-http://b2p.li:80/series/6262789/5255378/188304.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E74
-http://b2p.li:80/series/6262789/5255378/188305.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E75
-http://b2p.li:80/series/6262789/5255378/188306.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E76
-http://b2p.li:80/series/6262789/5255378/188307.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E77
-http://b2p.li:80/series/6262789/5255378/188308.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E78
-http://b2p.li:80/series/6262789/5255378/188309.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E79
-http://b2p.li:80/series/6262789/5255378/188310.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E80
-http://b2p.li:80/series/6262789/5255378/188311.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E81
-http://b2p.li:80/series/6262789/5255378/188312.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E82
-http://b2p.li:80/series/6262789/5255378/188313.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E83
-http://b2p.li:80/series/6262789/5255378/188314.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E84
-http://b2p.li:80/series/6262789/5255378/188315.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E85
-http://b2p.li:80/series/6262789/5255378/188316.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E86
-http://b2p.li:80/series/6262789/5255378/188317.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E87
-http://b2p.li:80/series/6262789/5255378/188318.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E88
-http://b2p.li:80/series/6262789/5255378/188319.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E89
-http://b2p.li:80/series/6262789/5255378/188320.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E90
-http://b2p.li:80/series/6262789/5255378/188321.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E91
-http://b2p.li:80/series/6262789/5255378/188322.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E92
-http://b2p.li:80/series/6262789/5255378/188323.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E93
-http://b2p.li:80/series/6262789/5255378/188324.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E94
-http://b2p.li:80/series/6262789/5255378/188325.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E95
-http://b2p.li:80/series/6262789/5255378/188326.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E96
-http://b2p.li:80/series/6262789/5255378/188327.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E97
-http://b2p.li:80/series/6262789/5255378/188328.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E98
-http://b2p.li:80/series/6262789/5255378/188329.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E99
-http://b2p.li:80/series/6262789/5255378/188330.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E100
-http://b2p.li:80/series/6262789/5255378/188331.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E101" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E101
-http://b2p.li:80/series/6262789/5255378/188332.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E102" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E102
-http://b2p.li:80/series/6262789/5255378/188333.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E103" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E103
-http://b2p.li:80/series/6262789/5255378/188334.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E104" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E104
-http://b2p.li:80/series/6262789/5255378/188335.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E105" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E105
-http://b2p.li:80/series/6262789/5255378/188336.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E106" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E106
-http://b2p.li:80/series/6262789/5255378/188337.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E107" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E107
-http://b2p.li:80/series/6262789/5255378/188338.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E108" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E108
-http://b2p.li:80/series/6262789/5255378/188339.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E109" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E109
-http://b2p.li:80/series/6262789/5255378/188340.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E110" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E110
-http://b2p.li:80/series/6262789/5255378/188341.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E111" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E111
-http://b2p.li:80/series/6262789/5255378/188342.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E112" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E112
-http://b2p.li:80/series/6262789/5255378/188343.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E113" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E113
-http://b2p.li:80/series/6262789/5255378/188344.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E114" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E114
-http://b2p.li:80/series/6262789/5255378/188345.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E115" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E115
-http://b2p.li:80/series/6262789/5255378/188346.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E116" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E116
-http://b2p.li:80/series/6262789/5255378/188347.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E117" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E117
-http://b2p.li:80/series/6262789/5255378/188348.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E118" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E118
-http://b2p.li:80/series/6262789/5255378/188349.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E119" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E119
-http://b2p.li:80/series/6262789/5255378/188350.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E120" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E120
-http://b2p.li:80/series/6262789/5255378/188351.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E121" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E121
-http://b2p.li:80/series/6262789/5255378/188352.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E122" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E122
-http://b2p.li:80/series/6262789/5255378/188353.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E123" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E123
-http://b2p.li:80/series/6262789/5255378/188354.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E124" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E124
-http://b2p.li:80/series/6262789/5255378/188355.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E125" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E125
-http://b2p.li:80/series/6262789/5255378/188356.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E126" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E126
-http://b2p.li:80/series/6262789/5255378/188357.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E127" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E127
-http://b2p.li:80/series/6262789/5255378/188358.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E128" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E128
-http://b2p.li:80/series/6262789/5255378/188359.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E129" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E129
-http://b2p.li:80/series/6262789/5255378/188360.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E130" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E130
-http://b2p.li:80/series/6262789/5255378/188361.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E131" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E131
-http://b2p.li:80/series/6262789/5255378/188362.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E132" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E132
-http://b2p.li:80/series/6262789/5255378/188363.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E133" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E133
-http://b2p.li:80/series/6262789/5255378/188364.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E134" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E134
-http://b2p.li:80/series/6262789/5255378/188365.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E135" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E135
-http://b2p.li:80/series/6262789/5255378/188366.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E136" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E136
-http://b2p.li:80/series/6262789/5255378/188367.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E137" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E137
-http://b2p.li:80/series/6262789/5255378/188368.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E138" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E138
-http://b2p.li:80/series/6262789/5255378/188369.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E139" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E139
-http://b2p.li:80/series/6262789/5255378/188370.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E140" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E140
-http://b2p.li:80/series/6262789/5255378/188371.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E141" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E141
-http://b2p.li:80/series/6262789/5255378/188372.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E142" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E142
-http://b2p.li:80/series/6262789/5255378/188373.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E143" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E143
-http://b2p.li:80/series/6262789/5255378/188374.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E144" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E144
-http://b2p.li:80/series/6262789/5255378/188375.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E145" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E145
-http://b2p.li:80/series/6262789/5255378/188376.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E146" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E146
-http://b2p.li:80/series/6262789/5255378/188377.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E147" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E147
-http://b2p.li:80/series/6262789/5255378/188378.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E148" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E148
-http://b2p.li:80/series/6262789/5255378/188379.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E149" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E149
-http://b2p.li:80/series/6262789/5255378/188380.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E150" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E150
-http://b2p.li:80/series/6262789/5255378/188381.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E151" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E151
-http://b2p.li:80/series/6262789/5255378/188382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E152" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E152
-http://b2p.li:80/series/6262789/5255378/188383.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E153" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E153
-http://b2p.li:80/series/6262789/5255378/188384.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E154" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E154
-http://b2p.li:80/series/6262789/5255378/188385.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E155" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E155
-http://b2p.li:80/series/6262789/5255378/188386.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E156" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E156
-http://b2p.li:80/series/6262789/5255378/188387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E157" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E157
-http://b2p.li:80/series/6262789/5255378/188388.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E158" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E158
-http://b2p.li:80/series/6262789/5255378/188389.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E159" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E159
-http://b2p.li:80/series/6262789/5255378/188390.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E160" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E160
-http://b2p.li:80/series/6262789/5255378/188391.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E161" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E161
-http://b2p.li:80/series/6262789/5255378/188392.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E162" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E162
-http://b2p.li:80/series/6262789/5255378/188393.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E163" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E163
-http://b2p.li:80/series/6262789/5255378/188394.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E164" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E164
-http://b2p.li:80/series/6262789/5255378/188395.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E165" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E165
-http://b2p.li:80/series/6262789/5255378/188396.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E166" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E166
-http://b2p.li:80/series/6262789/5255378/188397.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E167" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E167
-http://b2p.li:80/series/6262789/5255378/188398.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E168" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E168
-http://b2p.li:80/series/6262789/5255378/188399.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E169" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E169
-http://b2p.li:80/series/6262789/5255378/188400.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E170" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E170
-http://b2p.li:80/series/6262789/5255378/188401.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E171" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E171
-http://b2p.li:80/series/6262789/5255378/188402.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E172" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E172
-http://b2p.li:80/series/6262789/5255378/188403.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E173" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E173
-http://b2p.li:80/series/6262789/5255378/188404.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E174" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E174
-http://b2p.li:80/series/6262789/5255378/188405.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E175" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E175
-http://b2p.li:80/series/6262789/5255378/188406.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E176" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E176
-http://b2p.li:80/series/6262789/5255378/188407.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E177" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E177
-http://b2p.li:80/series/6262789/5255378/188408.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E178" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E178
-http://b2p.li:80/series/6262789/5255378/188409.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E179" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E179
-http://b2p.li:80/series/6262789/5255378/188410.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E180" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E180
-http://b2p.li:80/series/6262789/5255378/188411.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E181" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E181
-http://b2p.li:80/series/6262789/5255378/188412.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E182" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E182
-http://b2p.li:80/series/6262789/5255378/188413.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E183" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E183
-http://b2p.li:80/series/6262789/5255378/188414.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E184" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E184
-http://b2p.li:80/series/6262789/5255378/188415.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E185" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E185
-http://b2p.li:80/series/6262789/5255378/188416.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E186" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E186
-http://b2p.li:80/series/6262789/5255378/188417.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E187" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E187
-http://b2p.li:80/series/6262789/5255378/188418.mp4
-
