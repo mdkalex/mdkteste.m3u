@@ -1131,10 +1131,51 @@ https://s3.gripe-ocore-nada-acotece.xyz/hls/hcrYpvNjGIcXkzP6-pAxtQ/1612624248/fi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mNEF1Rh.jpg" group-title="Filmes DC Comics",Mulher Maravilha 1984(2021)
 https://lbsuper.sfplayer.net/hls/cb038e693948079d8f58f5e17be67794/cb038e693948079d8f58f5e17be67794.m3u8
 
+############################### Cine Classic ########################################
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KquwBTX.png" group-title="Cine Classic",Aladdin - O Gênio na Garrafa
+https://ia801002.us.archive.org/1/items/abrilvideo/Aladdin%20-%20O%20G%C3%AAnio%20na%20Garrafa%20%28dublado%29.mp4
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://imgur.com/arXXV80.png" group-title="Cine Classic",Minha Noiva É Um Colosso (1959)
+https://ia803109.us.archive.org/17/items/minhanoivaeumcolosso1959dublagemclassicaloucostello/Minha%20Noiva%20%C3%A9%20um%20Colosso%20%281959%29%20Dublagem%20Cl%C3%A1ssica%20-%20Lou%20Costello.mp4
+
+#EXTINF:-1 tvg-id="2" tvg-logo="https://imgur.com/nIZlnpB.png" group-title="Cine Classic",Tempos Modernos (1936)
+https://ia903109.us.archive.org/11/items/TemposModernos1936Dvd5Iso/TemposModernos1936Dvd5.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/js9KjKm.png" group-title="Cine Classic",Desafio De Lassie (1949)
+https://ia801803.us.archive.org/29/items/desafio-de-lassie-1949-dublagem-classica-herbert-richers/Desafio%20de%20Lassie%20%281949%29%20Dublagem%20Cl%C3%A1ssica%20Herbert%20Richers.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/XdS0ed1.png" group-title="Cine Classic",Patuscada (1948)
+https://ia801003.us.archive.org/3/items/patuscada1948dubladomexicanhayridedvdrip/Patuscada%20%281948%29%20Dublado%20%28Mexican%20Hayride%29%20DVDRip.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/zUukF4N.png" group-title="Cine Classic",Bancando Granfinos (1944)
+https://ia803104.us.archive.org/5/items/bancandogranfinos1944dvdripdublagemclassicaaicsaopaulo/Bancando%20Granfinos%20%281944%29%20DVDRip%20Dublagem%20Cl%C3%A1ssica%20AIC%20S%C3%A3o%20Paulo.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/cMV1eCk.png" group-title="Cine Classic",Super Mario Bros (1993)
+https://ia601705.us.archive.org/35/items/filmemario-2/Filmemario2.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/NXSnbfX.png" group-title="Cine Classic",Drácula (1931)
+https://ia803102.us.archive.org/4/items/dracula1931dublagemclassicaaicsaopaulo/Dr%C3%A1cula%20%281931%29%20Dublagem%20Cl%C3%A1ssica%20AIC%20S%C3%A3o%20Paulo.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/PGPvRnq.png" group-title="Cine Classic",Ordinário, Marche! (1941)
+https://ia903106.us.archive.org/9/items/ordinariomarche1941dvdripdublado/Ordin%C3%A1rio%2C%20Marche%21%20%281941%29%20DVDRip%20Dublado.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/OYe4Ax0.png" group-title="Cine Classic",Bud Abbott & Lou Costello Em Hollywood (1945)
+https://ia803102.us.archive.org/6/items/budabbottloucostelloemhollywood1945dualaudiodvdrip/Bud%20Abbott%20%26%20Lou%20Costello%20em%20Hollywood%20%281945%29%20Dual%20Audio%20DVDRip.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://imgur.com/YuHq8T5.png" group-title="Cine Classic",Vontade Indômita (1949)
+https://ia801502.us.archive.org/32/items/vontade-indomita-1949-dublagem-classica/Vontade%20Ind%C3%B4mita%20%281949%29%20Dublagem%20Cl%C3%A1ssica.mp4
+
 ######################################  Filmes  ########################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JFnZviH.jpg" group-title="Filmes",Simbad e o Olho do Tigre(1977-hd)
+https://ia601404.us.archive.org/34/items/simbad-e-o-olho-do-tigre-1977-hd-dublado/Simbad%20e%20o%20Olho%20do%20Tigre%201977%20%20hd%20Dublado.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7kDJFV.jpg" group-title="Filmes",Obrigado por Fumar(2005)
+https://ia601507.us.archive.org/4/items/obrigadoporfumar_202102/obrigadoporfumar.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a8kbVWq.jpg" group-title="Filmes",As 7 Faces do Dr. Lao(1964)
-https://a-delivery4.mxdcontent.net/v/60cdfec880598745276b627c89dda6da.mp4?s=7aEoNVDrqGB_0IwtOeGLVw&e=1613266282&_t=1613249343
+https://ia601407.us.archive.org/28/items/as-7-faces-do-dr.-lao-dublado/As%207%20Faces%20do%20Dr.%20Lao%20Dublado.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pGOEU01.jpg" group-title="Filmes",13 Assassinos(2010)
 https://s1.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/13Assassinos/dub/video.json/index-v1-a1.m3u8
@@ -1401,3 +1442,1122 @@ https://lbsuper2.sfplayer.net/hls/2faad56ab9f7ac69e024e7be317530ba/2faad56ab9f7a
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XarhZQe.jpg" group-title="Filmes Religiosos",O Despertar da Fe(2012)
 https://lbsuper2.sfplayer.net/hls/2fc017bec557566ce178fd6227849912/2fc017bec557566ce178fd6227849912.m3u8
+
+############################### XENA ##########################################
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.01
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.02
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.03
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.04
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.05
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.06
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.07
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.08
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.09
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.10
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep10.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.11
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep11.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.12
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep12.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.13
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep13.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.14
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep14.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.15
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep15.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.16
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep16.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.17
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep17.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.18
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep18.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.19
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep19.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.20
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep20.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.21
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep21.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.22
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep22.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.23
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep23.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sIezomT.png" group-title="Xena: A Princesa Guerreira",Xena: A Princesa Guerreira T01 EP.24
+https://ia601400.us.archive.org/13/items/xena-a-princesa-guerreira/ep24.mp4
+
+############################### O GORDO E O MAGRO #############################
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - A Ceia dos Veteranos
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20%20A%20CEIA%20DOS%20VETERANOS.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - A Herança Assombrada
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20A%20HERAN%C3%87A%20ASSOMBRADA.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - A Liberdade e seus Perigos
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20A%20LIBERDADE%20E%20SEUS%20PERIGOS.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Dois Detetives da Pesada
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20DOIS%20DETETIVES%20DA%20PESADA.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Duas Babás para um Bebê
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20DUAS%20BAB%C3%81S%20PARA%20UM%20BEB%C3%8A.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Entrega a Domicílio
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20ENTREGA%20A%20DOMIC%C3%8DLIO.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Ladrão que rouba Ladrão
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20LADR%C3%83O%20QUE%20ROUBA%20LADR%C3%83O.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Marujos Trapalhões
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20MARUJOS%20TRAPALH%C3%95ES%281%29.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - O Destruidor de Lares
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20O%20DESTRUIDOR%20DE%20LARES.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - O Grande Negócio
+https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20O%20GRANDE%20NEG%C3%93CIO.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Orquestra Maluca
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20ORQUESTRA%20MALUCA.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Os Boemios do Barulho
+https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20OS%20BOEMIOS%20DO%20BARULHO.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Papai e Mamãe por Acaso
+https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20PAPAI%20E%20MAM%C3%83E%20POR%20ACASO.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Um Amor de Cabrita
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20AMOR%20DE%20CABRITA.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Um Duelo de Amor
+https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20DUELO%20DE%20AMOR.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Um Furo de Reportagem
+https://ia600106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20FURO%20DE%20REPORTAGEM%2000_00_05-00_17_31.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Momento de Glória
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UM%20MOMENTO%20DE%20GL%C3%93RIA.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Uma Luta de Risos
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UMA%20LUTA%20DE%20RISOS.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/qcv0SfC.png" group-title="O Gordo e o Magro",O Gordo e o Magro - Uma Luta sem Igual
+https://ia800106.us.archive.org/0/items/OGORDOEOMAGROLADROQUEROUBALADRO/O%20GORDO%20E%20O%20MAGRO%20-%20UMA%20LUTA%20SEM%20IGUAL.mp4
+
+############################### AGENTE 86 #####################################
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.01
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E01%20-%20Mr.%20Big%20%28Piloto%29.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.02
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E02%20-%20A%20Filha%20do%20Diplomata.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.03
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E03%20-%20Escola%20de%20Espi%C3%B5es.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.04
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E04%20-%20No%20Pa%C3%ADs%20dos%20Brinquedos.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.05
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E05%20-%20Brincando%20de%20Esconder.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.06
+https://ia600605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E06%20-%20Washington%204%2C%20Indios%203.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.07
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E07%20-%20Controlando%20a%20KAOS.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.08
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E08%20-%20O%20Dia%20em%20que%20Smart%20Tornou-se%20Covarde.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.09
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E09%20-%20Pra%C3%A7a%20do%20Diabo.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.10
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E10%20-%20Nosso%20Homem%20Bailarino.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.11
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E11%20-%20Chefes%20Demais.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.12
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E12%20-%20Meu%20Sobrinho%20o%20Espi%C3%A3o.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.13
+https://ia600605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E13%20-%20No%20Expresso%20do%20Oriente.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.14
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E14%20-%20Vampiro%20aos%20Domingos.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.15
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E15%20-%20Os%20Gordos%20Sobrevivem.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.16
+https://ia600605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E16%20-%20Agente%20Duplo.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.17
+https://ia600605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E17%20-%20Beijos%20para%20a%20KAOS.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.18
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E18%20-%20O%20Pergaminho%20do%20Espi%C3%A3o%20Morto.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.19
+https://ia600605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E19%20-%20De%20Volta%20a%20Prancheta%20de%20Desenho.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.20
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E20%20-%20S%C3%B3%20na%20Mente%20Dele.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.21
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E21%20-%20O%20Di%C3%A1rio.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.22
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E22%20-%20Smart%20o%20Malvado.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.23
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E23%20-%20Sou%20Apenas%20Humano.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.24
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E24%20-%20Acampamento%20na%20Montanha%20da%20Neblina%20Azul.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.25
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E25%20-%20O%20Espantoso%20Harry%20Hoo.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.26
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E26%20-%20Sinfonia%20Inacabada%20de%20Hubert.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.27
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E27%20-%20A%20Nau%20dos%20Espi%C3%B5es%20Parte%201.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.28
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E28%20-%20A%20Nau%20dos%20Espi%C3%B5es%20Parte%202.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.29
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E29%20-%20Encomenda%20para%20Beirute.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1vn0Equ.png" group-title="Agente 86",Agente 86 T01 Ep.30
+https://ia800605.us.archive.org/16/items/Agente86T01/Agente%2086%20T01E30%20-%20O%20%C3%9Altimo%20%C3%A9%20Sempre%20o%20Espi%C3%A3o.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86",Agente 86 T02 Ep.01 
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E01.Anatomy.of.a.Lover.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.02
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E02.Strike.While.the.Agent.is.Hot.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.03
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E03.A.Spy.for.a.Spy.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.04
+https://ia600500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E04.The.Only.Way.to.Die.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.05
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E05.Maxwell.Smart.Alias.Jimmy.Ballantine.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.06
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E06.Casablanca.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.07
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E07.The.Decoy.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.08
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E08.Hoo.Done.It.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.09
+https://ia600500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E09.Three.Spies.in.a.Sub.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.10
+https://ia600500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E10.The.Greatest.Spy.on.Earth.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.11
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E11.Island.of.the.Darned.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.12
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E12.Bronzefinger.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.13
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E13.Perils.in.a.Pet.Shop.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.14
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E14.The.Whole.Tooth.and.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.15
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E15.Kiss.of.Death.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.16
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E16.Takes.One.to.Know.One.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.17
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E17.Someone.Down.Here.Hates.Me.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.18
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E18.Cutback.at.CONTROL.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.19
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E19.The.Mummy.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.20
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E20.The.Girls.from.KAOS.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.21
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E21.The.Man.from.YENTA.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.22
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E22.Smart.Fit.the.Battle.of.Jericho.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.23
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E23.Where-What-How-Who.Am.I.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.24
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E24.The.Expendable.Agent.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.25
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E25.How.to.Succeed.in.the.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.26
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E26.Appointment.in.Sahara.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.27
+https://ia600500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E27.Pussycats.Galore.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.28
+https://ia600500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E28.A.Man.Called.Smart.-.Part.01.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.29
+https://ia600500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E29.A.Man.Called.Smart.-.Part.02.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yGG4A7q.png" group-title="Agente 86" pltv-subgroup="2ª TEMPORADA",Agente 86 T02 Ep.30
+https://ia800500.us.archive.org/0/items/Agente86/agente-86%2FAgente.86.%5BDVDRip%5D.S02E30.A.Man.Called.Smart.-.Part.03.by.Zordrack_%5BBR%5D.%5BTvRip.com.br%5D.mp4
+ 
+############################### CAVERNA DO DRAGÃO ###################################
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.01
+https://ia800106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago01.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.02
+https://ia800106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago02.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.03
+https://ia800106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago03.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.04
+https://ia800106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago04.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.05
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago05.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.06
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago06.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.07
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago07.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.08
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago08.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.09
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago09.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.10
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago10.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.11
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago11.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.12
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago12.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.13
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago13.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.14
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago14.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.15
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago15.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.16
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago16.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.17
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago17.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.18
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago18.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.19
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago19.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.20
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago20.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.21
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago21.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.22
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago22.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.23
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago23.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.24
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago24.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.25
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago25.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.26
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago26.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/s7Ev74x.png" group-title="Caverna do Dragão",Caverna do Dragão Ep.27
+https://ia600106.us.archive.org/3/items/DD.S01E01.A.Noite.Sem.Amanha.720p.SDTV.x264VCVix/CavernaDoDrago27.mp4
+
+############################### SERIES ######################################
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.01
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_01.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.02
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_02.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.03
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_03.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.04
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_04.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.05
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_05.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.06
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_06.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.07
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_07.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.08
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_08.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.09
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_09.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.10
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_10.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.11
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_11.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.12
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_12.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.13
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_13.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.14
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_14.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.15
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_15.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.16
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_16.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.17
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_17.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.18
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_18.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.19
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_19.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.20
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_20.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.21
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_21.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.22
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_22.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.23
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_23.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.24
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_24.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.25
+https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_25.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.26
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_26.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.27
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_27.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.28
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_28.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.29
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_29.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.30
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_30.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.31
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_31.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.32
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_32.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.33
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_33.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.34
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_34.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.35
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_35.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.36
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_36.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.37
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_37.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.38
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_38.mp4
+
+#EXTINF:-1´type="video" tvg-logo="https://imgur.com/9GieRB0.png" group-title="Ultraman 1966",Ultraman Ep.39
+https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_39.mp4
+
+############################### ELO PERDIDO ###################################
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.01 Cha Ka
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2001%20Cha%20Ka.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.02 O Deus dos Sleesstak
+https://ia902801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2002%20-%20O%20Deus%20dos%20Sleesstak.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.03 Dopey
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2003%20Dopey.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.04 Rio Abaixo
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2004%20Rio%20Abaixo.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.05 Equipe do Tag
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2005%20-%20Equipe%20do%20Tag.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.06 
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20perdido%20Epis%C3%B3dio%2006%20-%20%C3%81lbum.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.07 Álbum
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20perdido%20Epis%C3%B3dio%2007%20-%20%C3%81lbum.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.08 Skylons
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2008%20Skylons.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.09 O Buraco
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2009%20-%20O%20Buraco.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.10 O Paku Que Veio Para O Jantar
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2010%20-%20O%20Paku%20Que%20Veio%20Para%20O%20Jantar.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.11 A Pesquisa
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2011%20-%20A%20Pesquisa.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.12 A Possessão
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2012%20-%20A%20Possess%C3%A3o.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.13 Seguindo Aquele Dinossauro
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2013%20-%20Seguindo%20Aquele%20Dinossauro.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.14 Sopa de Pedra
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2014%20-%20Sopa%20de%20Pedra.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.15 Em Outro Lugar
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2015%20-%20Em%20Outro%20Lugar.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.16 Furacão
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2016%20-%20Furac%C3%A3o.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/VWFktrI.png" group-title="O Elo Perdido",T01 Ep.17 Círculo
+https://ia802801.us.archive.org/15/items/kaca_Elo/Elo%20Perdido%20Epis%C3%B3dio%2017%20-%20C%C3%ADrculo.mp4
+
+############################### ZOBOOMAFOO ###################################
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lDA5iKc.png" group-title="Zoboomafoo",Ep.01
+https://ia601404.us.archive.org/28/items/zoboomafoo-ep-01/Zoboomafoo%2001%20-%20A%20Tromba%20Sabida%20%28Dublado%29.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lDA5iKc.png" group-title="Zoboomafoo",Ep.02
+https://ia601404.us.archive.org/28/items/zoboomafoo-ep-01/Zoboomafoo%2002%20-%20%C3%B3culos%20especiais%20%28Dublado%29.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lDA5iKc.png" group-title="Zoboomafoo",Ep.03
+https://ia601404.us.archive.org/28/items/zoboomafoo-ep-01/Zoboomafoo%2003%20-%20dinossauros%20%28Dublado%29.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lDA5iKc.png" group-title="Zoboomafoo",Ep.04
+https://ia601404.us.archive.org/28/items/zoboomafoo-ep-01/Zoboomafoo%2004%20-%20Quem%20est%C3%A1%20na%20toca-%20%28Dublado%29.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lDA5iKc.png" group-title="Zoboomafoo",Ep.05
+https://ia601404.us.archive.org/28/items/zoboomafoo-ep-01/Zoboomafoo%2005%20-%20Feliz%20Dia%20do%20L%C3%AAmure%20%28Dublado%29.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lDA5iKc.png" group-title="Zoboomafoo",Ep.06 
+https://ia601404.us.archive.org/28/items/zoboomafoo-ep-01/Zoboomafoo%2006%20-%20Nadadores%20%28Dublado%29.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lDA5iKc.png" group-title="Zoboomafoo",Ep.07
+https://ia601404.us.archive.org/28/items/zoboomafoo-ep-01/Zoboomafoo%2007%20-%20Amigos%20Pegajosos%20%28Dublado%29.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lDA5iKc.png" group-title="Zoboomafoo",Ep.08
+https://ia601404.us.archive.org/28/items/zoboomafoo-ep-01/Zoboomafoo%2008%20-%20Dia%20de%20neve%20%28Dublado%29.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lDA5iKc.png" group-title="Zoboomafoo",Ep.09
+https://ia601404.us.archive.org/28/items/zoboomafoo-ep-01/Zoboomafoo%2009%20-%20Noturnos%20%28Dublado%29.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/lDA5iKc.png" group-title="Zoboomafoo",Ep.10
+https://ia601404.us.archive.org/28/items/zoboomafoo-ep-01/Zoboomafoo%2010%20-%20Escaladores%20%28Dublado%29.mp4
+
+########################################## Adultos[+18]
+
+#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Adultos[+18]",[+18] Playboy TV FHD
+http://dnsx.co:80/live/0915597625/fireurl.co/72221.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Adultos[+18]",[+18] Playboy TV FHD [H265]
+http://dnsx.co:80/live/0915597625/fireurl.co/72224.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Adultos[+18]",[+18] Playboy TV HD
+http://dnsx.co:80/live/0915597625/fireurl.co/72222.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/NE0" group-title="Adultos[+18]",[+18] Playboy TV SD
+http://dnsx.co:80/live/0915597625/fireurl.co/72223.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",[+18] Sextreme SD
+http://dnsx.co:80/live/0915597625/fireurl.co/91430.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",[+18] Sexy Hot SD
+http://dnsx.co:80/live/0915597625/fireurl.co/72310.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",[+18] Venus SD
+http://dnsx.co:80/live/0915597625/fireurl.co/91429.m3u8
+
+#EXTINF:-1 tvg-logo="http://a5.vc/x9T" group-title="Adultos[+18]",[24H] [+18] A Casa Das Brasileirinhas - Pack 1
+http://dnsx.co:80/live/0915597625/fireurl.co/48112.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/x9T" group-title="Adultos[+18]",[24H] [+18] A Casa Das Brasileirinhas - Pack 2
+http://dnsx.co:80/live/0915597625/fireurl.co/48113.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/x9T" group-title="Adultos[+18]",[24H] [+18] A Casa Das Brasileirinhas - Pack 3
+http://dnsx.co:80/live/0915597625/fireurl.co/48114.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/x9T" group-title="Adultos[+18]",[24H] [+18] A Casa Das Brasileirinhas - Pack 4
+http://dnsx.co:80/live/0915597625/fireurl.co/48115.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/t80" group-title="Adultos[+18]",[24H] [+18] Brazzers
+http://dnsx.co:80/live/0915597625/fireurl.co/48116.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Filmes Amadores
+http://dnsx.co:80/live/0915597625/fireurl.co/48117.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Filmes Brasileiras
+http://dnsx.co:80/live/0915597625/fireurl.co/48118.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Filmes Gozo 1
+http://dnsx.co:80/live/0915597625/fireurl.co/48119.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Filmes Gozo 2
+http://dnsx.co:80/live/0915597625/fireurl.co/48120.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Filmes Loira
+http://dnsx.co:80/live/0915597625/fireurl.co/48121.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Filmes Ruivas
+http://dnsx.co:80/live/0915597625/fireurl.co/48122.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Filmes Trans
+http://dnsx.co:80/live/0915597625/fireurl.co/48123.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Flagra
+http://dnsx.co:80/live/0915597625/fireurl.co/48124.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Videos Amadores
+http://dnsx.co:80/live/0915597625/fireurl.co/48125.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Videos Anal
+http://dnsx.co:80/live/0915597625/fireurl.co/48126.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Videos Brasileiras
+http://dnsx.co:80/live/0915597625/fireurl.co/48127.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Videos Hentai
+http://dnsx.co:80/live/0915597625/fireurl.co/48128.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Videos Lesbicas
+http://dnsx.co:80/live/0915597625/fireurl.co/48129.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Videos Mia Khalifa
+http://dnsx.co:80/live/0915597625/fireurl.co/48130.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Videos Porno Gay
+http://dnsx.co:80/live/0915597625/fireurl.co/48131.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Videos Ruivas
+http://dnsx.co:80/live/0915597625/fireurl.co/48132.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Videos Teste de Fudelidade
+http://dnsx.co:80/live/0915597625/fireurl.co/48133.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/cjY" group-title="Adultos[+18]",[24H] [+18] Wow Porn
+http://dnsx.co:80/live/0915597625/fireurl.co/48134.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 01
+http://dnsx.co:80/movie/0915597625/fireurl.co/34199.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 02
+http://dnsx.co:80/movie/0915597625/fireurl.co/34200.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 03
+http://dnsx.co:80/movie/0915597625/fireurl.co/34201.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 04
+http://dnsx.co:80/movie/0915597625/fireurl.co/34202.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 05
+http://dnsx.co:80/movie/0915597625/fireurl.co/34203.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 06
+http://dnsx.co:80/movie/0915597625/fireurl.co/34204.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 07
+http://dnsx.co:80/movie/0915597625/fireurl.co/34205.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 08
+http://dnsx.co:80/movie/0915597625/fireurl.co/34206.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 09
+http://dnsx.co:80/movie/0915597625/fireurl.co/34207.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 10
+http://dnsx.co:80/movie/0915597625/fireurl.co/34208.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 11
+http://dnsx.co:80/movie/0915597625/fireurl.co/34209.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 12
+http://dnsx.co:80/movie/0915597625/fireurl.co/34210.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 13
+http://dnsx.co:80/movie/0915597625/fireurl.co/34211.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 14
+http://dnsx.co:80/movie/0915597625/fireurl.co/34212.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 15
+http://dnsx.co:80/movie/0915597625/fireurl.co/34213.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 16
+http://dnsx.co:80/movie/0915597625/fireurl.co/34214.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 17
+http://dnsx.co:80/movie/0915597625/fireurl.co/34215.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 18
+http://dnsx.co:80/movie/0915597625/fireurl.co/34216.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 19
+http://dnsx.co:80/movie/0915597625/fireurl.co/34217.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 20
+http://dnsx.co:80/movie/0915597625/fireurl.co/34218.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 21
+http://dnsx.co:80/movie/0915597625/fireurl.co/34219.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 22
+http://dnsx.co:80/movie/0915597625/fireurl.co/34220.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 23
+http://dnsx.co:80/movie/0915597625/fireurl.co/34221.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 24
+http://dnsx.co:80/movie/0915597625/fireurl.co/34222.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 25
+http://dnsx.co:80/movie/0915597625/fireurl.co/34223.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 26
+http://dnsx.co:80/movie/0915597625/fireurl.co/34224.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 27
+http://dnsx.co:80/movie/0915597625/fireurl.co/34225.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BHpk45e.jpg" group-title="Adultos[+18]",XXX OnlyFans Lena The Plug 28
+http://dnsx.co:80/movie/0915597625/fireurl.co/34226.mp4
+#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",Adultos: A Casa Das Brasileirinhas S30 E01
+http://dnsx.co:80/series/0915597625/fireurl.co/17935.mp4
+#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",Adultos: A Casa Das Brasileirinhas S30 E02
+http://dnsx.co:80/series/0915597625/fireurl.co/17936.mp4
+#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",Adultos: A Casa Das Brasileirinhas S30 E03
+http://dnsx.co:80/series/0915597625/fireurl.co/17937.mp4
+#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",Adultos: A Casa Das Brasileirinhas S30 E04
+http://dnsx.co:80/series/0915597625/fireurl.co/17938.mp4
+#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",Adultos: A Casa Das Brasileirinhas S30 E05
+http://dnsx.co:80/series/0915597625/fireurl.co/17939.mp4
+#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",Adultos: A Casa Das Brasileirinhas S31 E01
+http://dnsx.co:80/series/0915597625/fireurl.co/17940.mp4
+#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",Adultos: A Casa Das Brasileirinhas S31 E02
+http://dnsx.co:80/series/0915597625/fireurl.co/17941.mp4
+#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",Adultos: A Casa Das Brasileirinhas S31 E03
+http://dnsx.co:80/series/0915597625/fireurl.co/17942.mp4
+#EXTINF:-1 tvg-logo="" group-title="Adultos[+18]",Adultos: A Casa Das Brasileirinhas S31 E04
+http://dnsx.co:80/series/0915597625/fireurl.co/17943.mp4
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E01
+http://b2p.li:80/series/6262789/5255378/188232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E02
+http://b2p.li:80/series/6262789/5255378/188233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E03
+http://b2p.li:80/series/6262789/5255378/188234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E04
+http://b2p.li:80/series/6262789/5255378/188235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E05
+http://b2p.li:80/series/6262789/5255378/188236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E06
+http://b2p.li:80/series/6262789/5255378/188237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E07
+http://b2p.li:80/series/6262789/5255378/188238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E08
+http://b2p.li:80/series/6262789/5255378/188239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E09
+http://b2p.li:80/series/6262789/5255378/188240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E10
+http://b2p.li:80/series/6262789/5255378/188241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E11
+http://b2p.li:80/series/6262789/5255378/188242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E12
+http://b2p.li:80/series/6262789/5255378/188243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E13
+http://b2p.li:80/series/6262789/5255378/188244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E14
+http://b2p.li:80/series/6262789/5255378/188245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E15
+http://b2p.li:80/series/6262789/5255378/188246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E16
+http://b2p.li:80/series/6262789/5255378/188247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E17
+http://b2p.li:80/series/6262789/5255378/188248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E18
+http://b2p.li:80/series/6262789/5255378/188249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E19
+http://b2p.li:80/series/6262789/5255378/188250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E20
+http://b2p.li:80/series/6262789/5255378/188251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E21
+http://b2p.li:80/series/6262789/5255378/188252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E22
+http://b2p.li:80/series/6262789/5255378/188253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E23
+http://b2p.li:80/series/6262789/5255378/188254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E24
+http://b2p.li:80/series/6262789/5255378/188255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E25
+http://b2p.li:80/series/6262789/5255378/188256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E26
+http://b2p.li:80/series/6262789/5255378/188257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E27
+http://b2p.li:80/series/6262789/5255378/188258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E28
+http://b2p.li:80/series/6262789/5255378/188259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E29
+http://b2p.li:80/series/6262789/5255378/188260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E30
+http://b2p.li:80/series/6262789/5255378/188261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E31
+http://b2p.li:80/series/6262789/5255378/188262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E32
+http://b2p.li:80/series/6262789/5255378/188263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E33
+http://b2p.li:80/series/6262789/5255378/188264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E34
+http://b2p.li:80/series/6262789/5255378/188265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E35
+http://b2p.li:80/series/6262789/5255378/188266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E36
+http://b2p.li:80/series/6262789/5255378/188267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E37
+http://b2p.li:80/series/6262789/5255378/188268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E38
+http://b2p.li:80/series/6262789/5255378/188269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E39
+http://b2p.li:80/series/6262789/5255378/188270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E40
+http://b2p.li:80/series/6262789/5255378/188271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E41
+http://b2p.li:80/series/6262789/5255378/188272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E42
+http://b2p.li:80/series/6262789/5255378/188273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E43
+http://b2p.li:80/series/6262789/5255378/188274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E44
+http://b2p.li:80/series/6262789/5255378/188275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E45
+http://b2p.li:80/series/6262789/5255378/188276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E46
+http://b2p.li:80/series/6262789/5255378/188277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E47
+http://b2p.li:80/series/6262789/5255378/188278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E48
+http://b2p.li:80/series/6262789/5255378/188279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E49
+http://b2p.li:80/series/6262789/5255378/188280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E50
+http://b2p.li:80/series/6262789/5255378/188281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E51
+http://b2p.li:80/series/6262789/5255378/188282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E52
+http://b2p.li:80/series/6262789/5255378/188283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E53
+http://b2p.li:80/series/6262789/5255378/188284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E54
+http://b2p.li:80/series/6262789/5255378/188285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E55
+http://b2p.li:80/series/6262789/5255378/188286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E56
+http://b2p.li:80/series/6262789/5255378/188287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E57
+http://b2p.li:80/series/6262789/5255378/188288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E58
+http://b2p.li:80/series/6262789/5255378/188289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E59
+http://b2p.li:80/series/6262789/5255378/188290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E60
+http://b2p.li:80/series/6262789/5255378/188291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E61
+http://b2p.li:80/series/6262789/5255378/188292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E62
+http://b2p.li:80/series/6262789/5255378/188293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E63
+http://b2p.li:80/series/6262789/5255378/188294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E64
+http://b2p.li:80/series/6262789/5255378/188295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E65
+http://b2p.li:80/series/6262789/5255378/188296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E66
+http://b2p.li:80/series/6262789/5255378/188297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E67
+http://b2p.li:80/series/6262789/5255378/188298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E68
+http://b2p.li:80/series/6262789/5255378/188299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E69
+http://b2p.li:80/series/6262789/5255378/188300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E70
+http://b2p.li:80/series/6262789/5255378/188301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E71
+http://b2p.li:80/series/6262789/5255378/188302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E72
+http://b2p.li:80/series/6262789/5255378/188303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E73
+http://b2p.li:80/series/6262789/5255378/188304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E74
+http://b2p.li:80/series/6262789/5255378/188305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E75
+http://b2p.li:80/series/6262789/5255378/188306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E76
+http://b2p.li:80/series/6262789/5255378/188307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E77
+http://b2p.li:80/series/6262789/5255378/188308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E78
+http://b2p.li:80/series/6262789/5255378/188309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E79
+http://b2p.li:80/series/6262789/5255378/188310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E80
+http://b2p.li:80/series/6262789/5255378/188311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E81
+http://b2p.li:80/series/6262789/5255378/188312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E82
+http://b2p.li:80/series/6262789/5255378/188313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E83
+http://b2p.li:80/series/6262789/5255378/188314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E84
+http://b2p.li:80/series/6262789/5255378/188315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E85
+http://b2p.li:80/series/6262789/5255378/188316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E86
+http://b2p.li:80/series/6262789/5255378/188317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E87
+http://b2p.li:80/series/6262789/5255378/188318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E88
+http://b2p.li:80/series/6262789/5255378/188319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E89
+http://b2p.li:80/series/6262789/5255378/188320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E90
+http://b2p.li:80/series/6262789/5255378/188321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E91
+http://b2p.li:80/series/6262789/5255378/188322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E92
+http://b2p.li:80/series/6262789/5255378/188323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E93
+http://b2p.li:80/series/6262789/5255378/188324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E94
+http://b2p.li:80/series/6262789/5255378/188325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E95
+http://b2p.li:80/series/6262789/5255378/188326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E96
+http://b2p.li:80/series/6262789/5255378/188327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E97
+http://b2p.li:80/series/6262789/5255378/188328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E98
+http://b2p.li:80/series/6262789/5255378/188329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E99
+http://b2p.li:80/series/6262789/5255378/188330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E100
+http://b2p.li:80/series/6262789/5255378/188331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E101" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E101
+http://b2p.li:80/series/6262789/5255378/188332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E102" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E102
+http://b2p.li:80/series/6262789/5255378/188333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E103" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E103
+http://b2p.li:80/series/6262789/5255378/188334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E104" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E104
+http://b2p.li:80/series/6262789/5255378/188335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E105" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E105
+http://b2p.li:80/series/6262789/5255378/188336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E106" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E106
+http://b2p.li:80/series/6262789/5255378/188337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E107" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E107
+http://b2p.li:80/series/6262789/5255378/188338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E108" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E108
+http://b2p.li:80/series/6262789/5255378/188339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E109" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E109
+http://b2p.li:80/series/6262789/5255378/188340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E110" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E110
+http://b2p.li:80/series/6262789/5255378/188341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E111" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E111
+http://b2p.li:80/series/6262789/5255378/188342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E112" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E112
+http://b2p.li:80/series/6262789/5255378/188343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E113" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E113
+http://b2p.li:80/series/6262789/5255378/188344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E114" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E114
+http://b2p.li:80/series/6262789/5255378/188345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E115" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E115
+http://b2p.li:80/series/6262789/5255378/188346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E116" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E116
+http://b2p.li:80/series/6262789/5255378/188347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E117" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E117
+http://b2p.li:80/series/6262789/5255378/188348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E118" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E118
+http://b2p.li:80/series/6262789/5255378/188349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E119" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E119
+http://b2p.li:80/series/6262789/5255378/188350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E120" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E120
+http://b2p.li:80/series/6262789/5255378/188351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E121" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E121
+http://b2p.li:80/series/6262789/5255378/188352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E122" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E122
+http://b2p.li:80/series/6262789/5255378/188353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E123" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E123
+http://b2p.li:80/series/6262789/5255378/188354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E124" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E124
+http://b2p.li:80/series/6262789/5255378/188355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E125" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E125
+http://b2p.li:80/series/6262789/5255378/188356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E126" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E126
+http://b2p.li:80/series/6262789/5255378/188357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E127" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E127
+http://b2p.li:80/series/6262789/5255378/188358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E128" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E128
+http://b2p.li:80/series/6262789/5255378/188359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E129" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E129
+http://b2p.li:80/series/6262789/5255378/188360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E130" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E130
+http://b2p.li:80/series/6262789/5255378/188361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E131" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E131
+http://b2p.li:80/series/6262789/5255378/188362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E132" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E132
+http://b2p.li:80/series/6262789/5255378/188363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E133" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E133
+http://b2p.li:80/series/6262789/5255378/188364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E134" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E134
+http://b2p.li:80/series/6262789/5255378/188365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E135" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E135
+http://b2p.li:80/series/6262789/5255378/188366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E136" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E136
+http://b2p.li:80/series/6262789/5255378/188367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E137" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E137
+http://b2p.li:80/series/6262789/5255378/188368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E138" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E138
+http://b2p.li:80/series/6262789/5255378/188369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E139" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E139
+http://b2p.li:80/series/6262789/5255378/188370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E140" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E140
+http://b2p.li:80/series/6262789/5255378/188371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E141" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E141
+http://b2p.li:80/series/6262789/5255378/188372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E142" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E142
+http://b2p.li:80/series/6262789/5255378/188373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E143" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E143
+http://b2p.li:80/series/6262789/5255378/188374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E144" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E144
+http://b2p.li:80/series/6262789/5255378/188375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E145" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E145
+http://b2p.li:80/series/6262789/5255378/188376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E146" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E146
+http://b2p.li:80/series/6262789/5255378/188377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E147" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E147
+http://b2p.li:80/series/6262789/5255378/188378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E148" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E148
+http://b2p.li:80/series/6262789/5255378/188379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E149" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E149
+http://b2p.li:80/series/6262789/5255378/188380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E150" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E150
+http://b2p.li:80/series/6262789/5255378/188381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E151" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E151
+http://b2p.li:80/series/6262789/5255378/188382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E152" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E152
+http://b2p.li:80/series/6262789/5255378/188383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E153" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E153
+http://b2p.li:80/series/6262789/5255378/188384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E154" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E154
+http://b2p.li:80/series/6262789/5255378/188385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E155" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E155
+http://b2p.li:80/series/6262789/5255378/188386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E156" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E156
+http://b2p.li:80/series/6262789/5255378/188387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E157" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E157
+http://b2p.li:80/series/6262789/5255378/188388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E158" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E158
+http://b2p.li:80/series/6262789/5255378/188389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E159" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E159
+http://b2p.li:80/series/6262789/5255378/188390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E160" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E160
+http://b2p.li:80/series/6262789/5255378/188391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E161" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E161
+http://b2p.li:80/series/6262789/5255378/188392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E162" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E162
+http://b2p.li:80/series/6262789/5255378/188393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E163" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E163
+http://b2p.li:80/series/6262789/5255378/188394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E164" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E164
+http://b2p.li:80/series/6262789/5255378/188395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E165" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E165
+http://b2p.li:80/series/6262789/5255378/188396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E166" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E166
+http://b2p.li:80/series/6262789/5255378/188397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E167" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E167
+http://b2p.li:80/series/6262789/5255378/188398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E168" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E168
+http://b2p.li:80/series/6262789/5255378/188399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E169" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E169
+http://b2p.li:80/series/6262789/5255378/188400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E170" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E170
+http://b2p.li:80/series/6262789/5255378/188401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E171" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E171
+http://b2p.li:80/series/6262789/5255378/188402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E172" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E172
+http://b2p.li:80/series/6262789/5255378/188403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E173" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E173
+http://b2p.li:80/series/6262789/5255378/188404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E174" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E174
+http://b2p.li:80/series/6262789/5255378/188405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E175" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E175
+http://b2p.li:80/series/6262789/5255378/188406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E176" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E176
+http://b2p.li:80/series/6262789/5255378/188407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E177" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E177
+http://b2p.li:80/series/6262789/5255378/188408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E178" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E178
+http://b2p.li:80/series/6262789/5255378/188409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E179" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E179
+http://b2p.li:80/series/6262789/5255378/188410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E180" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E180
+http://b2p.li:80/series/6262789/5255378/188411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E181" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E181
+http://b2p.li:80/series/6262789/5255378/188412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E182" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E182
+http://b2p.li:80/series/6262789/5255378/188413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E183" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E183
+http://b2p.li:80/series/6262789/5255378/188414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E184" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E184
+http://b2p.li:80/series/6262789/5255378/188415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E185" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E185
+http://b2p.li:80/series/6262789/5255378/188416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E186" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E186
+http://b2p.li:80/series/6262789/5255378/188417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROQUE SANTEIRO S01 E187" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2H3cFBfM2FxXMWsyVJhjd56ULn.jpg" group-title="NOVELA: ROQUE SANTEIRO",ROQUE SANTEIRO S01 E187
+http://b2p.li:80/series/6262789/5255378/188418.mp4
+
