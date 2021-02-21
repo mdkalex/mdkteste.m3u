@@ -390,12 +390,6 @@ http://stmv1.srvif.com:1935/retrotv/retrotv/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KlbMTBD.png" group-title="Infantil",Gospel Cartoon
 http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ZhTxu0F.png" group-title="Infantil",Play Kids
-http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ZhTxu0F.png" group-title="Infantil",Play Kids HD
-http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -1167,6 +1161,9 @@ https://ia803102.us.archive.org/6/items/budabbottloucostelloemhollywood1945duala
 https://ia801502.us.archive.org/32/items/vontade-indomita-1949-dublagem-classica/Vontade%20Ind%C3%B4mita%20%281949%29%20Dublagem%20Cl%C3%A1ssica.mp4
 
 ######################################  Filmes  ########################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJ8LsqC.jpg" group-title="Filmes",Monster Hunter(2021)CINEMA
+https://ia601506.us.archive.org/10/items/monster_hunter_cine/Monster_hunter._cine.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/As5KDpA.jpg" group-title="Filmes",A Hora da Escuridao(2011)
 https://ia601403.us.archive.org/14/items/a-hora-da-escuridao/A%20Hora%20da%20Escuridao.mp4
