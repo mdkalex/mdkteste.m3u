@@ -390,12 +390,6 @@ http://stmv1.srvif.com:1935/retrotv/retrotv/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KlbMTBD.png" group-title="Infantil",Gospel Cartoon
 http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ZhTxu0F.png" group-title="Infantil",Play Kids
-http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ZhTxu0F.png" group-title="Infantil",Play Kids HD
-http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -1168,13 +1162,22 @@ https://ia801502.us.archive.org/32/items/vontade-indomita-1949-dublagem-classica
 
 ######################################  Filmes  ########################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lCMGsXo.jpg" group-title="Filmes",He-Man e os Mestres do Universo(1987)
+https://archive.org/download/he-man-e-os-mestres-do-universo-1987/He-Man%20e%20os%20Mestres%20do%20Universo%20%281987%29.mkv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e57PXpu.jpg" group-title="Filmes",Os Embalos de Sabado a Noite(1977)
+https://archive.org/download/os.-embalos.de.-sabado.-noite/Os.Embalos.de.SAbado.Noite.mkv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJ8LsqC.jpg" group-title="Filmes",Monster Hunter(2021)CINEMA
+https://ia601506.us.archive.org/10/items/monster_hunter_cine/Monster_hunter._cine.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/As5KDpA.jpg" group-title="Filmes",A Hora da Escuridao(2011)
 https://ia601403.us.archive.org/14/items/a-hora-da-escuridao/A%20Hora%20da%20Escuridao.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NngGzIo.jpg" group-title="Filmes",A Corrente Do Bem(2000)
 https://ia601404.us.archive.org/25/items/a-corrente-do-bemdubladohd/A%20Corrente%20do%20Bem%28dublado%29hd.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8La8BD.jpg" group-title="Filmes",Simbad, O Marujo ( 1947)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8La8BD.jpg" group-title="Filmes",Simbad - O Marujo ( 1947)
 https://ia601508.us.archive.org/34/items/simbad-o-marujo-1947/Simbad%2C%20o%20Marujo%20%281947%29.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JFnZviH.jpg" group-title="Filmes",Simbad e o Olho do Tigre(1977-hd)
@@ -1378,6 +1381,15 @@ https://s4.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/fi
 
 #######################################################################################################  Filmes Livres  ########################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RI0m8cl.jpg" group-title="Filmes Livres",Arthur e os Minimoys(2006)
+https://ia601404.us.archive.org/3/items/arthur-e-os-minimoys-2006/Arthur%20e%20os%20Minimoys%202006.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ZhhGNi.jpg" group-title="Filmes Livres",Arthur e a Vingança de Maltazard(2009)
+https://ia601404.us.archive.org/3/items/arthur-e-os-minimoys-2006/Arthur%20e%20a%20Vinganc%CC%A7a%20de%20Maltazard%202009.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bhgBf35.jpg" group-title="Filmes Livres",Arthur e a Guerra dos Dois Mundos(2010)
+https://ia601404.us.archive.org/3/items/arthur-e-os-minimoys-2006/Arthur%20-%20A%20Guerra%20dos%20Dois%20Mundos%202010.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fvdDbBp.jpg" group-title="Filmes Livres",O Grande Ivan (2020)
 https://azureedge.azureedge.net/RCFServer5/ondemand/OGRNDIVN.mp4
 
@@ -1443,14 +1455,43 @@ https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/44896.mp4
 
 #######################################################################################################  Filmes Religiosos
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LyExvHP.jpg" group-title="Filmes Religiosos",Cartas Para Deus(2010)
+https://ia601500.us.archive.org/13/items/cartas-para-deusdublado-hd/Cartas%20Para%20Deus%28dublado%29HD.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1NVPBdR.jpg" group-title="Filmes Religiosos",À Prova de Fogo(2008)
-https://lbsuper.sfplayer.net/hls/1dfbf0731e1fcb170091d4157578005b/1dfbf0731e1fcb170091d4157578005b.m3u8
+https://ia601408.us.archive.org/25/items/a-prova-de-fogo-2008/A%20Prova%20de%20Fogo%282008%29.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zx6QOeD.jpg" group-title="Filmes Religiosos",Os Dez Mandamentos(1956)
-https://lbsuper2.sfplayer.net/hls/2faad56ab9f7ac69e024e7be317530ba/2faad56ab9f7ac69e024e7be317530ba.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zx6QOeD.jpg" group-title="Filmes Religiosos",Os Dez Mandamentos(1956)FHD
+https://archive.org/download/os.-dez.-mandamentos.-1956.-fhd/Os.Dez.Mandamentos.1956.FHD.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XarhZQe.jpg" group-title="Filmes Religiosos",O Despertar da Fe(2012)
-https://lbsuper2.sfplayer.net/hls/2fc017bec557566ce178fd6227849912/2fc017bec557566ce178fd6227849912.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XarhZQe.jpg" group-title="Filmes Religiosos",O Despertar da Fe(2012)SD
+https://ia601504.us.archive.org/24/items/o.-despertar.-da.-fe-2014-sd/O.Despertar.Da.Fe%282014%29SD.mp4
+
+############################### Jurassic World - Acampamento Jurássico ##########################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S01E01
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E01.mkv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S01E02
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E02.mkv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S01E03
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E03.mkv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S01E04
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E04.mkv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S01E05
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E05.mkv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S01E06
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E06.mkv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S01E07
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E07.mkv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S01E08
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E08.mkv
 
 ############################### XENA ##########################################
 
