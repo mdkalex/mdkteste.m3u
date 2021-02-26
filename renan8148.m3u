@@ -490,11 +490,6 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?PEDR
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports
 http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SPORTV3" tvg-logo="https://i.imgur.com/wCPHZsd.jpg" group-title="Esportes",SPORTV 3 SD1
-http://painel.pjtiptv.com.br/video.m3u8?acesso=377e572e16af300616ec194db87bc45f&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="SPORTV3" tvg-logo="https://i.imgur.com/wCPHZsd.jpg" group-title="Esportes",SPORTV 3 HD1
-
 #EXTINF:-1 tvg-id="SPORTV2" tvg-logo="https://i.imgur.com/NbsZCd1.jpg" group-title="Esportes",SPORTV 2 HD2
 http://dnsx.co:80/0915597625/fireurl.co/72324
 
@@ -782,9 +777,6 @@ http://srvx.io:80/0165466866/fireurl.co/90289
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c3reMwA.jpg" group-title="Variedades",Canal Viva SD3
 http://srvx.io:80/0165466866/fireurl.co/90290
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c3reMwA.jpg" group-title="Variedades",Canal Viva SD1
-http://painel.pjtiptv.com.br/video.m3u8?acesso=3267d3d9a2e98a782beffb437c66ade6&usuario=5e79779df031edb89bb60ef8418cbe9d
-
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades",Multishow
 http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -989,36 +981,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet SD3
 http://srvx.io:80/0165466866/fireurl.co/90620
 
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="DOCUMENTARIOS",Animal Planet SD1
-http://painel.pjtiptv.com.br/video.m3u8?acesso=840ce50e431a8aa8087f24f231e5d71a&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="AeE" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="DOCUMENTARIOS",A&E
-http://painel.pjtiptv.com.br/video.m3u8?acesso=5fdd67b65421f2c7dd2cd6417716a630&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHICS" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="DOCUMENTARIOS",National Geographic
-http://painel.pjtiptv.com.br/video.m3u8?acesso=fad3ff539c744af22b19b200303fa547&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="NATGEO WILD" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="DOCUMENTARIOS",Nat Geo Wild
-http://painel.pjtiptv.com.br/video.m3u8?acesso=10f97d83d23b7972175293356d045e7e&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="THE HISTORY CHANNEL" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="DOCUMENTARIOS",History
-http://painel.pjtiptv.com.br/video.m3u8?acesso=d49865557655c86bc5a9f2e7cc2c23f4&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="H2" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="DOCUMENTARIOS",H2
-http://painel.pjtiptv.com.br/video.m3u8?acesso=1da234e4549185c2089a32ae1c03a610&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-logo="http://i.imgur.com/sIN7H8e.png" group-title="DOCUMENTARIOS",Discovery Channel
-http://painel.pjtiptv.com.br/video.m3u8?acesso=c5770b100303803bb39992bc9e625be0&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="DOCUMENTARIOS",Discovery Turbo
-http://painel.pjtiptv.com.br/video.m3u8?acesso=307196ca9910762016d50026d64bb1cf&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="DOCUMENTARIOS",Investigação Discovery
-http://painel.pjtiptv.com.br/video.m3u8?acesso=eaae93b9eca8ee46e7ffe96452ade1c3&usuario=5e79779df031edb89bb60ef8418cbe9d
-
-#EXTINF:-1 tvg-id="DISCOVERY HOME e HEALTH" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="DOCUMENTARIOS",Discovery Home & Health
-http://painel.pjtiptv.com.br/video.m3u8?acesso=d5f873a0172331e0269dcf01ff68c7c2&usuario=5e79779df031edb89bb60ef8418cbe9d
-
 ############################################################  Filmes Marvel Studios  ############################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JLh0B4x.jpg" group-title="Filmes Marvel Studios",Homem de Ferro - 2008
@@ -1162,6 +1124,18 @@ https://ia801502.us.archive.org/32/items/vontade-indomita-1949-dublagem-classica
 
 ######################################  Filmes  ########################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2jsuq8.jpeg" group-title="Filmes",K-9 Um Policial Bom Pra Cachorro 3(2002)
+https://ia601402.us.archive.org/34/items/k-9-detetive-particular-2002/K-9%20Detetive%20Particular%282002%29.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YmcZ3GR.jpg" group-title="Filmes",K-911 - Um Policial Bom Pra Cachorro 2(1999)
+https://ia601507.us.archive.org/17/items/k-911-um-policial-bom-pra-cachorro-2-1999/K-911%20Um%20Policial%20Bom%20pra%20Cachorro%20%202%281999%29.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/trWeGtr.jpg" group-title="Filmes",K-9 Um Policial Bom Pra Cachorro(1989)
+https://ia601400.us.archive.org/8/items/k-9-um-policial-bom-pra-cachorro-1989/K-9%20Um%20Policial%20Bom%20pra%20Cachorro%20%281989%29.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/18ewRaw.jpg" group-title="Filmes",O Seresteiro de Acapulco(1963)
+https://archive.org/download/o.seresteiro.de.-acapulco/O.seresteiro.de.Acapulco.mkv
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fkc1KfP.jpg" group-title="Filmes",Massacre no Bairro Japones(1991)
 https://archive.org/download/massacre.no.-bairro.-japones.-1981/Massacre.no.Bairro.Japone%CC%82s.1981.mkv
 
@@ -1184,7 +1158,7 @@ https://ia601403.us.archive.org/14/items/a-hora-da-escuridao/A%20Hora%20da%20Esc
 https://ia601404.us.archive.org/25/items/a-corrente-do-bemdubladohd/A%20Corrente%20do%20Bem%28dublado%29hd.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8La8BD.jpg" group-title="Filmes",Simbad O Marujo (1947)
-https://ia601508.us.archive.org/34/items/simbad-o-marujo-1947/Simbad%2C%20o%20Marujo%20%281947%29.mp4
+https://archive.org/download/simbad-o-marujo-1947/Simbad%2C%20o%20Marujo%20%281947%29.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RAEVtLR.jpg" group-title="Filmes",As Novas Viagens de Simbad(1973)
 https://archive.org/download/as.-novas.-viagens.-de.-simbad/As.Novas.Viagens.De.Simbad.mkv
@@ -1361,6 +1335,9 @@ https://s3.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/fi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/amAzWVx.jpg" group-title="Filmes",Bill & Ted: Encare a Música 2020
 https://lbsuper2.sfplayer.net/hls/775fa0c883aacbf35134c1edfca91bc5/775fa0c883aacbf35134c1edfca91bc5.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q0H0xBT.jpg" group-title="Filmes",Bill e Ted - Dois Loucos no Tempo (1991)
+https://ia601507.us.archive.org/34/items/bill-ted-2/BillTed2.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BHMAnw0.jpg" group-title="Filmes",Taxi - 2004
 https://s3.gripe-ocore-nada-acotece.xyz/hls/7CtKZffwpxKG_82jFwTweg/1611933047/filmes/Taxi/dub/video.json/index-v1-a1.m3u8
 
@@ -1392,6 +1369,12 @@ https://lbsuper.sfplayer.net/hls/5083167f5ef20b8104d2b1cdd964abaa/5083167f5ef20b
 https://s4.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/Warcraft/dub/video.json/index-v1-a1.m3u8
 
 #######################################################################################################  Filmes Livres  ########################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgY8MwB.jpeg" group-title="Filmes Livres",O Bom Gigante Amigo(2016)
+https://ia601500.us.archive.org/10/items/o-bom-gigante-amigo-2016/O%20Bom%20Gigante%20Amigo%202016.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Llrg4hs.jpg" group-title="Filmes Livres",Flora e Ulysses(2021)
+https://archive.org/download/flora.e.-ulysses-2021/Flora.e.Ulysses%282021%29.mkv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RI0m8cl.jpg" group-title="Filmes Livres",Arthur e os Minimoys(2006)
 https://ia601404.us.archive.org/3/items/arthur-e-os-minimoys-2006/Arthur%20e%20os%20Minimoys%202006.mp4
@@ -1436,10 +1419,13 @@ https://lbsuper2.sfplayer.net/hls/602666b6cc202cc2ebf3f75822b67ea1/602666b6cc202
 https://lbsuper.sfplayer.net/hls/0579546bbc15d80fbfe5930550d7aa33/0579546bbc15d80fbfe5930550d7aa33.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fz2vTZ8.jpg" group-title="Filmes Livres",O Bom Dinossauro - 2015
-https://lbsuper2.sfplayer.net/hls/c58cff2b07d3d30c463c829eb12a0ac7/c58cff2b07d3d30c463c829eb12a0ac7.m3u8
+https://archive.org/download/o-bom-dinossauro_202102/O%20Bom%20Dinossauro.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yFsLgsW.jpg" group-title="Filmes Livres",Phineas e Ferb - O Filme: Candace Contra o Universo - 2020
-https://s2.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/PhineasEFerbCandaceContraOUniverso/dub/video.json/index-f2-v1-f1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yFsLgsW.jpg" group-title="Filmes Livres",Phineas e Ferb - O Filme: Candace Contra o Universo(2020)
+https://archive.org/download/phineas.and.-ferb-2020/Phineas.and.Ferb%282020%29.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZJlgOH.jpg" group-title="Filmes Livres",Phineas e Ferb - O Filme Através da 2ª Dimensão(2011)
+https://ia601404.us.archive.org/26/items/phineas-e-ferb-filme-2011/Phineas%20e%20Ferb_filme%282011%29.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iIi7rFx.jpg" group-title="Filmes Livres",Luccas Neto em: Perdidos na Noite de Natal 2018
 https://s3.us-west-1.wasabisys.com/m.abrirvideo.cf/-f-i-l-m-e-s-/dub/10160.mp4
@@ -1474,7 +1460,7 @@ https://ia601500.us.archive.org/13/items/cartas-para-deusdublado-hd/Cartas%20Par
 https://ia601408.us.archive.org/25/items/a-prova-de-fogo-2008/A%20Prova%20de%20Fogo%282008%29.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zx6QOeD.jpg" group-title="Filmes Religiosos",Os Dez Mandamentos(1956)FHD
-https://archive.org/download/os.-dez.-mandamentos.-1956.-fhd/Os.Dez.Mandamentos.1956.FHD.mkv
+https://archive.org/download/os.-dez.-mandamentos.-1956.sd/Os.Dez.Mandamentos.1956.sd.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XarhZQe.jpg" group-title="Filmes Religiosos",O Despertar da Fe(2012)SD
 https://ia601504.us.archive.org/24/items/o.-despertar.-da.-fe-2014-sd/O.Despertar.Da.Fe%282014%29SD.mp4
@@ -1482,28 +1468,52 @@ https://ia601504.us.archive.org/24/items/o.-despertar.-da.-fe-2014-sd/O.Desperta
 ############################### Jurassic World - Acampamento Jurássico ##########################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S01E01
-https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E01.mkv
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E01.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S01E02
-https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E02.mkv
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E02.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S01E03
-https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E03.mkv
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E03.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S01E04
-https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E04.mkv
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E04.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S01E05
-https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E05.mkv
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E05.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S01E06
-https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E06.mkv
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E06.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S01E07
-https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E07.mkv
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E07.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S01E08
-https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E08.mkv
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/Jurassic.World.Camp.Cretaceous.S01E08.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S02.E01 - Um Sinal de Esperanca
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/S02.E01%20-%20Um%20Sinal%20de%20Esperanc%CC%A7a.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S02.E02 - A Arte da Calma
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/S02.E02%20-%20A%20Arte%20da%20Calma.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S02.E03 - O Bebedouro
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/S02.E03%20-%20O%20Bebedouro.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S02.E04 - Salvacao
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/S02.E04%20-%20Salvac%CC%A7a%CC%83o.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S02.E05 - Coragem
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/S02.E05%20-%20Coragem.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S02.E06 - Desviados
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/S02.E06%20-%20Desviados.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S02.E07 - Primeiro Passo
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/S02.E07%20-%20Primeiro%20Passo.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVrsN8u.jpg" group-title="Jurassic World - Acampamento Jurássico",S02.E08 - Teoria do Caos
+https://archive.org/download/jurassic.-world.-camp.-cretaceous.-s-01-e-01.720p.-web-dl.-6-ch.x-264-dual.-comando.-to/S02.E08%20-%20Teoria%20do%20Caos.mp4
 
 ############################### XENA ##########################################
 
