@@ -1080,6 +1080,9 @@ https://lbsuper.sfplayer.net/hls/cb038e693948079d8f58f5e17be67794/cb038e69394807
 
 ############################### Cine Classic ########################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ieQAUeF.jpg" group-title="Cine Classic",O Grande Lutador(1980)
+https://ia601403.us.archive.org/17/items/o.-grande.-lutador.-1980/O.Grande.Lutador.1980.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dx2CgHs.jpg" group-title="Cine Classic",Jeca Tatu(1960)
 https://archive.org/download/mazzaropi-jeca-tatu/Mazzaropi%20-%20Jeca%20Tatu.mkv
 
@@ -1159,6 +1162,9 @@ https://ia801503.us.archive.org/5/items/os.-embalos.de.-sabado.-noite/Os.Embalos
 https://ia601506.us.archive.org/4/items/as-7-faces-do-dr.-lao-dublado_202102/As%207%20Faces%20do%20Dr.%20Lao%20Dublado.mp4
 
 ######################################  Filmes  ########################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aObMc46.jpg" group-title="Filmes",Dagon(2001)
+https://ia601405.us.archive.org/24/items/dagon-2001/Dagon%282001%29.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q9UQ0oB.jpg" group-title="Filmes",Valhalla - A Lenda de Thor (2019)
 https://archive.org/download/a-lenda-de-thor-2020/A%20Lenda%20de%20Thor%202020.mp4
