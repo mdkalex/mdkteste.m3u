@@ -1080,6 +1080,9 @@ https://lbsuper.sfplayer.net/hls/cb038e693948079d8f58f5e17be67794/cb038e69394807
 
 ############################### Cine Classic ########################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dx2CgHs.jpg" group-title="Cine Classic",Jeca Tatu(1960)
+https://archive.org/download/mazzaropi-jeca-tatu/Mazzaropi%20-%20Jeca%20Tatu.mkv
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RpfQbvV.jpg" group-title="Cine Classic",Feitiço De Aquila(1985)
 https://ia601402.us.archive.org/31/items/feitico-de-aquila.-1985/Feitic%CC%A7o%20de%20Aquila.1985.mp4
 
@@ -1375,6 +1378,9 @@ https://lbsuper.sfplayer.net/hls/5083167f5ef20b8104d2b1cdd964abaa/5083167f5ef20b
 https://s4.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/Warcraft/dub/video.json/index-v1-a1.m3u8
 
 #######################################################################################################  Filmes Livres  ########################################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R2mpll1.jpg" group-title="Filmes Livres",Um Herói De Brinquedo(1996)
+https://ia601405.us.archive.org/35/items/um-heroi-de-brinquedo/Um%20Hero%CC%81i%20de%20Brinquedo.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4iYg8RB.jpg" group-title="Filmes Livres",Nicky e o Feitiço do Dragão(2017)
 https://ia601506.us.archive.org/8/items/nicky.e.o.-feitico.do.-dragao/Nicky.e.o.Feitic%CC%A7o.do.Draga%CC%83o.mp4
