@@ -1080,14 +1080,17 @@ https://lbsuper.sfplayer.net/hls/cb038e693948079d8f58f5e17be67794/cb038e69394807
 
 ############################### Cine Classic ########################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tiRlE1s.jpg" group-title="Cine Classic",Eu,Christiane F – 13 Anos,Drogada e Prostituída(1981)
+https://archive.org/download/eu-cf13-anos-dp/Eu%2C%20Christiane%20F.%2013%20anos%20Drogada%20e%20Prostitui%CC%81da.avi
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9sps9gZ.jpg" group-title="Cine Classic",As Tartarugas Ninja III(1993)
-https://ia601500.us.archive.org/5/items/as-tartarugas-ninjas-1990/As%20Tartarugas%20Ninja%20III%20%281993%29.mp4
+https://archive.org/download/as-tartarugas-ninjas-1990/As%20Tartarugas%20Ninja%20III%20%281993%29.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IF3LZ7R.jpg" group-title="Cine Classic",As Tartarugas Ninja II - O Segredo do Ooze(1991)
-https://ia601500.us.archive.org/5/items/as-tartarugas-ninjas-1990/As%20Tartarugas%20Ninja%20II%20-%20O%20Segredo%20do%20Ooze%20%281991%29.mp4
+https://archive.org/download/as-tartarugas-ninjas-1990/As%20Tartarugas%20Ninja%20II%20-%20O%20Segredo%20do%20Ooze%20%281991%29.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OBih1pv.jpg" group-title="Cine Classic",As Tartarugas Ninja(1990)
-https://ia601500.us.archive.org/5/items/as-tartarugas-ninjas-1990/As%20Tartarugas%20Ninjas%281990%29.mp4
+https://archive.org/download/as-tartarugas-ninjas-1990/As%20Tartarugas%20Ninjas%281990%29.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7kCmJdP.jpg" group-title="Cine Classic",Krull(1983)
 https://ia601407.us.archive.org/4/items/krull-1983_202103/Krull%281983%29.mp4
