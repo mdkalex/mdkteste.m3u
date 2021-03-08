@@ -1080,6 +1080,9 @@ https://lbsuper.sfplayer.net/hls/cb038e693948079d8f58f5e17be67794/cb038e69394807
 
 ############################### Cine Classic ########################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fzqDIP7.jpg" group-title="Cine Classic",Furia Silenciosa(1982)
+https://archive.org/download/furia.-silenciosa-1982/Furia.Silenciosa%281982%29.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tiRlE1s.jpg" group-title="Cine Classic",Eu,Christiane F – 13 Anos,Drogada e Prostituída(1981)
 https://archive.org/download/eu-cf13-anos-dp/Eu%2C%20Christiane%20F.%2013%20anos%20Drogada%20e%20Prostitui%CC%81da.avi
 
