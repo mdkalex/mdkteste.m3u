@@ -131,10 +131,13 @@ http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8?PEDROJUNIO
 #EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record RJ HD
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
+#EXTINF:-1 tvg-id="BAND VALETV" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta",Band Vale TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1615348484/ei/pO5HYMqLB8KswgSCwo7wAQ/ip/170.78.33.4/id/ywcrZXsqPQ8.1/source/yt_live_broadcast/requiressl/yes/tx/23977104/txs/23977102%2C23977103%2C23977104%2C23977105%2C23977106/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001374%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgah5YseulICDbR9USMB_XIHAmLTDGpr5v-iyKXHGts-UCIQDdhlbheQDSyu2HSibVHx_ApZJvyYsxhmcfIFouqGKjHg%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-id="BAND SP" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta",Band SP
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="BAND SP" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta",Band SP HD
+#EXTINF:-1 tvg-id="BAND SP" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta",Band PR HD
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2102620497.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT Interior HD
