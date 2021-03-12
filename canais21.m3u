@@ -977,6 +977,9 @@ http://srvx.io:80/0165466866/fireurl.co/90620
 
 ############################### Cine Classic ########################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZWpW95b.jpg" group-title="Cine Classic",King Kong(1976)
+https://archive.org/download/king-kong-1976/King%20Kong%281976%29.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tlegjst.jpg" group-title="Cine Classic",Comando Delta 3: O Jogo da Morte(1991)
 https://archive.org/download/comando.-delta.-3.-o.-jogo.-da.-morte.-1991/Comando.Delta.3.O.Jogo.Da.Morte.%281991%29.ia.mp4
 
@@ -1131,8 +1134,14 @@ https://ia601507.us.archive.org/34/items/bill-ted-2/BillTed2.mp4
 
 #######################################################################################################  Filmes Livres  ########################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RbTjTot.jpg" group-title="Filmes Livres",Raya e o ultimo Dragao(2021)
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lCb0Lnb.jpg" group-title="Filmes Livres",Sapatinho Vermelho eos Sete Anoes(2019)
+https://archive.org/download/sapatinho.-vermelho.e.os.-sete.-anoes/Sapatinho.Vermelho.e.os.Sete.Anoes.ia.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CtNWCeC.jpg" group-title="Filmes Livres",Gasparzinho O Fantasminha Camarada(1995)
-https://ia601509.us.archive.org/15/items/gasparzinho-o-fantasminha-camarada-1995/Gasparzinho%20o%20Fantasminha%20Camarada%20%281995%29.mp4
+https://ia601509.us.archive.org/15/items/gasparzinho-o-fantasminha-camarada-1995/Gasparzinho%20o%20Fantasminha%20Camarada%20%281995%29.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KnNwcAi.jpg" group-title="Filmes Livres",A Guerra do Hambúrguer(1997)
 https://ia601407.us.archive.org/1/items/good-burger-1997_202103/Good%20Burger%281997%29.mp4
@@ -1176,36 +1185,6 @@ https://ia601404.us.archive.org/3/items/arthur-e-os-minimoys-2006/Arthur%20-%20A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fvdDbBp.jpg" group-title="Filmes Livres",O Grande Ivan (2020)
 https://azureedge.azureedge.net/RCFServer5/ondemand/OGRNDIVN.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HwdNatu.jpg" group-title="Filmes Livres",Xico - O Cachorro Mágico(2020)
-https://lbsuper.sfplayer.net/hls/695c76df43cbc1da0d499e2d5a4f9d60/695c76df43cbc1da0d499e2d5a4f9d60.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E3cUSgE.jpg" group-title="Filmes Livres",Super Urso: Um Resgate na Cidade Grande(2017)
-https://lbsuper.sfplayer.net/hls/4efa737cbda1c5bb66d224ce8e027cec/4efa737cbda1c5bb66d224ce8e027cec.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CNCgt1x.jpg" group-title="Filmes Livres",Abominável(2019)
-https://s2.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/Abominavel/dub/video.json/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sj7og25.jpg" group-title="Filmes Livres",Klaus(2019)
-https://s2.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/Klaus/dub/video.json/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nP4ilOH.jpg" group-title="Filmes Livres",Nível Hard(2020)
-https://s2.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/NivelHard/dub/video.json/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DBf1ZoH.jpg" group-title="Filmes Livres",O Parque dos Sonhos(2019)
-https://lbsuper2.sfplayer.net/hls/a71771b72c921c992b5a93db2ba13bab/a71771b72c921c992b5a93db2ba13bab.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/56Cd4tR.jpg" group-title="Filmes Livres",SCOOBY! O Filme - 2020
-https://lbsuper.sfplayer.net/hls/10d05fe74147af3af3c9e09c199bd14f/10d05fe74147af3af3c9e09c199bd14f.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9bnEkiQ.jpg" group-title="Filmes Livres",UglyDolls - 2019
-https://lbsuper.sfplayer.net/hls/50038d6653e8b90c433915614cca3ffe/50038d6653e8b90c433915614cca3ffe.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OGd2X3k.jpg" group-title="Filmes Livres",Corgi: Top Dog - 2019
-https://lbsuper2.sfplayer.net/hls/602666b6cc202cc2ebf3f75822b67ea1/602666b6cc202cc2ebf3f75822b67ea1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rduOIx0.jpg" group-title="Filmes Livres",Dora e a Cidade Perdida - 2019
-https://lbsuper.sfplayer.net/hls/0579546bbc15d80fbfe5930550d7aa33/0579546bbc15d80fbfe5930550d7aa33.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fz2vTZ8.jpg" group-title="Filmes Livres",O Bom Dinossauro - 2015
 https://archive.org/download/o-bom-dinossauro_202102/O%20Bom%20Dinossauro.mp4
 
@@ -1214,30 +1193,6 @@ https://archive.org/download/phineas.and.-ferb-2020/Phineas.and.Ferb%282020%29.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZJlgOH.jpg" group-title="Filmes Livres",Phineas e Ferb - O Filme Através da 2ª Dimensão(2011)
 https://ia601404.us.archive.org/26/items/phineas-e-ferb-filme-2011/Phineas%20e%20Ferb_filme%282011%29.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iIi7rFx.jpg" group-title="Filmes Livres",Luccas Neto em: Perdidos na Noite de Natal 2018
-https://s3.us-west-1.wasabisys.com/m.abrirvideo.cf/-f-i-l-m-e-s-/dub/10160.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9zl8u5h.jpg" group-title="Filmes Livres",Vombate ao Combate - 2020 
-https://lbsuper.sfplayer.net/hls/05768ec5234e030ffce33b1eac6cf4fd/05768ec5234e030ffce33b1eac6cf4fd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MeCl2K5.jpg" group-title="Filmes Livres",Bob Esponja: O Incrível Resgate - 2020
-https://lbsuper.sfplayer.net/hls/724bf9f351444dd1172fc906197c06b1/724bf9f351444dd1172fc906197c06b1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W3fRlzt.jpg" group-title="Filmes Livres",Trolls 2 - 2020
-https://lbsuper.sfplayer.net/hls/1e0aef07dc6d66038fa17e7503f65d9c/1e0aef07dc6d66038fa17e7503f65d9c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XgKJCzx.jpg" group-title="Filmes Livres",Megamente(2010)
-https://lbsuper2.sfplayer.net/hls/01f35e40ae4e407fda33f72c826d025a/01f35e40ae4e407fda33f72c826d025a.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MBRnw81.jpg" group-title="Filmes Livres",O Segredo dos Animais(2006)
-https://s3.gripe-ocore-nada-acotece.xyz/hls/3FhoOwZkhRblGLYXYBH6PA/1613315449/filmes/OSegredoDosAnimais/dub/video.json/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZR5O2D.jpg" group-title="Filmes Livres",Sing – Quem Canta Seus Males Espanta 2016
-https://jwwge18508endzd.belugacdn.link/-f-i-l-m-e-s-/dub/335797.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zbn0kYd.jpg" group-title="Filmes Livres",Rango 2011
-https://fanib13068ajdfe.belugacdn.link/-f-i-l-m-e-s-/dub/44896.mp4
 
 #######################################################################################################  Filmes Religiosos
 
