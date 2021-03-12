@@ -977,8 +977,14 @@ http://srvx.io:80/0165466866/fireurl.co/90620
 
 ############################### Cine Classic ########################################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tlegjst.jpg" group-title="Cine Classic",Comando Delta 3: O Jogo da Morte(1991)
+https://archive.org/download/comando.-delta.-3.-o.-jogo.-da.-morte.-1991/Comando.Delta.3.O.Jogo.Da.Morte.%281991%29.ia.mp4
 
-##EXTINF:-1 tvg-logo="https://i.imgur.com/2poJYsE.jpg" group-title="Cine Classic",Comando Delta(1986)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hE8ICbn.jpg" group-title="Cine Classic",Comando Delta 2: Conexao Colombia(1990)
+https://archive.org/download/comando.-delta.-2.-conexao.-colombia-1990/Comando.Delta.2.Conexao.Colombia%281990%29.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2poJYsE.jpg" group-title="Cine Classic",Comando Delta(1986)
+https://archive.org/download/comando.-delta-1986/Comando.Delta%281986%29.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G9ZeJYK.jpg" group-title="Cine Classic",Conan - o Destruidor(1984)
 https://ia601506.us.archive.org/28/items/conan-o-destruidor-1984/Conan%2C%20o%20Destruidor%281984%29.mp4
@@ -1076,10 +1082,10 @@ https://ia601506.us.archive.org/4/items/as-7-faces-do-dr.-lao-dublado_202102/As%
 ######################################  Filmes  ########################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s7DwwTX.jpg" group-title="Filmes",Um Tira no Jardim de Infancia(1990)
-https://archive.org/download/um.-tira.-no.-jardim.-da.-infancia.-1990./Um.Tira.No.Jardim.Da.Infancia.1990..mp4
+https://archive.org/download/um.-tira.-no.-jardim.-da.-infancia.-1990./Um.Tira.No.Jardim.Da.Infancia.1990..ia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PHFBEY1.jpg" group-title="Filmes",Um Tira no Jardim de Infancia 2(2016)
-https://archive.org/download/um-tira-no-jardim-de-infancia-2/Um%20Tira%20no%20Jardim%20de%20Infancia%202.mp4
+https://archive.org/download/um-tira-no-jardim-de-infancia-2/Um%20Tira%20no%20Jardim%20de%20Infancia%202.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q9UQ0oB.jpg" group-title="Filmes",Valhalla - A Lenda de Thor (2019)
 https://archive.org/download/a-lenda-de-thor-2020/A%20Lenda%20de%20Thor%202020.mp4
