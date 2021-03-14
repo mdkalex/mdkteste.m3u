@@ -978,10 +978,13 @@ http://srvx.io:80/0165466866/fireurl.co/90620
 ############################### Cine Classic ########################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZWpW95b.jpg" group-title="Cine Classic",King Kong(1976)
-https://archive.org/download/king-kong-1976/King%20Kong%281976%29.mp4
+https://archive.org/download/king-kong-1976_202103/King%20Kong%28%201976%20%29.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tlegjst.jpg" group-title="Cine Classic",Comando Delta 3: O Jogo da Morte(1991)
 https://archive.org/download/comando.-delta.-3.-o.-jogo.-da.-morte.-1991/Comando.Delta.3.O.Jogo.Da.Morte.%281991%29.ia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cHE9BP0.jpg" group-title="Cine Classic",Furia Silenciosa(1982)
+https://archive.org/download/furia.-silenciosa-1982/Furia.Silenciosa%281982%29.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hE8ICbn.jpg" group-title="Cine Classic",Comando Delta 2: Conexao Colombia(1990)
 https://archive.org/download/comando.-delta.-2.-conexao.-colombia-1990/Comando.Delta.2.Conexao.Colombia%281990%29.ia.mp4
@@ -1135,10 +1138,10 @@ https://ia601507.us.archive.org/34/items/bill-ted-2/BillTed2.mp4
 #######################################################################################################  Filmes Livres  ########################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbTjTot.jpg" group-title="Filmes Livres",Raya e o ultimo Dragao(2021)
-https://archive.org/download/raya-e-o-ultimo-dragao_202103/Raya%20e%20o%20Ultimo%20Dragao.mp4
+https://archive.org/download/raya-e-o-ultimo-dragao_20210313/Raya%20e%20o%20Ultimo%20Dragao.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lCb0Lnb.jpg" group-title="Filmes Livres",Sapatinho Vermelho eos Sete Anoes(2019)
-https://archive.org/download/sapatinho.-vermelho.e.os.-sete.-anoes/Sapatinho.Vermelho.e.os.Sete.Anoes.ia.mp4
+https://archive.org/download/sapatinho.-vermelho.e.os.-sete.-anoes_202103/Sapatinho.Vermelho.e.os.Sete.Anoes.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CtNWCeC.jpg" group-title="Filmes Livres",Gasparzinho O Fantasminha Camarada(1995)
 https://ia601509.us.archive.org/15/items/gasparzinho-o-fantasminha-camarada-1995/Gasparzinho%20o%20Fantasminha%20Camarada%20%281995%29.ia.mp4
