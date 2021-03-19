@@ -275,36 +275,15 @@ https://5c483b9d1019c.streamlock.net/8078/8078/chunklist.m3u8
 
 #################### GLOBO LOCAL
 
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="GLOBO LOCAL",Globo TV Rio Sul HD2
-http://dnsx.co:80/live/0915597625/fireurl.co/72081.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="GLOBO LOCAL",Globo TV Rio Sul SD2
-http://dnsx.co:80/live/0915597625/fireurl.co/72082.m3u8
-
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="GLOBO LOCAL",Globo TV Rio Sul HD3
 http://dnsx.co:80/live/0165466866/fireurl.co/72081.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="GLOBO LOCAL",Globo TV Rio Sul SD3
 http://dnsx.co:80/live/0165466866/fireurl.co/72082.m3u8
 
-#EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title="GLOBO LOCAL",Globo Tv Rio Sul HD4
-http://pfsv.io:80/live/4fkf5aYNZs/imaginationurl.me/416.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title="GLOBO LOCAL",Globo Tv Rio Sul SD4
-http://pfsv.io:80/live/4fkf5aYNZs/imaginationurl.me/452.m3u8
-
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="GLOBO LOCAL",Globo TV Sergipe HD2
-http://dnsx.co:80/live/0915597625/fireurl.co/72087.m3u8
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="GLOBO LOCAL",Globo TV Sergipe SD2
-http://dnsx.co:80/live/0915597625/fireurl.co/72088.m3u8
-
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="GLOBO LOCAL",Globo TV Sergipe HD3
 http://dnsx.co:80/live/0165466866/fireurl.co/72087.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="GLOBO LOCAL",Globo TV Sergipe SD3
 http://dnsx.co:80/live/0165466866/fireurl.co/72088.m3u8
-
-http://pfsv.io:80/live/4fkf5aYNZs/imaginationurl.me/359.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title="GLOBO LOCAL",Globo Tv Sergipe HD4
-http://pfsv.io:80/live/4fkf5aYNZs/imaginationurl.me/402.m3u8
-#EXTINF:-1 tvg-logo="http://z4.vc/osc" group-title="GLOBO LOCAL",Globo Tv Sergipe SD4
-http://pfsv.io:80/live/4fkf5aYNZs/imaginationurl.me/439.m3u8
 
 #################################################################################  TV Record ##############################
 
@@ -424,10 +403,10 @@ http://dnsx.co:80/0915597625/fireurl.co/72191
 ################################################################################# Filmes e Series
 
 #EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount
-http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount HD
-http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v1a1/mono.m3u8
 
 ################################################################################ Esportes
 
