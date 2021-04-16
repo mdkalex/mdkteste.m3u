@@ -1,29 +1,3 @@
-################################################################################# BBB ##################################################################
-
-#EXTINF:-1 group-title="BBB" tvg-logo="https://i.imgur.com/LURJTxY.png",BBB Acompanhe a Casa
-http://rec3.distv.net:8080/MICHELLE_DANTAS/1234/291
-
-#EXTINF:-1 group-title="BBB" tvg-logo="https://i.imgur.com/LURJTxY.png",BBB Acompanhe a Casa 2
-http://rec3.distv.net:8080/MICHELLE_DANTAS/1234/292
-
-#EXTINF:-1 group-title="BBB" tvg-logo="https://i.imgur.com/LURJTxY.png",BBB Confessionario
-http://rec3.distv.net:8080/MICHELLE_DANTAS/1234/294
-
-#EXTINF:-1 group-title="BBB" tvg-logo="https://i.imgur.com/LURJTxY.png",BBB Cozinha Vip Xepa
-http://rec3.distv.net:8080/MICHELLE_DANTAS/1234/295
-
-#EXTINF:-1 group-title="BBB" tvg-logo="https://i.imgur.com/LURJTxY.png",BBB Mosaico
-http://rec3.distv.net:8080/MICHELLE_DANTAS/1234/296
-
-#EXTINF:-1 group-title="BBB" tvg-logo="https://i.imgur.com/LURJTxY.png",BBB Piscina
-http://rec3.distv.net:8080/MICHELLE_DANTAS/1234/297
-
-#EXTINF:-1 group-title="BBB" tvg-logo="https://i.imgur.com/LURJTxY.png",BBB Quarto Colorido
-http://rec3.distv.net:8080/MICHELLE_DANTAS/1234/298
-
-#EXTINF:-1 group-title="BBB" tvg-logo="https://i.imgur.com/LURJTxY.png",BBB Sala de Estar
-http://rec3.distv.net:8080/MICHELLE_DANTAS/1234/299
-
 ################################################################################# Pluto CINE ##################################################################
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Pluto CINE",Cine Comédia
@@ -322,9 +296,6 @@ http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8?PEDROJUNIORTUTORIAIS
 
 #################################################################################  Infantil ##############################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fWKD8gK.jpg" group-title="Infantil",Animais engraçados com Binho & Mel
-https://archive.org/download/animais-engracados-e-bebes-caes-e-gatos-engracados-merge/Animais%20engrac%CC%A7ados%20e%20bebe%CC%82s%20-%20Ca%CC%83es%20e%20gatos%20engrac%CC%A7ados_Merge.ia.mp4
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/me7Ae0Q.png" group-title="Infantil",Retrô Cartoon
 http://stmv1.srvif.com:1935/retrotv/retrotv/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -349,26 +320,11 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-p.m3u8?PE
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel HD
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon
-http://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon HD
-http://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.
-http://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr. HD
-http://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Nick Clássico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5f12151794c1800007a8ae63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Nick Jr. Club
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-
-#EXTINF:-1 tvg-id="Zoo Moo Kids" tvg-logo="http://i.imgur.com/WCFVJCx.png" group-title="Infantil",Zoo Moo Kids HD1
-http://origin-02.nxplay.com.br/ZOOMOO_HD_NX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Infantil",Pluto TV Kids HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=703&deviceId=5f12141b146d760007934ea7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
@@ -390,9 +346,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc0007
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/pBv3Lz0.jpg" group-title="Infantil",A vida moderna de Rocko 24horas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=731&deviceId=5f6df6293a12e10007017396&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JR1j1bH.jpg" group-title="Infantil",Nat Geo Kids SD2
-http://dnsx.co:80/0915597625/fireurl.co/72191
 
 ################################################################################# Filmes e Series
 
