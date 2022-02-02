@@ -370,14 +370,8 @@ http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?PEDR
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports
 http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SPORTV2" tvg-logo="https://i.imgur.com/NbsZCd1.jpg" group-title="Esportes",SPORTV 2 HD2
-http://dnsx.co:80/0915597625/fireurl.co/72324
-
 #EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://i.imgur.com/XxICEwC.jpg" group-title="Esportes",SPORTV HD1
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://i.imgur.com/XxICEwC.jpg" group-title="Esportes",SPORTV HD2
-http://dnsx.co:80/0915597625/fireurl.co/72331
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports HD
 http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
@@ -400,25 +394,11 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.canaison.com/canais/fox-sports-new.jpg" group-title="Esportes",Fox Sports 1 site
 http://svrhost.club/QDAENLGI/6K94SOWV/3290?tkn=1608396171
 
-#EXTINF:-1 tvg-id="FOX SPORT" tvg-logo="https://www.canaison.com/canais/fox-sport-2-new.jpg" group-title="Esportes",Fox Sports 2 site
-http://dnsx.co:80/0915597625/fireurl.co/71960
-
 #EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat SD
 http://assistirpainel.ddns.net:8880/34125123652/3412512365/2319
 
-#EXTINF:-1 tvg-id="COMBAT" tvg-logo="https://i.imgur.com/lBv96uh.jpg" group-title="Esportes",Combat HD2
-http://dnsx.co:80/0915597625/fireurl.co/71845
-
 ####################################################################  Variedades #############################
 
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/izfepdy.png" group-title="Variedades",TLC - site 1
-http://xdgo.live:8080/fparejaf/fZ5B5jgmQ5/1021
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/izfepdy.png" group-title="Variedades",TLC - site 2
-http://akamaizedx.com:80/davimusse/dms1520/10039650
-
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/zB2y7AB.png" group-title="Variedades",Food Network HD2
-http://dnsx.co:80/0915597625/fireurl.co/71934
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Multishow_HD_logo.png" group-title="Variedades",MULTISHOW HD
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
@@ -434,12 +414,6 @@ http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Variedades",Paramount HD
 http://origin-02.nxplay.com.br/PCBR_HD_NXPLAY/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c3reMwA.jpg" group-title="Variedades",Canal Viva HD3
-http://srvx.io:80/0165466866/fireurl.co/90289
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c3reMwA.jpg" group-title="Variedades",Canal Viva SD3
-http://srvx.io:80/0165466866/fireurl.co/90290
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades",Multishow
 http://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_1417/playlist.m3u8?PEDROJUNIORTUTORIAIS
