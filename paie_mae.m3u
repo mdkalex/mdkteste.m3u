@@ -443,23 +443,11 @@ https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/as0ly7a.png" group-title="DOCUMENTARIOS",ANIM NATURE
 http://200.194.238.236:5000/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OEntvna.jpg" group-title="DOCUMENTARIOS",Discovery Channel 
-http://xdgo.live:8080/josevflive/VPgrUfTYwB/1005
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2AmwZmm.jpg" group-title="DOCUMENTARIOS", Discovery Channel HD
-http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryChannelHD&login=Povsman&key=Bb9r2bM
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2AmwZmm.jpg" group-title="DOCUMENTARIOS", Discovery Channel FHD
-http://srvx.io:80/0165466866/fireurl.co/90571
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BOEIiiG.png" group-title="DOCUMENTARIOS", Discovery TLC SD (MX)
 http://hidraplay.tv:80/tlleklnk/Gw3h655Hfy/34820
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet ingles SD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/14iRrFh.png" group-title="DOCUMENTARIOS", Animal Planet SD3
-http://srvx.io:80/0165466866/fireurl.co/90620
 
 ############################### Cine Classic ########################################
 
