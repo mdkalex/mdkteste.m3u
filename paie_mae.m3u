@@ -226,45 +226,43 @@ http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="TV Aberta",TV NOVA ONDA 
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist.m3u8
 
-#################################################################################  TV Record ##############################
-
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Record",Record BA SD
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record BA SD
 http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
  
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Record",Record BA HD
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record BA HD
 http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
  
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Record",Record DF SD
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record DF SD
 http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
  
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Record",Record DF HD
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record DF HD
 http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
  
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Record",Record MG SD
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record MG SD
 http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
  
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Record",Record MG HD
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record MG HD
 http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
  
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Record",Record PA SD
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record PA SD
 http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
  
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Record",Record PA HD
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record PA HD
 http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
  
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Record",Record GO
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record GO
 http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
  
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Record",Record GO HD
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record GO HD
 http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
  
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Record",Record RS
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record RS
 http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
  
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Record",Record RS HD
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record RS HD
 http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
  
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Record",Record MT
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record MT
 http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8?PEDROJUNIORTUTORIAIS
 
 #################################################################################  Infantil ##############################################################################
