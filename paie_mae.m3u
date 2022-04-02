@@ -193,7 +193,7 @@ http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8?PEDROJUNI
 http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="BAND" group-title="TV Aberta",Band PR
-https://streaming.gruporba.com.br/rba.m3u8
+https://streaming.gruporba.com.br/rba.m3u8?PEDROJUNIORTUTORIAIS
 
 ################################################################################# Pluto CINE ##################################################################
 
