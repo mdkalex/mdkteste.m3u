@@ -141,6 +141,13 @@ http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8
 #EXTINF:-1 tvg-id="BAND" group-title="TV Aberta",TV CHANNEL NETWORK
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist_w1577710403.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uFqHIRE.jpg" group-title="TV Aberta", BAND SP
+http://evpp.mm.uol.com.br:1935/geob_band/band/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uFqHIRE.jpg" group-title="TV Aberta", BAND SP INTERIOR
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+ 
+
 ################################################################################# Pluto CINE ##################################################################
 
 #EXTINF:-1 group-title="CINEMA", 24H LANCAMENTOS
